@@ -1,0 +1,55 @@
+---
+title: "Décret n°2006-1749 du 23 décembre 2006 relatif à la protection sociale du volontaire associatif et modifiant le code de la sécurité sociale (troisième partie : Décrets)"
+identifier: "LEGITEXT000006055105"
+cid: "JORFTEXT000000645192"
+nature: "DECRET"
+number: "2006-1749"
+nor: "SANS0624837D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2006-12-23
+last_amended: 2010-05-14
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006055105"
+retrieved: 2026-10-11
+---
+
+# Décret n°2006-1749 du 23 décembre 2006 relatif à la protection sociale du volontaire associatif et modifiant le code de la sécurité sociale (troisième partie : Décrets)
+
+Le Premier ministre,\
+Sur le rapport du ministre de la santé et des solidarités,\
+Vu le code de la sécurité sociale ;\
+Vu la loi n° 2006-586 du 23 mai 2006 relative au volontariat associatif et à l'engagement éducatif, notamment son article 13 dans sa rédaction issue de l'article 142 de la loi n° 2006-1640 du 21 décembre 2006 de financement de la sécurité sociale pour 2007 ;\
+Vu l'avis du conseil d'administration de la Caisse nationale d'assurance vieillesse des travailleurs salariés en date du 4 octobre 2006 ;\
+Vu l'avis du conseil d'administration de la Caisse nationale des allocations familiales en date du 3 octobre 2006 ;\
+Vu l'avis du conseil de la Caisse nationale de l'assurance maladie des travailleurs salariés en date du 11 octobre 2006 ;\
+Vu l'avis de l'Agence centrale des organismes de sécurité sociale en date du 29 septembre 2006 ;\
+Vu l'avis de la commission des accidents du travail et des maladies professionnelles en date du 3 octobre 2006,
+
+## Article 4
+
+Le ministre de l'économie, des finances et de l'industrie, le ministre de la santé et des solidarités, le ministre de la jeunesse, des sports et de la vie associative, le ministre délégué au budget et à la réforme de l'Etat, porte-parole du Gouvernement, et le ministre délégué à la sécurité sociale, aux personnes âgées, aux personnes handicapées et à la famille sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+---
+
+Par le Premier ministre :\
+Dominique de Villepin\
+Le ministre de la santé et des solidarités,\
+Xavier Bertrand\
+Le ministre de l'économie,\
+des finances et de l'industrie,\
+Thierry Breton\
+Le ministre de la jeunesse, des sports\
+et de la vie associative,\
+Jean-François Lamour\
+Le ministre délégué au budget\
+et à la réforme de l'Etat,\
+porte-parole du Gouvernement,\
+Jean-François Copé\
+Le ministre délégué à la sécurité sociale,\
+aux personnes âgées,\
+aux personnes handicapées\
+et à la famille,\
+Philippe Bas
