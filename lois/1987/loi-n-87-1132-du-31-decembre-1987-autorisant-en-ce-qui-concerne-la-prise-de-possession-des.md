@@ -1,0 +1,117 @@
+---
+title: "Loi n° 87-1132 du 31 décembre 1987 autorisant, en ce qui concerne la prise de possession des immeubles nécessaires à l'organisation ou au déroulement des XVIes jeux Olympiques d'hiver d'Albertville et de la Savoie, l'application de la procédure d'extrême urgence et la réquisition temporaire."
+identifier: "LEGITEXT000006068989"
+cid: "JORFTEXT000000321408"
+nature: "LOI"
+number: "87-1132"
+nor: "EQUX8700122L"
+type: act
+jurisdiction: fr
+language: fr
+date: 1987-12-31
+last_amended: 1988-01-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068989"
+retrieved: 2026-10-11
+---
+
+# Loi n° 87-1132 du 31 décembre 1987 autorisant, en ce qui concerne la prise de possession des immeubles nécessaires à l'organisation ou au déroulement des XVIes jeux Olympiques d'hiver d'Albertville et de la Savoie, l'application de la procédure d'extrême urgence et la réquisition temporaire.
+
+## TITRE Ier : DE LA PROCEDURE D'EXTREME URGENCE.
+
+### Article 1
+
+La procédure prévue à l'article L. 15-9 du code de l'expropriation pour cause d'utilité publique pourra être appliquée dans l'arrondissement d'Albertville, dans les cantons de Chamoux et d'Aiguebelle et dans les communes de Voglans et de la Motte-Servolex, en vue de la prise de possession immédiate par l'Etat, les collectivités publiques ou leurs concessionnaires de tous immeubles, bâtis ou non bâtis, dont l'acquisition est nécessaire à l'organisation ou au déroulement des XVIe Jeux olympiques d'hiver d'Albertville et de la Savoie. Les décrets sur avis conforme du Conseil d'Etat prévus audit article L. 15-9 devront être pris au plus tard le 30 septembre 1991.
+
+### Article 2
+
+Pour les opérations réalisées en application de l'article premier, l'expropriant est tenu envers les occupants des immeubles intéressés aux obligations prévues aux articles L. 314-2 à L. 314-8 du code de l'urbanisme.\
+Les occupants sont les propriétaires occupants, les locataires, les occupants de bonne foi maintenus dans les lieux et les preneurs de baux professionnels, commerciaux, artisanaux, industriels ou ruraux.
+
+## TITRE II : DE LA REQUISITION.
+
+### Article 3
+
+Dans le département de la Savoie, le représentant de l'Etat peut, à titre exceptionnel, procéder à la réquisition temporaire de parcelles ou parties de parcelles, ne comportant pas de bâtiments, nécessaires à l'organisation ou au déroulement des XVIe Jeux olympiques d'hiver d'Albertville et de la Savoie.
+
+Ces réquisitions devront prendre fin au plus tard le 31 décembre 1992.
+
+La réquisition ne peut être ordonnée qu'au bénéfice de personnes publiques ou privées chargées de l'organisation des Jeux olympiques d'hiver d'Albertville et de la Savoie ou de personnes publiques concourant à leur déroulement.
+
+Le bénéficiaire éventuel de la réquisition joint à la demande qu'il présente au représentant de l'Etat dans le département l'avis du directeur des services fiscaux sur les offres d'indemnités qu'il sera conduit, le cas échéant, à formuler.
+
+### Article 4
+
+L'arrêté de réquisition fixe les dates de début et de fin de la réquisition.\
+Il en mentionne le bénéficiaire et précise l'usage pour lequel elle est ordonnée.\
+Il opère le transfert de droit d'usage et autorise le bénéficiaire à prendre possession.
+
+### Article 5
+
+Les indemnités allouées au prestataire doivent couvrir l'intégralité du préjudice direct, matériel et certain causé par la réquisition.\
+A défaut d'accord amiable, les indemnités sont fixées par le juge de l'expropriation. Le juge peut statuer par provision. Le bénéficiaire ne peut prendre possession qu'après paiement ou, en cas d'obstacle au paiement, consignation d'une somme dont le montant est au moins égal à l'indemnité, le cas échéant provisionnelle, fixée par le juge de première instance. L'appel n'est pas suspensif.\
+Si, à défaut d'accord amiable, le juge n'a pas été saisi par le bénéficiaire dans un délai de trois mois à compter de la notification de l'arrêté de réquisition à celui-ci, la réquisition est réputée levée à l'expiration de ce délai.
+
+### Article 6
+
+Il est procédé aux frais du bénéficiaire à un constat de l'état des lieux au moment de la prise de possession et en fin de réquisition.
+
+### Article 7
+
+Le bénéficiaire de la réquisition est propriétaire des installations et des équipements qu'il réalise.
+
+### Article 8
+
+Le bénéficiaire est tenu de remettre les terrains dans leur état d'origine au plus tard à l'expiration de la réquisition ou, au cas où il est fait application de l'article 10, dans le délai fixé par l'arrêté levant la réquisition. Les litiges résultant de l'application du présent alinéa sont portés devant le juge de l'expropriation. A peine de forclusion, le juge doit être saisi dans un délai de deux ans à compter de l'expiration ou de la levée de la réquisition.\
+Toutefois, les parties intéressées peuvent convenir, par stipulation expresse, du maintien de certains équipements ou installations et des conditions financières de ce maintien.
+
+### Article 9
+
+Le paiement des indemnités, des intérêts et, éventuellement, des dommages-intérêts ainsi que la réalisation des remises en état incombant au bénéficiaire sont garantis par l'Etat.\
+Lorsque l'Etat a été appelé en garantie, les accords amiables intervenus entre l'Etat et le prestataire sont opposables au bénéficiaire.\
+Le bénéficiaire est redevable de l'intérêt au taux légal sur les sommes avancées par l'Etat au titre de la garantie à compter du jour du versement desdites sommes.
+
+### Article 10
+
+Au cas où le bénéficiaire de la réquisition n'utilise pas le terrain comme il est dit dans l'arrêté de réquisition ou ne respecte pas ses obligations, le représentant de l'Etat peut prononcer la levée immédiate de la réquisition sans versement d'une indemnité au bénéficiaire et, le cas échéant, fixer le délai dans lequel celui-ci sera tenu de remettre les terrains dans leur état d'origine.
+
+### Article 11
+
+Au cas où le prestataire est locataire, sous-locataire ou occupant de bonne foi du bien requis ou titulaire d'un droit d'usage sur ce bien, il reste tenu au paiement du loyer, du fermage ou de la redevance.
+
+### Article 12
+
+En cas de besoin, le représentant de l'Etat peut recourir à la force publique pour libérer le terrain de ses occupants tant au moment de la prise de possession qu'au moment de la restitution en fin de réquisition.
+
+### Article 13
+
+Les dispositions de l'ordonnance n° 59-63 du 6 janvier 1959, relative aux réquisitions de biens et de services, ne sont pas applicables aux réquisitions opérées en application du présent titre.
+
+## TITRE III : DISPOSITIONS COMMUNES.
+
+### Article 14
+
+Un décret en Conseil d'Etat détermine les conditions d'application de la présente loi et notamment, en ce qui concerne son titre II :\
+a) les justifications qui doivent être apportées à l'appui de la demande de réquisition ;\
+b) les conditions dans lesquelles il est procédé au constat de l'état des lieux ;\
+c) les conditions dans lesquelles la garantie de l'Etat est requise et exercée.
+
+---
+
+FRANçOIS MITTERRAND Par le Président de la République :\
+Le Premier ministre,\
+JACQUES CHIRAC\
+Le ministre d'Etat, ministre de l'économie,\
+des finances et de la privatisation,\
+ÉDOUARD BALLADUR\
+Le garde des sceaux, ministre de la justice,\
+ALBIN CHALANDON\
+Le ministre de l'intérieur,\
+CHARLES PASQUA\
+Le ministre de l'équipement, du logement,\
+de l'aménagement du territoire et des transports,\
+PIERRE MÉHAIGNERIE\
+Le secrétaire d'Etat auprès du Premier ministre,\
+chargé de la jeunesse et des sports,\
+CHRISTIAN BERGELIN

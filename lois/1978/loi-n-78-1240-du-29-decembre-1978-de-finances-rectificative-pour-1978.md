@@ -1,0 +1,97 @@
+---
+title: "Loi n° 78-1240 du 29 décembre 1978 de Finances rectificative pour 1978"
+identifier: "LEGITEXT000006068622"
+cid: "JORFTEXT000000522721"
+nature: "LOI"
+number: "78-1240"
+type: act
+jurisdiction: fr
+language: fr
+date: 1978-12-29
+last_amended: 2013-01-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068622"
+retrieved: 2026-10-11
+---
+
+# Loi n° 78-1240 du 29 décembre 1978 de Finances rectificative pour 1978
+
+## Première partie : Dispositions permanentes
+
+### A. - Mesures d'ordre fiscal.
+
+#### Article 1
+
+Pour la fixation des éléments de calcul des bénéfices agricoles forfaitaires de l'année 1977 :\
+1. La validité des décisions prises par les commissions départementales et, le cas échéant, des appels formés devant la commission centrale contre ces décisions n'est pas soumise aux conditions de procédure prévues aux articles 64 et 66 du code général des impôts ;\
+2. La commission centrale est saisie de plein droit en l'absence de décision ou de réunion des commissions départementales avant le 1er juin 1978.
+
+#### Article 2
+
+En matière d'impôt sur le revenu, lorsqu'elle exerce personnellement une activité dont les produits relèvent de la catégorie des bénéfices industriels et commerciaux, des bénéfices agricoles ou des bénéfices non commerciaux ou revenus assimilés, la femme mariée souscrit elle-même les déclarations spéciales correspondant à ces catégories de revenus. Les procédures de fixation des bases d'imposition ou de rectification des déclarations sont suivies entre l'administration et l'intéressée et, sans préjudice du droit de réclamation du contribuable, produisent directement effet pour la détermination du revenu global. Sur la demande que le contribuable souscrit en même temps que la déclaration d'ensemble des revenus du foyer, l'administration des impôts lui fait connaître distinctement, par lettre recommandée avec accusé de réception, les compléments ou modifications que l'administration a décidé d'apporter à cette déclaration du fait de ces procédures.\
+Le fait que les procédures aient été conduites directement avec la femme mariée avant l'entrée en vigueur du présent article n'est pas par lui-même de nature à entacher ces procédures d'irrégularité.
+
+#### Article 3
+
+I. Paragraphe modificateur\
+II. - 1. L'exercice d'imposition coïncide avec l'année civile pour l'application du régime simplifié.\
+2. Lorsqu'un exploitant passe, en cours d'année, du régime d'imposition d'après le bénéfice réel prévu à l'article 69 quater du code général des impôts au régime simplifié d'imposition, le premier exercice pour lequel l'exploitant est soumis au nouveau régime est clos le 31 décembre de la même année. Le bénéfice de cet exercice fait l'objet d'une imposition distincte établie d'après le taux moyen prévu au paragraphe 3 ci-dessous si le dernier exercice clos sous le régime réel est au moins égal à douze mois. Dans le cas contraire, ou lorsque le taux moyen est égal à zéro, ce bénéfice est ajouté au résultat du dernier exercice clos sous le régime réel et imposé dans les conditions prévues pour celui-ci.\
+3. Le taux moyen mentionné ci-dessus est celui effectivement appliqué aux revenus de l'intéressé imposés au titre de l'année de clôture du dernier exercice soumis au régime du bénéfice réel, à l'exclusion du bénéfice agricole faisant l'objet de l'imposition distincte prévue au 2.\
+III. - La déclaration de résultats et les documents mentionnés à l'article 68 D du code général des impôts doivent être adressés à l'administration des impôts au plus tard le 15 juin de l'année suivant celle au titre de laquelle l'imposition est établie.\
+IV. - Les dispositions du présent article s'appliquent pour la première fois aux bénéfices des exercices ouverts à compter du 1er janvier 1977.
+
+### B. - Autres mesures.
+
+#### Article 5
+
+A titre exceptionnel, à compter du 1er janvier 1980, il est établi pour les années civiles 1980 et 1981 une contribution additionnelle complémentaire de 5 p. 100 sur toutes les primes ou cotisations afférentes aux conventions d'assurance couvrant les risques de responsabilité civile et de dommages relatifs aux véhicules et engins terrestres à moteur des exploitants agricoles ou de leurs groupements affectés à l'usage de leurs exploitations.\
+Pendant cette même période, la subvention de l'Etat prévue à l'article 3 de la loi n° 64-706 du 10 juillet 1964 organisant un régime de garantie contre les calamités agricoles est majorée pour tenir compte du produit de cette contribution complémentaire.
+
+#### Article 8
+
+I.-Seront transférés en toute propriété et à titre gratuit aux communes qui sont desservies en eau potable par le service des eaux et fontaines de Versailles, Marly et Saint-Cloud, les biens meubles et immeubles du domaine national mis à la disposition de ce service pour assurer la fourniture de l'eau potable.\
+II.-Pendant un délai de trente ans à compter du jour de la mutation de propriété, tout immeuble transféré en application du I, qui ne serait plus utilisé pour le service d'eau potable, sera rétrocédé gratuitement à l'Etat.\
+III.-Des conventions approuvées par décret en Conseil d'Etat préciseront la consistance des biens transférés en application du I, les droits et obligations qui seront attachés à ces opérations ainsi que la date des transferts.\
+IV.-Les actes administratifs destinés à constater les transferts prévus ci-dessus ne donneront lieu ni à perception de droits et taxes, ni au versement de la contribution prévue à l'article 879 du code général des impôts ou d'honoraires.\
+V.-Les personnels ouvriers et de maîtrise du service des eaux et fontaines de Versailles, Marly et Saint-Cloud en position d'activité, ayant la qualité de fonctionnaire de l'Etat à la date des transferts, pourront, sur leur demande, être intégrés dans les cadres des personnels des collectivités auxquelles sera confiée l'exploitation du service d'eau potable.\
+Les personnels qui demanderont à conserver la qualité de fonctionnaire de l'Etat pourront être détachés, jusqu'à cessation définitive de fonctions, auprès des collectivités intéressées. Les conventions prévues au III ci-dessus garantiront à ces personnels le maintien des conditions et avantages dont ils bénéficient dans leur corps d'origine.\
+Les conditions d'application des dispositions ci-dessus seront fixées par décret en Conseil d'Etat.\
+VI.-Les transferts visés au I devront être effectués avant le 31 décembre 1979.
+
+#### Article 10
+
+I. - A compter du 1er janvier 1978, le produit des amendes de police relatives à la circulation routière est prélevé sur les recettes de l'Etat au profit du fonds d'action locale prévu par l'article L. 234-5 du code des communes en vue de financer des opérations destinées à améliorer les transports en commun et la circulation.\
+II. Paragraphe modificateur.
+
+#### Article 11
+
+Sont nulles et de nul effet, comme contraires au principe de l'égalité devant l'impôt, toutes délibérations des assemblées délibérantes des départements et des communes ayant pour effet la restitution, directement ou par l'intermédiaire de tout établissement public ou organisme privé, à certains redevables ou à tous les redevables mais avec des modalités discriminatoires, de tout ou partie de leurs cotisations à un ou à plusieurs impôts perçus pour le compte du département ou de la commune.\
+La nullité est constatée par le préfet. Elle emporte annulation des inscriptions de crédits correspondantes.
+
+#### Article 13
+
+Le montant autorisé du fonds des approvisionnements généraux du service des essences des armées est porté de 270 000 000 F à 335 000 000 F.\
+Le financement de cette augmentation sera assuré en tant que de besoin par prélèvements sur les excédents de recettes passés ou à venir du budget annexe des essences, avant tout reversement au Trésor.
+
+#### Article 14
+
+Le ministre de l'économie est autorisé à donner la garantie de l'Etat dans la limite d'un montant de 34 200 000 F à l'emprunt contracté par l'agence de coopération culturelle et technique en vue de financer l'achat d'un immeuble destiné à loger ses services.
+
+#### Article 15
+
+Est autorisée la consolidation sous forme de prêt imputable au compte spécial n° 903-15 "Avances du Trésor consolidées par transformation en prêts du Trésor" de l'avance de 75 millions de francs accordée le 14 septembre 1974 à l'Office de radiodiffusion télévision française. La dette correspondant à ce prêt est répartie entre les établissements publics et les sociétés nationales issus de l'office dans les mêmes conditions que l'actif et la passif à court terme figurant à son bilan.
+
+#### Article 16
+
+L'Etat est autorisé à acquérir, dans la limite de 21 p. 100 du capital de la société des avions Marcel Dassault-Breguet-Aviation, des actions qui bénéficieront d'un droit de vote double, conformément aux statuts de cette société.\
+En application de l'article 18 de l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances, est autorisée, pour le financement de cette prise de participation, dans la limite de 540 millions de francs, l'affectation des recettes résultant du remboursement des avances consenties par l'Etat à la société pour le soutien du développement de ses programmes et du règlement des redevances dues par la société à l'Etat au titre de marchés d'études et conventions.
+
+---
+
+Par le Président de la République :\
+Valéry Giscard d'Estaing.\
+Le Premier ministre :\
+Raymond Barre.\
+Le ministre du budget :\
+Maurice Papon.

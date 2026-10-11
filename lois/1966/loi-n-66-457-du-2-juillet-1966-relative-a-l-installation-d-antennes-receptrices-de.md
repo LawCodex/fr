@@ -1,0 +1,63 @@
+---
+title: "Loi n° 66-457 du 2 juillet 1966 relative à l'installation d'antennes réceptrices de radiodiffusion"
+identifier: "LEGITEXT000006068282"
+cid: "JORFTEXT000000692466"
+nature: "LOI"
+number: "66-457"
+type: act
+jurisdiction: fr
+language: fr
+date: 1966-07-02
+last_amended: 2014-03-15
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068282"
+retrieved: 2026-10-11
+---
+
+# Loi n° 66-457 du 2 juillet 1966 relative à l'installation d'antennes réceptrices de radiodiffusion
+
+## Article 1
+
+I.-Le propriétaire d'un immeuble ne peut, nonobstant toute convention contraire, même antérieurement conclue, s'opposer, sans motif sérieux et légitime à l'installation, à l'entretien ou au remplacement ainsi qu'au raccordement au réseau interne à l'immeuble, aux frais d'un ou plusieurs locataires ou occupant de bonne foi, que ces derniers soient personnes physiques ou morales, d'une antenne extérieure réceptrice de radiodiffusion ou réceptrice et émettrice de télécommunication fixe.
+
+L'offre, faite par le propriétaire, de raccordement soit à une antenne collective, soit à un réseau interne à l'immeuble qui fournissent un service collectif dont le contenu et la tarification sont définis par un accord collectif pris en application de l'article 42 de la loi n° 86-1290 du 23 décembre 1986 tendant à favoriser l'investissement locatif, l'accession à la propriété de logements sociaux et le développement de l'offre foncière et constitue, notamment, un motif sérieux et légitime de s'opposer à l'installation ou au remplacement d'une antenne individuelle.
+
+Les modalités de remplacement d'une antenne collective par un autre mode de réception des programmes sont déterminées par un accord collectif pris en application de l'article 42 de la loi n° 86-1290 du 23 décembre 1986 précitée.
+
+Toutefois, le propriétaire d'un immeuble ne peut s'opposer, sans motif sérieux et légitime, à l'installation, au remplacement ou à l'entretien des antennes individuelles, émettrices et réceptrices, nécessaires au bon fonctionnement de stations du service amateur autorisées conformément à la réglementation en vigueur. Les bénéficiaires sont responsables, chacun en ce qui le concerne, des travaux d'installation, d'entretien ou de remplacement et des conséquences que pourrait comporter la présence des antennes en cause.
+
+II.-Le propriétaire d'un immeuble ne peut, nonobstant toute convention contraire, même antérieurement conclue, s'opposer sans motif sérieux et légitime au raccordement à un réseau de communications électroniques à très haut débit en fibre optique ouvert au public ainsi qu'à l'installation, à l'entretien ou au remplacement des équipements nécessaires, aux frais d'un ou plusieurs locataires ou occupants de bonne foi.
+
+Constitue notamment un motif sérieux et légitime de s'opposer au raccordement à un réseau de communications électroniques à très haut débit en fibre optique ouvert au public la préexistence de lignes de communications électroniques en fibre optique permettant de répondre aux besoins spécifiques du demandeur. Dans ce cas, le propriétaire peut demander que le raccordement soit réalisé au moyen desdites lignes, dans les conditions prévues par l'article L. 34-8-3 du code des postes et des communications électroniques.
+
+Constitue également un motif sérieux et légitime de s'opposer au raccordement à un réseau de communications électroniques à très haut débit en fibre optique ouvert au public la décision prise par le propriétaire, dans un délai de six mois suivant la demande du ou des locataires ou occupants de bonne foi, d'installer des lignes de communications électroniques à très haut débit en fibre optique en vue d'assurer la desserte de l'ensemble des occupants de l'immeuble dans des conditions satisfaisant les besoins spécifiques du demandeur. Dans ce cas, une convention est établie entre le propriétaire de l'immeuble et l'opérateur dans les conditions prévues par l'article L. 33-6 du code des postes et des communications électroniques.
+
+Lorsqu'elles sont réalisées par un opérateur de communications électroniques exploitant un réseau ouvert au public, les opérations d'installation mentionnées au premier alinéa du présent II se font dans les conditions financières prévues à l'article L. 33-6 du code des postes et des communications électroniques.
+
+Le présent II est applicable à tous les immeubles à usage d'habitation ou à usage mixte, quel que soit leur régime de propriété.
+
+## Article 2
+
+Le propriétaire qui a installé à ses frais une antenne collective ou un réseau interne à l'immeuble fournissant un service collectif est fondé à demander à chaque usager acceptant de se raccorder à cette antenne collective ou à ce réseau interne, à titre de frais de branchement et d'utilisation, une quote-part des dépenses d'installation, d'entretien et de remplacement.
+
+## Article 3
+
+Le propriétaire peut, après un préavis de deux mois, raccorder les récepteurs individuels à l'antenne collective et déposer les antennes extérieures précédemment installées par des locataires ou occupants de bonne foi, lorsqu'il prend en charge les frais d'installation et de raccordement de l'antenne collective et les frais de démontage des antennes individuelles.
+
+## Article 4
+
+La présente loi est applicable aux immeubles qui se trouvent en indivision ou qui sont soumis au régime de la copropriété.\
+Les indivisaires, les copropriétaires et les membres des sociétés de construction peuvent, lorsqu'ils sont occupants, se prévaloir des dispositions de la présente loi.
+
+## Article 5
+
+La présente loi entrera en vigueur le 1er janvier 1967. Le décret n° 53-987 du 30 septembre 1953, pris en vertu de la loi n° 53-611 du 11 juillet 1953, sera abrogé à cette date.
+
+## Article 6
+
+Un décret en Conseil d'Etat déterminera les conditions d'application de la présente loi.
+
+## Article 7
+
+La présente loi est applicable en Nouvelle-Calédonie, dans les territoires de la Polynésie française, des îles Wallis-et-Futuna et à Mayotte.

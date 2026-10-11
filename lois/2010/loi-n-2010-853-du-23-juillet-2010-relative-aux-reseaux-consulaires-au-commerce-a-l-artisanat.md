@@ -1,0 +1,247 @@
+---
+title: "LOI n° 2010-853 du 23 juillet 2010 relative aux réseaux consulaires, au commerce, à l'artisanat et aux services"
+identifier: "LEGITEXT000022513211"
+cid: "JORFTEXT000022511227"
+nature: "LOI"
+number: "2010-853"
+nor: "ECEX0913300L"
+type: act
+jurisdiction: fr
+language: fr
+date: 2010-07-23
+last_amended: 2015-08-08
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000022513211"
+retrieved: 2026-10-11
+---
+
+# LOI n° 2010-853 du 23 juillet 2010 relative aux réseaux consulaires, au commerce, à l'artisanat et aux services
+
+## Article
+
+L'Assemblée nationale et le Sénat ont adopté,\
+Le Président de la République promulgue la loi dont la teneur suit :
+
+## TITRE IER : REFORME DES RESEAUX CONSULAIRES
+
+### CHAPITRE IER : CHAMBRE DE COMMERCE ET d'INDUSTRIE
+
+#### Article 9
+
+I et II. - A abrogé les dispositions suivantes :
+
+> - LOI n°2009-1673 du 30 décembre 2009
+>
+> > Art. 79
+
+A modifié les dispositions suivantes :
+
+> - Code général des impôts, CGI.
+>
+> > Art. 1600
+
+> - Loi n° 95-1346 du 30 décembre 1995
+>
+> > Art. 106
+> >
+> > III. - Le présent article entre en vigueur à compter des impositions établies au titre de 2011. Jusqu'à la création de la chambre de commerce et d'industrie de région Paris - Ile-de-France, la chambre régionale de commerce et d'industrie de Paris - Ile-de-France perçoit le produit de la taxe pour frais de chambre définie par le présent article et le répartit, sous déduction de sa propre quote-part, entre les chambres de commerce et d'industrie de la région d'Ile-de-France.
+
+IV. - Avant le 1er janvier 2014, le Gouvernement remet au Parlement un rapport dressant un bilan précis de la mise en œuvre et de l'impact du nouveau régime de la taxe pour frais de chambres de commerce et d'industrie de région et du fonds de financement des chambres de commerce et d'industrie de région entre 2011 et 2013. Ce rapport propose, le cas échéant, les adaptations et évolutions du mode de financement des chambres de commerce et d'industrie de région qui s'avéreraient opportunes au vu de ce bilan.
+
+V. - Pour l'application du présent article, la chambre régionale de commerce et d'industrie de Paris - Ile-de-France bénéficie des dispositions relatives aux chambres de commerce et d'industrie de région jusqu'à la création de la chambre de commerce et d'industrie de région Paris - Ile-de-France.
+
+#### Article 10
+
+Les transferts de biens immobiliers ou des droits et obligations se rattachant aux opérations de fusion entre établissements du réseau des chambres de commerce et d'industrie en application de la présente loi ne donnent pas lieu au versement prévu à l'article 879 du code général des impôts.
+
+### CHAPITRE II : CHAMBRES DE METIERS ET DE L'ARTISANAT
+
+#### Article 15
+
+I. - A modifié les dispositions suivantes :
+
+> - Code général des impôts, CGI.
+>
+> > Art. 1601
+
+II. - Le présent article entre en vigueur au 1er janvier 2011.
+
+#### Article 17
+
+Les transferts de biens immobiliers ou des droits et obligations se rattachant aux opérations de fusion entre établissements du réseau des chambres de métiers et de l'artisanat, en application de la présente loi, ne donnent pas lieu au versement prévu à l'article 879 du code général des impôts.
+
+#### Article 18
+
+Les établissements du réseau des chambres de commerce et d'industrie et ceux du réseau des chambres de métiers et de l'artisanat peuvent constituer, à titre expérimental et pour une période de temps déterminée, des groupements interconsulaires pour la défense d'intérêts spéciaux et communs, dont les modalités sont précisées par voie réglementaire.
+
+## TITRE II : DISPOSITIONS DIVERSES DE SIMPLIFICATION RELATIVES A DES PROFESSIONS ET DES ACTIVITES REGLEMENTEES
+
+### CHAPITRE III : EXPERTISE COMPTABLE
+
+#### Article 23
+
+I, III et IV A modifié les dispositions suivantes :
+
+> - Livre des procédures fiscales
+>
+> > Art. L135 T
+
+A modifié les dispositions suivantes :
+
+> - Code monétaire et financier
+>
+> > Art. L561-3, Art. L561-7, Art. L561-10-1, Art. L561-12, Art. L561-15, Art. L561-21, Art. L561-22, Art. L561-26, Art. L561-28
+
+A modifié les dispositions suivantes :
+
+> - Ordonnance n°2009-865 du 15 juillet 2009
+>
+> > Art. 14
+
+A modifié les dispositions suivantes :
+
+> - Code monétaire et financier
+>
+> > Art. L561-21
+
+II. - Les modifications apportées au code monétaire et financier par le I du présent article sont applicables aux îles Wallis et Futuna.
+
+### CHAPITRE VI : SERVICES A LA PERSONNE
+
+#### Article 31
+
+I III VI A modifié les dispositions suivantes :
+
+> -Code du travail
+>
+> > Art. L7232-4, Art. L7232-1-2, Art. L7232-5, Art. L7232-6, Art. L7232-7, Art. L7232-8, Art. L7232-9, Art. L7233-1, Art. L7233-2, Art. L7233-3, Art. L7233-4, Art. L5134-4
+
+> -Code général des impôts, CGI.
+>
+> > Art. 199 sexdecies, Art. 199 sexvicies, Art. 279
+
+> -Code de la sécurité sociale.
+>
+> > Art. L241-10
+
+A créé les dispositions suivantes :
+
+> -Code du travail
+>
+> > Art. L1271-1, Art. L1271-15-1, Sct. Chapitre II : Déclaration et agrément des organismes et mise en œuvre des activités, Sct. Section 1 : Déclaration et agrément des organismes, Art. L7232-1, Art. L7232-1-1, Art. L7232-2, Art. L7232-3
+
+II.-A condition d'exercer à titre exclusif ou d'être dispensée de cette condition, toute personne morale ou entreprise individuelle disposant d'un agrément en cours de validité délivré antérieurement à l'entrée en vigueur du décret prévu à l'article L. 7232-1-1 bénéficie des dispositions des articles L. 7233-2 et L. 7233-3.\
+IV.-Le 1° du III s'applique à compter de l'imposition des revenus de l'année 2010.\
+V.-Le 3° du III s'applique aux prestations dont le fait générateur est intervenu à compter du 1er janvier 2010.
+
+### CHAPITRE VII : COOPERATION ADMINISTRATIVE ET PENALE EN MATIERE DE SERVICES
+
+#### Article 32
+
+I. ― Pour la mise en œuvre de la coopération administrative en matière de contrôle des prestataires de services en application du chapitre VI de la directive 2006 / 123 / CE du Parlement européen et du Conseil du 12 décembre 2006 relative aux services dans le marché intérieur, les autorités françaises compétentes coopèrent avec les autorités compétentes des autres Etats membres de l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen dans les conditions définies au présent article.\
+II. ― Les autorités françaises compétentes sont habilitées à recueillir toute information relative aux conditions dans lesquelles un prestataire de services établi sur le territoire national exerce ses activités.\
+III. ― Les autorités françaises compétentes informent, dans les plus brefs délais, la Commission européenne ainsi que les autorités des autres Etats membres de l'Union européenne et des Etats parties à l'accord sur l'Espace économique européen de tout acte ou comportement d'un prestataire de services établi sur le territoire national ou y exerçant ses activités à titre occasionnel qui pourraient causer un préjudice grave pour la santé, pour la sécurité des personnes ou pour l'environnement.\
+IV. ― Les autorités françaises compétentes procèdent, conformément au droit national, à toutes mesures d'investigation et de contrôle relatives à un prestataire de services établi sur le territoire national ou y exerçant ses activités à titre occasionnel, nécessaires pour répondre à la demande motivée d'une autorité compétente d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen.\
+V. ― Dans le respect du droit national, les autorités françaises compétentes communiquent dans les plus brefs délais et par voie électronique, sur demande motivée d'une autorité compétente d'un autre Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, les informations suivantes relatives à un prestataire de services établi sur le territoire national :\
+1° L'existence d'un établissement à titre permanent de ce prestataire sur le territoire national et les coordonnées géographiques et téléphoniques de cet établissement ;\
+2° Les sanctions pénales ou disciplinaires définitives prononcées contre ce prestataire, dans les conditions définies par les articles 776 et 776-1 du code de procédure pénale ;\
+3° Les sanctions disciplinaires définitives autres que celles mentionnées au 4° de l'article 768 du même code et les sanctions administratives définitives, prises à l'encontre de tout prestataire établi sur le territoire national ;\
+4° L'existence de décisions juridictionnelles rendues en matière de sauvegarde, de redressement judiciaire ou de liquidation judiciaire lorsque ces procédures sont encore en cours avec, le cas échéant, l'indication du délai dans lequel ces décisions sont susceptibles de devenir définitives ;\
+5° Le résultat des mesures d'investigation et de contrôle effectuées en application du IV du présent article.\
+Les autorités françaises compétentes informent le prestataire de services concerné de la communication des informations visées aux 1° à 4° du présent V.\
+VI. ― En cas de difficultés à satisfaire une demande motivée en application du IV ou du V du présent article, les autorités françaises compétentes informent dans les meilleurs délais l'autorité compétente de l'Etat membre de l'Union européenne ou de l'Etat partie à l'accord sur l'Espace économique européen à l'origine de la demande et coopèrent en vue de la résolution de ces difficultés.\
+VII. ― Aux fins mentionnées aux III, IV et V, les autorités françaises compétentes sont dispensées de l'application de la loi n° 68-678 du 26 juillet 1968 relative à la communication de documents et renseignements d'ordre économique, commercial, industriel, financier ou technique à des personnes physiques ou morales étrangères.\
+VIII. ― Les autorités françaises compétentes assurent la confidentialité des informations échangées avec la Commission européenne et avec les autorités compétentes des autres Etats membres de l'Union européenne ou des Etats parties à l'accord sur l'Espace économique européen et respectent les dispositions de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés lorsqu'elles mettent en œuvre des traitements de données à caractère personnel pour l'application du présent article.
+
+### CHAPITRE IX : FORMATION DES DEBITANTS DE BOISSONS
+
+#### Article 38
+
+I et II.-A modifié les dispositions suivantes :
+
+> -Code de la santé publique
+>
+> > Art. L1334-3, Art. L1334-1, Art. L1334-4
+
+A modifié les dispositions suivantes :
+
+> -Loi n° 70-9 du 2 janvier 1970
+>
+> > Art. 3
+
+A modifié les dispositions suivantes :
+
+> -Code de la santé publique
+
+> Art. L1334-1-1, Art. L1334-12, Art. L1321-5
+
+## TITRE III : DISPOSITIONS TRANSITOIRES ET FINALES
+
+### Article 40
+
+I. ― A une date fixée par décret et au plus tard le 1er janvier 2011, et sous réserve du III, les chambres de commerce et d'industrie et les chambres régionales de commerce et d'industrie existant à la date de la publication de la présente loi deviennent respectivement des chambres de commerce et d'industrie territoriales et des chambres de commerce et d'industrie de région, régies par les dispositions introduites par le chapitre Ier du titre Ier de la présente loi.\
+II. ― Les dispositions de ce chapitre n'affectent pas l'exécution des contrats et conventions en cours, passés par les chambres de commerce et d'industrie, les chambres régionales de commerce et d'industrie ou les groupements interconsulaires. Elles n'emportent aucun droit à résiliation ou indemnisation pour les cocontractants de ces établissements publics.\
+Les règlements intérieurs actuellement en vigueur dans les établissements du réseau des chambres de commerce et d'industrie sont mis en conformité avec les dispositions issues de la présente loi dans les six mois suivant le premier renouvellement qui interviendra après la promulgation de cette dernière.\
+III. ― Les agents de droit public sous statut employés par les chambres de commerce et d'industrie territoriales, à l'exception de ceux employés au sein de leurs services publics industriels et commerciaux, sont transférés à la chambre de commerce et d'industrie de région, qui en devient l'employeur, au 1er janvier 2013.\
+Des commissions paritaires régionales auprès des chambres de commerce et d'industrie de région sont instituées dans les conditions prévues par la commission paritaire nationale, au plus tard dans un délai de six mois après le transfert des agents de droit public à la chambre de commerce et d'industrie de région au 1er janvier 2013.\
+Ces agents sont de droit mis à la disposition de la chambre territoriale qui les employait à la date d'effet du transfert.\
+Les modalités de ce transfert ou de la suppression de la mise à disposition font l'objet d'une décision de la chambre de commerce et d'industrie de région, prise après l'avis de la commission paritaire compétente.\
+Les dépenses de rémunération des agents ainsi mis à disposition constituent des dépenses obligatoires des chambres de commerce et d'industrie territoriales et sont des recettes des chambres de commerce et d'industrie de région concernées.\
+IV. ― Par dérogation à l'article L. 713-5 du code de commerce, les élections qui doivent intervenir à la suite de la dissolution d'une chambre de commerce et d'industrie prononcée par le préfet en application de l'article L. 712-9 du même code, ou lorsque le nombre de membres d'une chambre de commerce et d'industrie se trouve réduit à moins de la moitié du nombre initial, sont reportées jusqu'au renouvellement général postérieur à l'entrée en vigueur de la présente loi.\
+V. ― La chambre de commerce et d'industrie de région Paris - Ile-de-France est créée au plus tard le 1er janvier 2013. Elle est composée, jusqu'au renouvellement de ses membres postérieur à cette date, des élus de la chambre régionale de commerce et d'industrie de Paris - Ile-de-France auxquels s'ajoutent des membres désignés par leur chambre de commerce et d'industrie départementale parmi les élus la composant.\
+Jusqu'à la date d'entrée en vigueur du décret créant la chambre de commerce et d'industrie de région Paris - Ile-de-France, le code de commerce dans sa rédaction antérieure à la date de publication de la présente loi reste applicable aux chambres membres du réseau consulaire d'Ile-de-France.\
+Toutefois, à l'occasion du renouvellement des membres des chambres de commerce et d'industrie territoriales et de région qui interviendra après la promulgation de la présente loi, les membres de la chambre régionale de commerce et d'industrie de Paris - Ile-de-France et les membres des chambres de commerce et d'industrie de Paris, de Seine-et-Marne, de l'Essonne et de Versailles - Val-d'Oise - Yvelines sont élus par département, conformément au chapitre III du titre Ier du livre VII du code de commerce tel qu'il résulte de la présente loi, à l'exception de l'article L. 713-12 qui demeure applicable dans sa rédaction antérieure.\
+Ces membres exercent leurs fonctions en qualité d'élus des chambres départementales d'Ile-de-France ou, le cas échéant, des chambres territoriales et de la chambre de commerce et d'industrie de région Paris - Ile-de-France à compter de la date d'entrée en vigueur du décret de création de celle-ci.\
+Jusqu'à cette date, la chambre de commerce et d'industrie de Paris est composée des membres élus dans les départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, et la chambre de commerce et d'industrie de Versailles - Val-d'Oise - Yvelines des membres élus dans les départements des Yvelines et du Val-d'Oise.\
+Les procédures de recrutement et d'avancement en cours avant la transformation du statut des chambres de commerce et d'industrie de la région Ile-de-France et de la chambre régionale de commerce et d'industrie d'Ile-de-France peuvent être valablement poursuivies dans le nouvel établissement.
+
+### Article 47
+
+I. ― Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les mesures relevant du domaine de la loi nécessaires pour modifier et compléter les dispositions régissant l'organisation du secteur des métiers et de l'artisanat, celles relatives au statut des entreprises relevant de ce secteur, au régime de la propriété artisanale, à la formation et à la qualification professionnelle, ainsi qu'à la qualité des produits et services, afin de les simplifier, d'adapter leurs procédures à l'évolution des métiers et, avec les dispositions qui sont particulières à ce même secteur dans les domaines de la fiscalité, du crédit, des aides aux entreprises, du droit du travail et de la protection sociale, de les regrouper et de les organiser en un code des métiers et de l'artisanat.\
+Cette codification prend en compte les dispositions particulières applicables dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle.\
+Elle prévoit l'extension et l'adaptation des dispositions codifiées aux collectivités d'outre-mer, à Mayotte et à Saint-Pierre-et-Miquelon.\
+L'ordonnance doit être prise dans un délai de dix-huit mois suivant la publication de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.\
+II. ― Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les mesures relevant du domaine de la loi nécessaires pour étendre, en les adaptant, aux collectivités d'outre-mer, de Mayotte et de Saint-Pierre-et-Miquelon les dispositions du code de commerce régissant le réseau des chambres de commerce et d'industrie.\
+L'ordonnance doit être prise dans un délai de douze mois suivant la publication de la présente loi. Un projet de loi de ratification est présenté devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.
+
+### Article 49
+
+Les articles 32 à 34 entrent en vigueur le premier jour du premier mois suivant la publication de la présente loi.\
+La présente loi sera exécutée comme loi de l'Etat.
+
+---
+
+Fait à Paris, le 23 juillet 2010.
+
+Nicolas Sarkozy
+
+Par le Président de la République :
+
+Le Premier ministre,\
+François Fillon\
+La ministre d'Etat, garde des sceaux,\
+ministre de la justice et des libertés,\
+Michèle Alliot-Marie\
+La ministre de l'économie,\
+de l'industrie et de l'emploi,\
+Christine Lagarde\
+Le ministre du travail, de la solidarité\
+et de la fonction publique,\
+Eric Woerth\
+La ministre de la santé et des sports,\
+Roselyne Bachelot-Narquin\
+Le ministre du budget, des comptes publics\
+et de la réforme de l'Etat,\
+François Baroin\
+Le ministre de l'alimentation,\
+de l'agriculture et de la pêche,\
+Bruno Le Maire\
+Le ministre de la culture\
+et de la communication,\
+Frédéric Mitterrand\
+Le secrétaire d'Etat\
+chargé du commerce, de l'artisanat,\
+des petites et moyennes entreprises,\
+du tourisme, des services et de la consommation,\
+Hervé Novelli

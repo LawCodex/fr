@@ -1,0 +1,466 @@
+---
+title: "LOI n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes"
+identifier: "LEGITEXT000029333373"
+cid: "JORFTEXT000029330832"
+nature: "LOI"
+number: "2014-873"
+nor: "FVJX1313602L"
+type: act
+jurisdiction: fr
+language: fr
+date: 2014-08-04
+last_amended: 2026-04-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000029333373"
+retrieved: 2026-10-11
+---
+
+# LOI n° 2014-873 du 4 août 2014 pour l'égalité réelle entre les femmes et les hommes
+
+L'Assemblée nationale et le Sénat ont adopté,\
+Vu la décision du Conseil constitutionnel n° 2014-700 DC du 31 juillet 2014,\
+Le Président de la République promulgue la loi dont la teneur suit :
+
+## Article 1
+
+L'Etat et les collectivités territoriales, ainsi que leurs établissements publics, mettent en œuvre une politique pour l'égalité entre les femmes et les hommes selon une approche intégrée. Ils veillent à l'évaluation de l'ensemble de leurs actions.\
+La politique pour l'égalité entre les femmes et les hommes comporte notamment :\
+1° Des actions de prévention et de protection permettant de lutter contre les violences faites aux femmes et les atteintes à leur dignité ;\
+2° Des actions visant à renforcer la lutte contre le système prostitutionnel ;\
+3° Des actions destinées à prévenir et à lutter contre les stéréotypes sexistes ;\
+4° Des actions visant à assurer aux femmes la maîtrise de leur sexualité, notamment par l'accès à la contraception et à l'interruption volontaire de grossesse ;\
+5° Des actions de lutte contre la précarité des femmes ;\
+6° Des actions visant à garantir l'égalité professionnelle et salariale et la mixité dans les métiers ;\
+7° Des actions tendant à favoriser une meilleure articulation des temps de vie et un partage équilibré des responsabilités parentales ;\
+8° Des actions visant à favoriser l'égal accès des femmes et des hommes aux mandats électoraux et aux fonctions électives, ainsi qu'aux responsabilités professionnelles et sociales ;\
+9° Des actions visant à garantir l'égalité de traitement entre les femmes et les hommes et leur égal accès à la création et à la production culturelle et artistique, ainsi qu'à la diffusion des œuvres ;\
+10° Des actions visant à porter à la connaissance du public les recherches françaises et internationales sur la construction sociale des rôles sexués.
+
+## Titre Ier : DISPOSITIONS RELATIVES À L'ÉGALITÉ ENTRE LES FEMMES ET LES HOMMES DANS LA VIE PROFESSIONNELLE
+
+### Article 7
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-700 DC du 31 juillet 2014.]
+
+### Article 8
+
+I. à V-A modifié les dispositions suivantes :
+
+> -Code de la sécurité sociale.
+>
+> > Art. L161-9, Art. L161-9-2, Art. L168-7, Art. L333-3, Art. L381-1, Art. L531-1, Art. L531-4, Art. L531-9, Art. L531-10, Art. L532-2, Art. L544-9, Art. L552-1, Art. L553-4, Art. L755-19
+
+> -Code du travail
+>
+> > Art. L1225-48
+
+VI.-Le présent article est applicable aux enfants nés ou adoptés à partir du 1er octobre 2014.
+
+Pour les enfants nés ou adoptés avant le 1er octobre 2014, les dispositions du code de la sécurité sociale demeurent applicables dans leur rédaction antérieure à la date d'entrée en vigueur du présent article.
+
+### Article 10
+
+[Dispositions déclarées non conformes à la Constitution par la décision du Conseil constitutionnel n° 2014-700 DC du 31 juillet 2014.]
+
+### Article 14
+
+I. - Afin de faciliter le retour à l'emploi des parents qui cessent leur activité professionnelle pour s'occuper d'un enfant, l'Etat peut autoriser l'expérimentation du versement aux parents de deux enfants du montant majoré de la prestation partagée d'éducation de l'enfant prévu au deuxième alinéa du VI de l'article L. 531-4 du code de la sécurité sociale.\
+Cette expérimentation s'applique aux parents de deux enfants résidant ou ayant élu domicile dans les départements ou territoires dont la liste est fixée par arrêté conjoint des ministres chargés des droits des femmes et de la sécurité sociale.\
+II. - L'expérimentation mentionnée au I est conduite pour une durée de vingt-quatre mois à compter de la publication de l'arrêté mentionné au second alinéa du même I, qui intervient au plus tard le 1er janvier 2015. Elle donne lieu, au plus tard six mois avant son terme, à la transmission au Parlement d'un rapport d'évaluation, notamment sur les effets sur l'emploi de cette expérimentation.
+
+### Article 16
+
+I à III. - A modifié les dispositions suivantes :
+
+> - Ordonnance n°2005-649 du 6 juin 2005
+>
+> > Art. 8
+
+A modifié les dispositions suivantes :
+
+> - Ordonnance n° 2004-559 du 17 juin 2004
+>
+> > Art. 4
+
+A modifié les dispositions suivantes :
+
+> - Loi n°93-122 du 29 janvier 1993
+>
+> > Art. 38
+
+IV. - Le présent article est applicable aux contrats conclus à compter du 1er décembre 2014.
+
+### Article 18
+
+A titre expérimental, la convention ou l'accord collectif prévu à l'article L. 3151-1 du code du travail peut autoriser le salarié à utiliser une partie des droits affectés sur le compte épargne-temps, institué en application du même article, dans la limite maximale de 50 % de ces droits, pour financer l'une des prestations de services prévues à l'article L. 1271-1 du même code au moyen d'un chèque emploi-service universel.
+
+Un décret définit les modalités de mise en œuvre du présent article et les conditions dans lesquelles cette expérimentation est évaluée. L'expérimentation est d'une durée de deux ans à compter de la publication de ce décret, et au plus tard à compter du 1er octobre 2014.
+
+### Article 22
+
+Après une concertation entre les partenaires sociaux, le Gouvernement remet au Parlement, avant le 31 décembre 2014, un rapport portant, d'une part, sur une harmonisation des conditions d'ouverture et d'indemnisation des droits aux différents types de congés existants, tant parentaux que personnels, et, d'autre part, sur la portabilité de ces droits et le cadre de leur mise en œuvre.
+
+## Titre II : DISPOSITIONS RELATIVES À LA LUTTE CONTRE LA PRÉCARITÉ
+
+### Article 31
+
+I. - Afin d'aider les familles modestes à recourir à l'offre d'accueil par les assistants maternels, le versement en tiers payant, directement à l'assistant maternel agréé, du complément de libre choix du mode de garde normalement versé au parent employeur est expérimenté.\
+En cohérence avec les objectifs du plan pluriannuel de lutte contre la pauvreté et pour l'inclusion sociale et, le cas échéant, en articulation avec les actions menées par les collectivités territoriales ou leurs groupements auprès des personnes engagées dans un parcours d'insertion sociale ou professionnelle, cette expérimentation doit permettre aux familles qui en ont le plus besoin un accès facilité à tous les modes de garde.\
+II. - Pour cette expérimentation, il est dérogé aux articles L. 531-1 et L. 531-5 du code de la sécurité sociale afin de permettre le versement à l'assistant maternel agréé de la prise en charge prévue au b du I du même article L. 531-5.\
+III. - Peuvent prendre part à l'expérimentation, sous réserve de leur accord, d'une part, le ménage ou la personne dont les ressources sont inférieures à un plafond, fixé par décret, qui varie selon le nombre d'enfants à charge et, d'autre part, l'assistant maternel mentionné à l'article L. 421-1 du code de l'action sociale et des familles que le parent emploie.\
+Une convention signée entre l'organisme débiteur des prestations familiales, l'assistant maternel et le parent employeur rappelle aux parties leurs engagements respectifs.\
+Pour l'application des dispositions législatives et réglementaires fiscales et sociales, la prise en charge mentionnée au II du présent article, versée directement à l'assistant maternel, est considérée comme une rémunération versée par le parent employeur à l'assistant maternel. Le a du I de l'article L. 531-5 et l'article L. 531-8 du code de la sécurité sociale sont applicables au parent employeur. Il déduit le montant de la prise en charge mentionnée au II du présent article de la rémunération qu'il verse à l'assistant maternel.\
+IV. - La participation à l'expérimentation des personnes mentionnées au III du présent article prend fin en cas de cessation de recours à l'assistant maternel, de notification du souhait de ne plus prendre part à l'expérimentation ou de non-respect des engagements figurant dans la convention prévue au deuxième alinéa du même III. Lorsque les ressources du ménage ou de la personne dépassent, au cours de l'expérimentation, le plafond mentionné au premier alinéa dudit III, il n'est pas mis fin au versement du complément de libre choix du mode de garde dans les conditions prévues au présent article.\
+V. - L'expérimentation est conduite par les organismes débiteurs des prestations familiales qui figurent sur une liste fixée par arrêté du ministre chargé de la famille, pour une durée de dix-huit mois à compter de la publication de l'arrêté. Elle prend fin, au plus tard, le 1er juillet 2016.\
+Le Gouvernement transmet au Parlement un rapport d'évaluation avant la fin de l'expérimentation, assorti des observations des organismes débiteurs des prestations familiales ayant participé à l'expérimentation.
+
+## Titre III : DISPOSITIONS RELATIVES À LA PROTECTION DES PERSONNES VICTIMES DE VIOLENCES ET À LA LUTTE CONTRE LES ATTEINTES À LA DIGNITÉ ET À L'IMAGE À RAISON DU SEXE DANS LE DOMAINE DE LA COMMUNICATION
+
+### Chapitre III : Dispositions relatives à la lutte contre les atteintes à la dignité et à l'image à raison du sexe dans le domaine de la communication
+
+#### Article 58
+
+I. - Toute personne qui organise un concours d'enfants de moins de seize ans fondé sur l'apparence doit obtenir l'autorisation préalable du représentant de l'Etat dans le département. Seuls les concours dont les modalités d'organisation assurent la protection de l'intérêt supérieur de l'enfant et de sa dignité peuvent être autorisés.\
+II. - Aucune autorisation n'est accordée si le concours mentionné au I est ouvert à des enfants de moins de treize ans.\
+III. - Le fait d'organiser un concours en violation des I et II est puni de l'amende prévue pour les contraventions de la cinquième classe.\
+En cas de récidive, le montant de l'amende est doublé.\
+Les peines prévues aux deux premiers alinéas du présent III ne sont pas applicables lorsque l'infraction a été le résultat d'une erreur provenant de la production d'actes de naissance, livrets ou certificats contenant de fausses énonciations ou délivrés pour une autre personne.\
+IV. - Nul ne peut, même de fait, exercer une fonction de direction dans une structure organisant un concours mentionné au I ou participer à l'organisation d'un tel concours s'il a fait l'objet d'une condamnation pénale à raison de faits constituant des manquements aux bonnes mœurs, à l'honneur et à la probité.\
+V. - Un décret en Conseil d'Etat précise les modalités d'application du présent article.
+
+## Titre V : DISPOSITIONS VISANT À METTRE EN ŒUVRE L'OBJECTIF CONSTITUTIONNEL DE PARITÉ
+
+### Chapitre Ier : Dispositions relatives au financement des partis et des groupements politiques et aux candidatures pour les scrutins nationaux
+
+#### Article 60
+
+I et II. - A modifié les dispositions suivantes :
+
+> - Loi n°88-227 du 11 mars 1988
+>
+> > Art. 9, Art. 9-1
+
+III. - Le présent article est applicable à compter du premier renouvellement général de l'Assemblée nationale suivant la publication de la présente loi.
+
+### Chapitre III : Dispositions relatives à l'égal accès des femmes et des hommes aux responsabilités professionnelles et sportives
+
+#### Article 65
+
+I. - A modifié les dispositions suivantes :
+
+> - LOI n° 2012-347 du 12 mars 2012
+>
+> > Art. 52
+
+II. - Pour les conseils d'administration, les conseils de surveillance ou les organes équivalents des établissements publics mentionnés à l'article 52 de la loi n° 2012-347 du 12 mars 2012 relative à l'accès à l'emploi titulaire et à l'amélioration des conditions d'emploi des agents contractuels dans la fonction publique, à la lutte contre les discriminations et portant diverses dispositions relatives à la fonction publique qui ont déjà fait l'objet d'un renouvellement depuis l'entrée en vigueur de la même loi, le présent article est applicable au renouvellement qui suit la publication de la présente loi.
+
+#### Article 66
+
+I.-A modifié les dispositions suivantes :
+
+> -Loi n° 83-675 du 26 juillet 1983
+>
+> > Art. 4, Art. 6-1
+
+A créé les dispositions suivantes :
+
+-Loi n° 83-675 du 26 juillet 1983
+
+Art. 6-2
+
+II.-Le présent article s'applique à compter du deuxième renouvellement des conseils d'administration, des conseils de surveillance ou des organes équivalents des établissements publics ou sociétés concernés suivant la publication de la présente loi. Toutefois, la proportion des membres de chaque sexe de ces organes ne peut être inférieure à 20 % à compter de leur premier renouvellement suivant ladite publication.
+
+#### Article 67
+
+I. et II.-A modifié les dispositions suivantes :
+
+> -LOI n° 2011-103 du 27 janvier 2011
+>
+> > Art. 5
+
+> -Code de commerce
+>
+> > Art. L225-18-1, Art. L225-69-1, Art. L226-4-1
+> >
+> > III.-Le II entre en vigueur à compter du 1er janvier 2020. Pour l'application du premier alinéa des articles L. 225-18-1, L. 225-69-1 et L. 226-4-1 du code de commerce aux sociétés de deux cent cinquante à quatre cent quatre-vingt-dix-neuf salariés permanents, le premier des trois exercices consécutifs prévus au même premier alinéa s'entend à compter du 1er janvier 2017.
+
+#### Article 68
+
+I. et II. - A modifié les dispositions suivantes :
+
+> - LOI n° 2012-347 du 12 mars 2012
+>
+> > Art. 56
+
+> - Loi n° 83-634 du 13 juillet 1983
+>
+> > Art. 6 quater
+
+III. - Le II est applicable à compter du 1er janvier 2015.
+
+#### Article 72
+
+I. - A modifié les dispositions suivantes :
+
+> - Code général des collectivités territoriales
+>
+> > Art. L1431-3
+> >
+> > II. - Le présent article s'applique à compter du premier renouvellement des conseils d'administration des établissements publics de coopération culturelle suivant la publication de la présente loi.
+
+#### Article 73
+
+I. - A modifié les dispositions suivantes :
+
+> - Code de l'artisanat
+>
+> > Art. 8
+
+II.-Par dérogation à l'article 8 du code de l'artisanat, lors du prochain renouvellement suivant la promulgation de la présente loi, chaque liste est composée d'au moins un candidat de chaque sexe par groupe de trois candidats.
+
+Au renouvellement suivant, chaque liste est composée d'au moins deux candidats de chaque sexe par groupe de cinq candidats.
+
+#### Article 74
+
+I.-Lorsqu'une personne est appelée, en application d'une loi ou d'un décret, à désigner un ou plusieurs membres au sein des commissions et instances consultatives ou délibératives placées directement auprès du Premier ministre, des ministres ou de la Banque de France, mentionnées à l'article 112 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995), dont la composition est collégiale, elle doit faire en sorte que, après cette désignation, parmi tous les membres en fonction dans le collège de cet organisme désignés par elle, l'écart entre le nombre de femmes et le nombre d'hommes se soit réduit, par rapport à ce qu'il était avant la décision de désignation, d'autant qu'il est possible en vue de ne pas être supérieur à un.\
+Un décret en Conseil d'Etat précise les modalités d'application du présent I.\
+II.-Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les mesures relevant de la loi nécessaires pour favoriser l'égal accès des femmes et des hommes au sein des autorités administratives indépendantes et des autorités publiques indépendantes.\
+III.-L'ordonnance mentionnée au II est prise dans le délai de douze mois à compter de la date de promulgation de la présente loi.\
+Un projet de loi portant ratification de l'ordonnance est déposé devant le Parlement au plus tard le dernier jour du troisième mois suivant la publication de celle-ci.
+
+#### Article 75
+
+I.-A modifié les dispositions suivantes :
+
+> -Code de la sécurité sociale.
+>
+> > Art. L231-3, Art. L231-1
+
+II.-Lors du premier renouvellement des conseils et conseils d'administration mentionnés aux articles L. 221-3, L. 222-5, L. 223-3 et L. 225-3 du code de la sécurité sociale et de la commission mentionnée à l'article L. 221-5 du même code suivant la promulgation de la présente loi, chaque organisation ou institution appelée à désigner plus d'un conseiller ou administrateur titulaire procède à ces désignations de telle sorte que l'écart entre le nombre des hommes désignés et celui des femmes désignées ne soit pas supérieur à un. L'autorité compétente de l'Etat s'assure de la désignation d'un minimum de 40 % de personnes de chaque sexe au sein du conseil ou conseil d'administration.
+
+Les nominations intervenues en violation du premier alinéa du présent II sont nulles. Cette nullité n'entraîne pas celle des délibérations auxquelles a pris part l'administrateur irrégulièrement nommé.
+
+III.-Le 1° du I et le II du présent article entrent en vigueur à compter du premier renouvellement des conseils et conseils d'administration des caisses nationales et de l'agence centrale mentionnés aux articles L. 221-3, L. 222-5, L. 223-3 et L. 225-3 du code de la sécurité sociale et de la commission mentionnée à l'article L. 221-5 du même code suivant la promulgation de la présente loi.
+
+Le 2° du I entre en vigueur à compter du deuxième renouvellement des conseils et conseils d'administration des caisses nationales et de l'agence centrale ainsi que de la commission mentionnés aux mêmes articles suivant la promulgation de la présente loi.
+
+#### Article 76
+
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance les mesures relevant du domaine de la loi nécessaires pour favoriser l'égal accès des femmes et des hommes au sein des conseils, conseils supérieurs, conseils nationaux, régionaux, interdépartementaux et départementaux des ordres professionnels mentionnés aux articles L. 4122-5, L. 4123-3, L. 4231-4, L. 4312-3, L. 4312-5, L. 4312-7, L. 4321-20 et L. 4322-13 du code de la santé publique ainsi qu'aux articles 15 et 21-2 de la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, aux articles 22 et 24 de la loi n° 77-2 du 3 janvier 1977 sur l'architecture, à l'article 8 de l'ordonnance du 10 septembre 1817 qui réunit, sous la dénomination d'Ordre des avocats au Conseil d'Etat et à la Cour de cassation, l'ordre des avocats aux conseils et le collège des avocats à la Cour de cassation, fixe irrévocablement le nombre des titulaires, et contient des dispositions pour la discipline intérieure de l'Ordre, à l'article 1er de l'ordonnance n° 45-2138 du 19 septembre 1945 portant institution de l'ordre des experts-comptables et réglementant le titre et la profession d'expert-comptable, à l'article 10 de la loi n° 46-942 du 7 mai 1946 instituant l'Ordre des géomètres experts et par la loi n° 47-1564 du 23 août 1947 relative à l'institution d'un ordre national des vétérinaires. Des modalités différenciées peuvent être prévues selon les conseils concernés.\
+II. - Le Gouvernement est autorisé à prendre par ordonnance, dans les conditions prévues à l'article 38 de la Constitution, les mesures relevant du domaine de la loi nécessaires pour favoriser l'égal accès des femmes et des hommes au sein des conseils d'administration de mutuelle mentionnés au premier alinéa de l'article L. 114-16 du code de la mutualité.\
+III. - Les ordonnances mentionnées aux I et II sont prises dans un délai de douze mois à compter de la date de promulgation de la présente loi.\
+Pour chaque ordonnance, un projet de loi portant ratification de l'ordonnance est déposé devant le Parlement au plus tard le dernier jour du sixième mois suivant la publication de celle-ci.
+
+## Titre VI : DISPOSITIONS TRANSITOIRES ET FINALES
+
+### Article 77
+
+I.-Les 1° et 2° du II et le IV de l'article 16, le 1° de l'article 17, les articles 23 à 25, 33 à 36, 39 à 41, 44, 50 et 52 à 60 sont applicables dans les îles Wallis et Futuna, en Nouvelle-Calédonie et en Polynésie française.
+
+II.-Le I de l'article 26 et les articles 28 et 32 sont applicables dans les îles Wallis et Futuna.
+
+III.-Les articles 28, 32 et 61 sont applicables en Polynésie française.
+
+IV.-Les articles 45 à 49 sont applicables à Saint-Barthélemy et à Saint-Martin.
+
+V.-Les articles 23 à 25 et 56 sont applicables dans les Terres australes et antarctiques françaises.
+
+VI.-Dans les domaines relevant de sa compétence, l'Etat met en œuvre la politique mentionnée à l'article 1er dans les îles Wallis et Futuna, en Nouvelle-Calédonie et en Polynésie française.
+
+VIII.-Pour l'application de l'article 58 de la présente loi dans les collectivités d'outre-mer relevant de l'article 74 de la Constitution et en Nouvelle-Calédonie, il y a lieu de lire : " représentant de l'Etat dans la collectivité " au lieu de : " représentant de l'Etat dans le département ".
+
+IX.-L'article 9-1 de la loi n° 88-227 du 11 mars 1988 relative à la transparence financière de la vie politique est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna dans sa version applicable à la date d'entrée en vigueur de l'article 60, de la présente loi.
+
+X.-La formation prévue à l'article 21 de la loi n° 2010-769 du 9 juillet 2010 relative aux violences faites spécifiquement aux femmes, aux violences au sein des couples et aux incidences de ces dernières sur les enfants est applicable aux magistrats, fonctionnaires et personnels de justice, avocats, personnels de la police nationale et de la gendarmerie nationale, personnels des services de l'Etat chargés de la délivrance des titres de séjour et personnels de l'Office français de protection des réfugiés et apatrides dans les îles Wallis et Futuna, en Nouvelle-Calédonie et en Polynésie française ainsi qu'aux agents des services pénitentiaires en Nouvelle-Calédonie et en Polynésie française.
+
+A modifié les dispositions suivantes :
+
+> -Loi n° 71-1130 du 31 décembre 1971
+>
+> > Art. 81
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2002-388 du 20 mars 2002
+>
+> > Art. 17
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2002-388 du 20 mars 2002
+>
+> > Art. 17-1
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2002-388 du 20 mars 2002
+>
+> > Art. 17-4
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2002-388 du 20 mars 2002
+>
+> > Art. 22
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2002-388 du 20 mars 2002
+>
+> > Art. 23-1
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2000-372 du 26 avril 2000
+>
+> > Art. 17
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2000-372 du 26 avril 2000
+>
+> > Art. 17-1
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2000-372 du 26 avril 2000
+>
+> > Art. 17-4
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2000-372 du 26 avril 2000
+>
+> > Art. 22
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2000-372 du 26 avril 2000
+>
+> > Art. 23-1
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2000-371 du 26 avril 2000
+>
+> > Art. 16
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2000-371 du 26 avril 2000
+>
+> > Art. 16-1, Art. 16-4, Art. 20
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2000-371 du 26 avril 2000
+>
+> > Art. 21-1
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 77-1102 du 26 septembre 1977
+>
+> > Art. 11
+
+A modifié les dispositions suivantes :
+
+> -Code du travail applicable à Mayotte.
+>
+> > Art. L133-2-1
+
+A modifié les dispositions suivantes :
+
+> -Code du travail applicable à Mayotte.
+>
+> > Art. L140-6
+
+A modifié les dispositions suivantes :
+
+> -Code du travail applicable à Mayotte.
+>
+> > Art. L711-2
+
+A modifié les dispositions suivantes :
+
+> -Code du travail applicable à Mayotte.
+>
+> > Art. L122-47-1, Art. L442-8
+
+A modifié les dispositions suivantes :
+
+> -Code du travail applicable à Mayotte.
+>
+> > Art. L224-1
+
+A modifié les dispositions suivantes :
+
+> -Code du travail applicable à Mayotte.
+>
+> > Art. L132-12
+
+A modifié les dispositions suivantes :
+
+> -Code du travail applicable à Mayotte.
+>
+> > Art. L053-5
+
+> -Ordonnance n° 2005-649 du 6 juin 2005
+>
+> > Art. 42-1
+
+> -Ordonnance n° 2004-559 du 17 juin 2004
+>
+> > Art. 29
+
+A modifié les dispositions suivantes :
+
+> -Ordonnance n° 2004-559 du 17 juin 2004
+>
+> > Art. 29-1
+
+A créé les dispositions suivantes :
+
+> -Code général des collectivités territoriales
+>
+> > Art. L71-110-3
+
+A créé les dispositions suivantes :
+
+> -Code général des collectivités territoriales
+>
+> > Art. L72-100-3
+
+---
+
+La présente loi sera exécutée comme loi de l'Etat.
+
+Fait à Paris, le 4 août 2014.
+
+François Hollande\
+Par le Président de la République :
+
+Le Premier ministre,\
+Manuel Valls
+
+La garde des sceaux, ministre de la justice,\
+Christiane Taubira
+
+La ministre des affaires sociales et de la santé,\
+Marisol Touraine
+
+Le ministre du travail, de l'emploi et du dialogue social,\
+François Rebsamen
+
+Le ministre de l'intérieur,\
+Bernard Cazeneuve
+
+La ministre des droits des femmes, de la ville, de la jeunesse et des sports,\
+Najat Vallaud-Belkacem
+
+La ministre de la décentralisation et de la fonction publique,\
+Marylise Lebranchu
+
+La ministre de la culture et de la communication,\
+Aurélie Filippetti

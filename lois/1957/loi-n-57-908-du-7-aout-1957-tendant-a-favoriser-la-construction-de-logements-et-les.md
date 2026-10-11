@@ -1,0 +1,45 @@
+---
+title: "Loi n° 57-908 du 7 août 1957 tendant à favoriser la construction de logements et les équipements collectifs."
+identifier: "LEGITEXT000006068183"
+cid: "JORFTEXT000000315837"
+nature: "LOI"
+number: "57-908"
+type: act
+jurisdiction: fr
+language: fr
+date: 1957-08-07
+last_amended: 2011-05-19
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068183"
+retrieved: 2026-10-11
+---
+
+# Loi n° 57-908 du 7 août 1957 tendant à favoriser la construction de logements et les équipements collectifs.
+
+## Article 51
+
+I. - En vue d'éviter une hausse excessive du prix des terrains à bâtir provoquée par la spéculation ou par le seul fait de l'effort d'aménagement des agglomérations entrepris par les collectivités publiques, le Gouvernement est autorisé à refuser ou réduire l'octroi sous ses diverses formes de l'aide financière de l'Etat à la construction, aux opérations réalisées sur des terrains qui auront été acquis à l'amiable, à un prix excessif.\
+La valeur du terrain sera approuvée par la commission arbitrale d'évaluation, statuant en matière d'expropriation ; toutefois, seront admis d'office, en vue de l'aide financière de l'Etat à la construction, les terrains dont la valeur ne dépassera pas, pour les logements économiques et familiaux, 12 % du montant du coût de la construction et de la viabilité.\
+Cette commission devra se prononcer dans un délai de deux mois à partir du jour où elle sera saisie. En outre, cette commission sera tenue de donner à tout constructeur qui lui en fera la demande, un avis préalable sur la valeur du prix des terrains dont l'acquisition est envisagée.\
+II. - Le Gouvernement est autorisé à prendre des dispositions permettant aux communes de récupérer à leur profit une partie des plus-values immobilières provoquées par leur effort d'équipement collectif en matière de voirie, d'assainissement, d'adduction d'eau, gaz et électricité.\
+L'application de ces mesures sera laissée à l'appréciation souveraine des communes intéressées.
+
+## Article 56
+
+I. - En vue de garantir la sécurité du foyer des locataires réduits par la crise du logement à vivre d'une façon habituelle et continue dans les hôtels ou meublés, le Gouvernement est autorisé à :
+
+Rendre plus efficace, par modification de la loi n° 49-458 du 2 avril 1949, le droit au maintien dans les lieux accordé à certains occupants des locaux meublés ou garnis ;
+
+Définir, simultanément et corrélativement, un mode de fixation du prix des loyers des mêmes locaux plus cohérent et plus équitable.
+
+II. - (Abrogé)
+
+III. - Les dispositions prises en application du présent article ne seront pas applicables aux hôtels de tourisme homologués ; elles ne s'appliqueront pas non plus aux locations consenties pour une période déterminée à l'occasion des vacances ou des congés.
+
+## Article 62
+
+Les mesures prévues aux articles 6 à 58 de la présente loi qui ne pourraient être prises par le Gouvernement en vertu de ses pouvoirs réglementaires, feront l'objet de décrets en conseil des ministres, sur le rapport du ministre de l'économie et des finances, des ministres et des secrétaires d'Etat intéressés et aprés avis du Conseil d'Etat.\
+Ces décrets pourront modifier ou abroger les dispositions législatives en vigueur à la date de la promulgation de la présente loi, dans la limite des seules abrogations ou modifications nécessaires pour assurer l'application de celle-ci. Aucune de leurs dispositions ne pourra avoir effet que dans la limite des crédits régulièrement ouverts.\
+Ils devront intervenir dans un délai d'un an à compter de la promulgation de la présente loi, à l'exception des décrets d'application de l'article 8, paragraphe II, pour lesquels le délai est de deux mois et de l'article 38 pour lequel le délai est porté à dix-huit mois à compter de la même date.\
+En outre, dans les délais prévus à l'alinéa précédent, les décrets pris en application des articles 14, 19, 26, 38, 39, 40, 43, 51 (OE II) et 56 seront soumis à l'approbation du Parlement et discutés selon la procédure d'urgence, dans les conditions fixées par les deux derniers alinéas de l'article 17 de la loi n° 58-95 du 5 février 1958.

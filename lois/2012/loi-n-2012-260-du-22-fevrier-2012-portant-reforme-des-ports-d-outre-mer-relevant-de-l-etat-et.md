@@ -1,0 +1,131 @@
+---
+title: "LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports"
+identifier: "LEGITEXT000025402188"
+cid: "JORFTEXT000025400157"
+nature: "LOI"
+number: "2012-260"
+nor: "DEVX1119764L"
+type: act
+jurisdiction: fr
+language: fr
+date: 2012-02-22
+last_amended: 2026-01-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000025402188"
+retrieved: 2026-10-11
+---
+
+# LOI n° 2012-260 du 22 février 2012 portant réforme des ports d'outre-mer relevant de l'Etat et diverses dispositions d'adaptation de la législation au droit de l'Union européenne dans le domaine des transports
+
+L'Assemblée nationale et le Sénat ont adopté,\
+Le Président de la République promulgue la loi dont la teneur suit :
+
+## Article 2
+
+I. ― Jusqu'à la première réunion de l'assemblée de Guyane suivant sa première élection en mars 2014, le conseil de surveillance comporte, pour l'application en Guyane du b de l'article L. 5312-7 du code des transports, au moins un représentant de la région et un représentant du département.\
+II. ― Jusqu'à la première réunion de l'assemblée de Martinique suivant sa première élection en mars 2014, le conseil de surveillance comporte, pour l'application en Martinique du même b, au moins un représentant de la région et un représentant du département.
+
+## Article 4
+
+I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de quatre mois à compter de la publication de la présente loi :\
+1° Les dispositions relevant du domaine de la loi nécessaires à la transposition de la directive 2002/15/ CE du Parlement européen et du Conseil du 11 mars 2002 relative à l'aménagement du temps de travail des personnes exécutant des activités mobiles de transport routier, pour ce qui concerne le temps de travail des conducteurs indépendants ;\
+2° Les mesures nécessaires pour :\
+a) Instituer ou modifier un système de sanctions pénales et administratives en cas de méconnaissance de la directive de l'Union européenne mentionnée au 1° et des dispositions prises en application du même 1° ;\
+b) Adapter aux caractéristiques et contraintes particulières des départements et régions d'outre-mer, des collectivités territoriales de Guyane, de Martinique et de Saint-Pierre-et-Miquelon et du Département-Région de Mayotte les dispositions prises en application dudit 1°.\
+II. ― Le projet de loi de ratification de cette ordonnance est déposé devant le Parlement dans un délai de six mois à compter de sa publication.
+
+> **Nota :** Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er </sup>janvier 2026.
+
+## Article 5
+
+I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de six mois à compter de la publication de la présente loi :\
+1° Les dispositions relevant du domaine de la loi nécessaires pour l'application du règlement (UE) n° 996/2010 du Parlement européen et du Conseil du 20 octobre 2010 sur les enquêtes et la prévention des accidents et des incidents dans l'aviation civile et abrogeant la directive 94/56/ CE ;\
+2° Les mesures nécessaires pour :\
+a) Instituer ou modifier un système de sanctions pénales et administratives en cas de méconnaissance du règlement de l'Union européenne mentionné au 1° et des dispositions prises en application du même 1° ;\
+b) Adapter aux caractéristiques et contraintes particulières des départements et régions d'outre-mer, des collectivités territoriales de Guyane et de Martinique et du Département-Région de Mayotte les dispositions prises en application du 1° ;\
+c) Adapter aux caractéristiques et contraintes particulières de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de Saint-Martin les dispositions prises en application du 1° ;\
+d) Etendre, avec les adaptations nécessaires, à la Nouvelle-Calédonie, à la Polynésie française, à Wallis-et-Futuna et aux Terres australes et antarctiques françaises les dispositions prises en application du 1°, sous réserve des compétences dévolues à ces collectivités.\
+II. ― Le projet de loi de ratification de cette ordonnance est déposé devant le Parlement dans un délai de six mois à compter de sa publication.
+
+> **Nota :** Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er </sup>janvier 2026.
+
+## Article 6
+
+I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de dix mois à compter de la publication de la présente loi :\
+1° Les dispositions relevant du domaine de la loi nécessaires à la transposition de la directive 2010/40/ UE du Parlement européen et du Conseil du 7 juillet 2010 concernant le cadre pour le déploiement de systèmes de transport intelligents dans le domaine du transport routier et d'interfaces avec d'autres modes de transport ;\
+2° Les mesures nécessaires pour :\
+a) Instituer ou modifier un système de sanctions pénales et administratives en cas de méconnaissance de la directive de l'Union européenne mentionnée au 1° et des dispositions prises en application du même 1° ;\
+b) Adapter aux caractéristiques et contraintes particulières des départements et régions d'outre-mer, des collectivités territoriales de Guyane, de Martinique et de Saint-Pierre-et-Miquelon et du Département-Région de Mayotte les dispositions prises en application dudit 1°.\
+II. ― Le projet de loi de ratification de cette ordonnance est déposé devant le Parlement dans un délai de six mois à compter de sa publication.
+
+> **Nota :** Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er </sup>janvier 2026.
+
+## Article 7
+
+I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de douze mois à compter de la publication de la présente loi :\
+1° Les dispositions relevant du domaine de la loi nécessaires à la transposition de la directive 2010/65/ UE du Parlement et du Conseil du 20 octobre 2010 concernant les formalités déclaratives applicables aux navires à l'entrée et/ ou à la sortie des ports des Etats membres et abrogeant la directive 2002/6/ CE ;\
+2° Les mesures nécessaires pour :\
+a) Instituer ou modifier un système de sanctions pénales et administratives en cas de méconnaissance de la directive de l'Union européenne mentionnée au 1° et des dispositions prises en application du même 1° ;\
+b) Adapter aux caractéristiques et contraintes particulières des départements et régions d'outre-mer, des collectivités territoriales de Guyane et de Martinique et du Département-Région de Mayotte les dispositions prises en application du 1° ;\
+c) Adapter aux caractéristiques et contraintes particulières de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de Saint-Martin les dispositions prises en application du 1° ;\
+d) Etendre, avec les adaptations nécessaires, à la Nouvelle-Calédonie, à la Polynésie française, à Wallis-et-Futuna et aux Terres australes et antarctiques françaises les dispositions prises en application du 1°, sous réserve des compétences dévolues à ces collectivités.\
+II. ― Le projet de loi de ratification de cette ordonnance est déposé devant le Parlement dans un délai de six mois à compter de sa publication.
+
+> **Nota :** Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er </sup>janvier 2026.
+
+## Article 8
+
+I. ― Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance, dans un délai de six mois à compter de la publication de la présente loi :\
+1° Les dispositions relevant du domaine de la loi nécessaires pour l'application du règlement (CE) n° 216/2008 du Parlement européen et du Conseil du 20 février 2008 concernant des règles communes dans le domaine de l'aviation civile et instituant une Agence européenne de la sécurité aérienne, et abrogeant la directive 91/670/ CEE du Conseil, le règlement (CE) n° 1592/2002 et la directive 2004/36/ CE ;\
+2° Les mesures nécessaires pour :\
+a) Instituer ou modifier un système de sanctions pénales et administratives en cas de méconnaissance du règlement de l'Union européenne mentionné au 1° et des dispositions prises en application du même 1° ;\
+b) Adapter aux caractéristiques et contraintes particulières des départements et régions d'outre-mer, des collectivités territoriales de Guyane et de Martinique et du Département-Région de Mayotte les dispositions prises en application du 1° ;\
+c) Adapter aux caractéristiques et contraintes particulières de Saint-Pierre-et-Miquelon, de Saint-Barthélemy et de Saint-Martin les dispositions prises en application du 1° ;\
+d) Etendre, avec les adaptations nécessaires, à la Nouvelle-Calédonie, à la Polynésie française, à Wallis-et-Futuna et aux Terres australes et antarctiques françaises les dispositions prises en application du 1°, sous réserve des compétences dévolues à ces collectivités.\
+II. ― Le projet de loi de ratification de cette ordonnance est déposé devant le Parlement dans un délai de six mois à compter de sa publication.
+
+> **Nota :** Conformément au VII de l'article 52 de la loi n° 2025-797 du 11 août 2025, ces dispositions, dans leur rédaction résultant du titre VI de ladite loi, entrent en vigueur à une date fixée par décret, et au plus tard le 1<sup>er </sup>janvier 2026.
+
+---
+
+La présente loi sera exécutée comme loi de l'Etat.
+
+Fait à Paris, le 22 février 2012.
+
+Nicolas Sarkozy
+
+Par le Président de la République :
+
+Le Premier ministre,\
+François fillon\
+La ministre de l'écologie,\
+du développement durable,\
+des transports et du logement,\
+Nathalie Kosciusko-Morizet\
+Le ministre de l'intérieur,\
+de l'outre-mer, des collectivités territoriales\
+et de l'immigration,\
+Claude Guéant\
+Le ministre de l'économie,\
+des finances et de l'industrie,\
+François Baroin\
+Le ministre du travail,\
+de l'emploi et de la santé,\
+Xavier Bertrand\
+La ministre du budget, des comptes publics\
+et de la réforme de l'Etat,\
+porte-parole du Gouvernement,\
+Valérie Pécresse\
+La ministre auprès du ministre de l'intérieur,\
+de l'outre-mer, des collectivités territoriales\
+et de l'immigration, chargée de l'outre-mer,\
+Marie-Luce Penchard\
+Le ministre auprès de la ministre de l'écologie,\
+du développement durable,\
+des transports et du logement,\
+chargé des transports,\
+Thierry Mariani
+
+*\
+*

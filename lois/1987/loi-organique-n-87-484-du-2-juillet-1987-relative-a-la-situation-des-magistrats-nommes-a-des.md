@@ -1,0 +1,33 @@
+---
+title: "Loi organique n° 87-484 du 2 juillet 1987 relative à la situation des magistrats nommés à des fonctions du premier grade"
+identifier: "LEGITEXT000006068998"
+cid: "JORFTEXT000000874715"
+nature: "LOI_ORGANIQUE"
+number: "87-484"
+nor: "JUSX8700064L"
+type: organic-act
+jurisdiction: fr
+language: fr
+date: 1987-07-02
+last_amended: 1987-07-04
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068998"
+retrieved: 2026-10-11
+---
+
+# Loi organique n° 87-484 du 2 juillet 1987 relative à la situation des magistrats nommés à des fonctions du premier grade
+
+## Article 1
+
+I. - Sont validées les nominations de magistrats à des fonctions du premier grade, intervenues par décrets antérieurs à l'entrée en vigueur de la présente loi organique et n'ayant pas fait, à cette date, l'objet d'une décision d'annulation.\
+Ces nominations sont validées en tant qu'elles ne correspondaient pas aux limitations assortissant l'inscription des magistrats concernés au tableau d'avancement ou en tant que les modalités d'inscription de ces magistrats au tableau d'avancement n'étaient pas conformes aux dispositions statutaires applicables.\
+II. - Sont validés les actes accomplis par les magistrats installés dans des fonctions du premier grade antérieurement à l'entrée en vigueur de la présente loi organique et dont les nominations ont fait l'objet d'une décision d'annulation, à l'exception des actes dont l'illégalité résulterait d'un autre motif que la nomination des intéressés.
+
+---
+
+FRANçOIS MITTERRAND Par le Président de la République :\
+Le Premier ministre,\
+JACQUES CHIRAC\
+Le garde des sceaux, ministre de la justice,\
+ALBIN CHALANDON

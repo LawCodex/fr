@@ -1,0 +1,41 @@
+{
+ "articles": {
+  "decrets-lois": 73,
+  "lois": 27985,
+  "ordonnances": 7154
+ },
+ "date": "2026-10-11",
+ "in_force_texts_by_nature": {
+  "": 2,
+  "ACCORD_FONCTION_PUBLIQUE": 32,
+  "ARRETE": 69708,
+  "AVIS": 26,
+  "CIRCULAIRE": 1,
+  "CODE": 76,
+  "CONSTITUTION": 3,
+  "CONVENTION": 1,
+  "DECISION": 25,
+  "DECLARATION": 1,
+  "DECRET": 44813,
+  "DECRET_LOI": 12,
+  "DELIBERATION": 48,
+  "LOI": 2978,
+  "LOI_CONSTIT": 19,
+  "LOI_ORGANIQUE": 106,
+  "ORDONNANCE": 1320
+ },
+ "missing": {
+  "missing_article": 110
+ },
+ "skipped_no_in_force_articles": {
+  "LOI": 257,
+  "LOI_ORGANIQUE": 26,
+  "ORDONNANCE": 4
+ },
+ "texts": {
+  "decrets-lois": 12,
+  "lois": 2720,
+  "lois (organiques)": 80,
+  "ordonnances": 1316
+ }
+}

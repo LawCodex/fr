@@ -1,0 +1,71 @@
+---
+title: "Loi n° 75-1242 du 27 décembre 1975 DE FINANCES RECTIFICATIVE POUR 1975 (1)."
+identifier: "LEGITEXT000006068491"
+cid: "JORFTEXT000000699030"
+nature: "LOI"
+number: "75-1242"
+type: act
+jurisdiction: fr
+language: fr
+date: 1975-12-27
+last_amended: 2024-09-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068491"
+retrieved: 2026-10-11
+---
+
+# Loi n° 75-1242 du 27 décembre 1975 DE FINANCES RECTIFICATIVE POUR 1975 (1).
+
+## Article 1
+
+Alinéa modificateur\
+Les taux de 3,10 p. 100 et de 4,20 p. 100 sont portés à 4,10 p. 100 et à 5,20 p. 100 lorsque les produits auxquels ils s'appliquent ont été commercialisés en 1974 par l'intermédiaire des groupements de producteurs constitués pour la réalisation des objectifs définis par la loi d'orientation agricole n° 60-808 du 5 août 1960. Le remboursement correspondant à ces majorations supplémentaires est accordé au vu d'une déclaration spéciale déposée avant le 1er avril 1976.
+
+## Article 3
+
+Les logements mis à la disposition des personnels de la gendarmerie, dans les conditions prévues par l'article D14 du code du domaine de l'Etat, ne sont pas considérés comme un avantage en nature pour le calcul de l'impôt sur le revenu.
+
+## Article 4
+
+Les contrats d'assurances sur les risques de gel de récoltes sont, à compter du 1er janvier 1976, exonérés de la taxe spéciale sur les conventions d'assurances ainsi que de la contribution additionnelle perçue au profit du fonds national de garantie des calamités agricoles.
+
+## Article 5
+
+I - L'exonération de la taxe spéciale sur les conventions d'assurances des navires de commerce contre les risques de toute nature de navigation maritime est, à compter du 1er janvier 1976, étendue aux contrats d'assurances des navires de pêche contre les mêmes risques.\
+II - Le tarif de la taxe spéciale sur les conventions d'assurances est fixé, à compter du 1er février 1976, à 8,75 p. 100 pour les assurances contre les risques de toute nature de navigation maritime ou fluviale des bateaux de sport ou de plaisance.
+
+## Article 6
+
+I - Lorsqu'une personne morale passible de l'impôt sur les sociétés a pour objet de transférer gratuitement à ses membres la jouissance d'un bien meuble ou immeuble, la valeur nette de l'avantage en nature ainsi consenti n'est pas prise en compte pour la détermination du résultat imposable et elle ne constitue pas un revenu distribué au sens des articles 109 à 111 du code général des impôts. Cet avantage est exonéré d'impôt entre les mains du bénéficiaire, sauf si celui-ci est une personne morale passible de l'impôt sur les sociétés ou une entreprise imposable à l'impôt sur le revenu selon les règles des bénéfices industriels et commerciaux. Si aucune opération productive de recettes n'est réalisée avec des tiers, l'article 223 septies du code général des impôts ne s'applique pas.\
+Les services indispensables à l'utilisation du bien et fournis par la personne morale à ses membres moyennant, indépendamment des apports, le strict remboursement de la part qui leur incombe dans les dépenses communes, sont exonérés de la taxe sur la valeur ajoutée.\
+II - Les remboursements de frais effectués par les membres des personnes morales ayant pour objet de permettre à ceux-ci l'utilisation commune de moyens nécessaires à l'exercice de leur profession sont exonérés de la taxe sur la valeur ajoutée.\
+Cette exonération est subordonnée à la condition que le remboursement effectué par chaque membre corresponde strictement à la part lui incombant dans les dépenses communes et qu'aucun des membres ne soit assujetti à la taxe sur la valeur ajoutée sur plus de 10 p. 100 de ses recettes totales.\
+III - Les dispositions des I et II ci-dessus ne sont pas applicables aux personnes morales qui réalisent avec des tiers des opérations productives de recettes, à moins qu'il ne s'agisse d'opérations accessoires n'excédant pas 10 p. 100 de leurs recettes totales ou résultant d'une obligation imposée par la puissance publique.\
+IV - Un décret fixe la nature des renseignements particuliers que les sociétés mentionnées aux I et II doivent fournir annuellement au service des impôts, indépendamment des déclarations dont la production est déjà prévue par le code général des impôts.\
+V - Le présent article entrera en vigueur le 1er janvier 1976.\
+Alinéa modificateur.
+
+## Article 7
+
+I Alinéa modificateur.
+
+Les dispositions de l'alinéa précédent s'appliquent même au cas où le délai de huit ans est venu à expiration.
+
+II - La plus-value réalisée par une personne relevant de l'impôt sur le revenu lors de l'apport d'éléments d'actif affectés à l'exercice de sa profession à une société civile de moyens définie à l'article 38 de l'ordonnance n° 2023-77 du 8 février 2023 relative à l'exercice en société des professions libérales réglementées est imposée dans les conditions prévues à l'article 93 1 bis du code général des impôts.
+
+Les parts de sociétés civiles de moyens constituent des éléments affectés à l'exercice de la profession au sens de l'article 93 1 du code précité.
+
+> **Nota :** Conformément au premier alinéa du I de l’article 134 de l’ordonnance n° 2023-77 du 8 février 2023, ces dispositions entrent en vigueur au 1er septembre 2024.
+
+## Article 9
+
+I (Paragraphe abrogé).\
+II - Le prélèvement prévu à l'article 125 A du code général des impôts est assis sur le tiers des produits des sommes inscrites à ce compte spécial. Le prélèvement est applicable dans tous les cas.\
+III (Paragraphe abrogé).
+
+---
+
+PRESIDENT DE LA REPUBLIQUE : VALERY GISCARD D'ESTAING.\
+PREMIER MINISTRE : JACQUES CHIRAC.\
+MINISTRE DE L'ECONOMIE ET DES FINANCES : JEAN-PIERRE FOURCADE.

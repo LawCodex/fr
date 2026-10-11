@@ -1,0 +1,219 @@
+---
+title: "LOI n° 2018-133 du 26 février 2018 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité"
+identifier: "LEGITEXT000036645073"
+cid: "JORFTEXT000036644772"
+nature: "LOI"
+number: "2018-133"
+nor: "INTX1728622L"
+type: act
+jurisdiction: fr
+language: fr
+date: 2018-02-26
+last_amended: 2018-05-10
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000036645073"
+retrieved: 2026-10-11
+---
+
+# LOI n° 2018-133 du 26 février 2018 portant diverses dispositions d'adaptation au droit de l'Union européenne dans le domaine de la sécurité
+
+L'Assemblée nationale et le Sénat ont adopté,\
+Le Président de la République promulgue la loi dont la teneur suit :
+
+## Titre Ier : DISPOSITIONS TENDANT À TRANSPOSER LA DIRECTIVE (UE) 2016/1148 DU PARLEMENT EUROPÉEN ET DU CONSEIL DU 6 JUILLET 2016 CONCERNANT DES MESURES DESTINÉES À ASSURER UN NIVEAU ÉLEVÉ COMMUN DE SÉCURITÉ DES RÉSEAUX ET DES SYSTÈMES D'INFORMATION DANS L'UNION
+
+### Chapitre Ier : Dispositions communes
+
+#### Article 1
+
+Pour l'application du présent titre, on entend par réseau et système d'information :\
+1° Tout réseau de communications électroniques tel que défini au 2° de l'article L. 32 du code des postes et des communications électroniques ;\
+2° Tout dispositif ou tout ensemble de dispositifs interconnectés ou apparentés dont un ou plusieurs éléments assurent, en exécution d'un programme, un traitement automatisé de données numériques ;\
+3° Les données numériques stockées, traitées, récupérées ou transmises par les éléments mentionnés aux 1° et 2° du présent article en vue de leur fonctionnement, utilisation, protection et maintenance.\
+La sécurité des réseaux et systèmes d'information consiste en leur capacité de résister, à un niveau de confiance donné, à des actions qui compromettent la disponibilité, l'authenticité, l'intégrité ou la confidentialité de données stockées, transmises ou faisant l'objet d'un traitement, et des services connexes que ces réseaux et systèmes d'information offrent ou rendent accessibles.
+
+#### Article 2
+
+Les dispositions du présent titre ne sont pas applicables aux opérateurs mentionnés au 15° de l'article L. 32 du code des postes et des communications électroniques pour leurs activités liées à l'exploitation de réseaux de communications électroniques ou à la fourniture de services de communications électroniques, ni aux prestataires de services de confiance soumis aux exigences énoncées à l'article 19 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE.\
+Elles ne sont pas non plus applicables aux opérateurs de services essentiels ni aux fournisseurs de service numérique pour les réseaux et systèmes d'information mentionnés au premier alinéa des articles 5 et 12 de la présente loi, qui sont soumis, en application d'un acte juridique de l'Union européenne, à des exigences sectorielles de sécurité et de notification d'incidents ayant un effet au moins équivalent aux obligations résultant de l'application du présent titre.
+
+#### Article 3
+
+I. - Les prestataires de service habilités à effectuer des contrôles en application du présent titre sont soumis aux mêmes règles de confidentialité et de discrétion professionnelle que les agents publics et les services de l'Etat à l'égard des informations qu'ils recueillent auprès des opérateurs mentionnés à l'article 5 et des fournisseurs de service numérique mentionnés à l'article 11.\
+II. - Lorsqu'elle informe le public ou les Etats membres de l'Union européenne d'incidents dans les conditions prévues aux articles 7 et 13, l'autorité administrative compétente tient compte des intérêts économiques de ces opérateurs et fournisseurs de service numérique et veille à ne pas révéler d'informations susceptibles de porter atteinte à leur sécurité et au secret en matière commerciale et industrielle.
+
+#### Article 4
+
+Les modalités d'application du présent titre sont déterminées par décret en Conseil d'Etat. Ce décret fixe notamment la liste des services essentiels au fonctionnement de la société ou de l'économie mentionnés à l'article 5, ainsi que, pour chacun des domaines de sécurité mentionnés à l'article 12, la nature des mesures que les fournisseurs de service numérique sont tenus de mettre en œuvre.
+
+### Chapitre II : Dispositions relatives à la sécurité des réseaux et systèmes d'information des opérateurs de services essentiels
+
+#### Article 5
+
+Les opérateurs, publics ou privés, offrant des services essentiels au fonctionnement de la société ou de l'économie et dont la continuité pourrait être gravement affectée par des incidents touchant les réseaux et systèmes d'information nécessaires à la fourniture desdits services sont soumis aux dispositions du présent chapitre. Ces opérateurs sont désignés par le Premier ministre. La liste de ces opérateurs est actualisée à intervalles réguliers et au moins tous les deux ans.\
+Les dispositions du présent chapitre ne sont pas applicables aux opérateurs mentionnés aux articles L. 1332-1 et L. 1332-2 du code de la défense, pour les systèmes d'information mentionnés au premier alinéa de l'article L. 1332-6-1 du même code.
+
+> **Nota :** Conformément aux dispositions de l'article 25 de la présente loi, ces dispositions entrent en vigueur à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 10 mai 2018. Par exception, la désignation des opérateurs de services essentiels prévue au premier alinéa intervient au plus tard le 9 novembre 2018.
+
+#### Article 6
+
+Le Premier ministre fixe les règles de sécurité nécessaires à la protection des réseaux et systèmes d'information mentionnés au premier alinéa de l'article 5. Ces règles ont pour objet de garantir un niveau de sécurité adapté au risque existant, compte tenu de l'état des connaissances. Elles définissent les mesures appropriées pour prévenir les incidents qui compromettent la sécurité des réseaux et systèmes d'information utilisés pour la fourniture des services essentiels ou pour en limiter l'impact afin d'assurer la continuité de ces services essentiels. Les opérateurs mentionnés au même article 5 appliquent ces règles à leurs frais.\
+Les règles prévues au premier alinéa du présent article sont définies dans chacun des domaines suivants :\
+1° La gouvernance de la sécurité des réseaux et systèmes d'information ;\
+2° La protection des réseaux et systèmes d'information ;\
+3° La défense des réseaux et systèmes d'information ;\
+4° La résilience des activités.\
+Les règles prévues au même premier alinéa peuvent notamment prescrire que les opérateurs recourent à des dispositifs matériels ou logiciels ou à des services informatiques dont la sécurité a été certifiée.
+
+#### Article 7
+
+I. - Les opérateurs mentionnés à l'article 5 déclarent, sans délai après en avoir pris connaissance, à l'autorité nationale de sécurité des systèmes d'information mentionnée à l'article L. 2321-1 du code de la défense les incidents affectant les réseaux et systèmes d'information nécessaires à la fourniture de services essentiels, lorsque ces incidents ont ou sont susceptibles d'avoir, compte tenu notamment du nombre d'utilisateurs et de la zone géographique touchés ainsi que de la durée de l'incident, un impact significatif sur la continuité de ces services.\
+II. - Après avoir consulté l'opérateur concerné, l'autorité administrative peut informer le public d'un incident mentionné au I du présent article, lorsque cette information est nécessaire pour prévenir ou traiter un incident. Lorsqu'un incident a un impact significatif sur la continuité de services essentiels fournis par l'opérateur dans d'autres Etats membres de l'Union européenne, l'autorité administrative en informe les autorités ou organismes compétents de ces Etats.
+
+#### Article 8
+
+Le Premier ministre peut soumettre les opérateurs mentionnés à l'article 5 à des contrôles destinés à vérifier le respect des obligations prévues au présent chapitre ainsi que le niveau de sécurité des réseaux et systèmes d'information nécessaires à la fourniture de services essentiels.\
+Les contrôles sont effectués, sur pièce et sur place, par l'autorité nationale de sécurité des systèmes d'information mentionnée à l'article L. 2321-1 du code de la défense ou par des prestataires de service qualifiés par le Premier ministre. Le coût des contrôles est à la charge des opérateurs.\
+Les opérateurs sont tenus de communiquer à l'autorité ou au prestataire de service chargé du contrôle prévu au premier alinéa du présent article les informations et éléments nécessaires pour réaliser le contrôle, y compris les documents relatifs à leur politique de sécurité et, le cas échéant, les résultats d'audit de sécurité, et leur permettre d'accéder aux réseaux et systèmes d'information faisant l'objet du contrôle afin d'effectuer des analyses et des relevés d'informations techniques.\
+En cas de manquement constaté à l'occasion d'un contrôle, l'autorité mentionnée au deuxième alinéa peut mettre en demeure les dirigeants de l'opérateur concerné de se conformer, dans un délai qu'elle fixe, aux obligations qui incombent à l'opérateur en vertu du présent chapitre. Le délai est déterminé en tenant compte des conditions de fonctionnement de l'opérateur et des mesures à mettre en œuvre.
+
+#### Article 9
+
+Est puni de 100 000 € d'amende le fait, pour les dirigeants des opérateurs mentionnés à l'article 5, de ne pas se conformer aux règles de sécurité mentionnées à l'article 6 à l'issue du délai fixé par la mise en demeure qui leur a été adressée en application de l'article 8.\
+Est puni de 75 000 € d'amende le fait, pour les mêmes personnes, de ne pas satisfaire à l'obligation de déclaration d'incident prévue au I de l'article 7.\
+Est puni de 125 000 € d'amende le fait, pour les mêmes personnes, de faire obstacle aux opérations de contrôle mentionnées à l'article 8.
+
+### Chapitre III : Dispositions relatives à la sécurité des réseaux et systèmes d'information des fournisseurs de service numérique
+
+#### Article 10
+
+Pour l'application du présent chapitre, on entend :\
+1° Par service numérique tout service fourni normalement contre rémunération, à distance, par voie électronique et à la demande individuelle d'un destinataire de services ;\
+2° Par fournisseur de service numérique toute personne morale qui fournit l'un des services suivants :\
+a) Place de marché en ligne, à savoir un service numérique qui permet à des consommateurs ou à des professionnels, au sens du dernier alinéa de l'article liminaire du code de la consommation, de conclure des contrats de vente ou de service en ligne avec des professionnels soit sur le site internet de la place de marché en ligne, soit sur le site internet d'un professionnel qui utilise les services informatiques fournis par la place de marché en ligne ;\
+b) Moteur de recherche en ligne, à savoir un service numérique qui permet aux utilisateurs d'effectuer des recherches sur, en principe, tous les sites internet ou sur les sites internet dans une langue donnée, sur la base d'une requête lancée sur n'importe quel sujet sous la forme d'un mot clé, d'une phrase ou d'une autre entrée, et qui renvoie des liens à partir desquels il est possible de trouver des informations en rapport avec le contenu demandé ;\
+c) Service d'informatique en nuage, à savoir un service numérique qui permet l'accès à un ensemble modulable et variable de ressources informatiques pouvant être partagées.
+
+#### Article 11
+
+I. - Tout fournisseur de service numérique au sens de l'article 10, établi hors de l'Union européenne, qui offre ses services sur le territoire national et qui n'a désigné aucun représentant dans un autre Etat membre de l'Union européenne procède à la désignation d'un représentant établi sur le territoire national auprès de l'autorité nationale de sécurité des systèmes d'information prévue à l'article L. 2321-1 du code de la défense aux fins d'application du présent chapitre. Cette désignation ne fait pas obstacle aux actions qui pourraient être introduites, en application de l'article 15, à l'encontre des dirigeants du fournisseur concerné.\
+II. - Sont soumis aux dispositions du présent chapitre les fournisseurs de service numérique qui offrent leurs services dans l'Union européenne :\
+1° Lorsque leur siège social ou leur établissement principal est établi sur le territoire national ;\
+2° Ou qui ont, en application du I, désigné un représentant sur le territoire national.\
+III. - Les dispositions du présent chapitre ne sont pas applicables aux entreprises qui emploient moins de cinquante salariés et dont le chiffre d'affaires annuel n'excède pas 10 millions d'euros.
+
+#### Article 12
+
+Les fournisseurs de service numérique mentionnés à l'article 11 garantissent, compte tenu de l'état des connaissances, un niveau de sécurité des réseaux et des systèmes d'information nécessaires à la fourniture de leurs services dans l'Union européenne adapté aux risques existants.\
+A cet effet, ils sont tenus d'identifier les risques qui menacent la sécurité de ces réseaux et systèmes d'information et de prendre des mesures techniques et organisationnelles nécessaires et proportionnées pour gérer ces risques, pour éviter les incidents de nature à porter atteinte à ces réseaux et systèmes d'information ainsi que pour en réduire au minimum l'impact, de manière à garantir la continuité de leurs services. Ces mesures interviennent dans chacun des domaines suivants :\
+1° La sécurité des systèmes et des installations ;\
+2° La gestion des incidents ;\
+3° La gestion de la continuité des activités ;\
+4° Le suivi, l'audit et le contrôle ;\
+5° Le respect des normes internationales.
+
+#### Article 13
+
+I. - Les fournisseurs de service numérique mentionnés à l'article 11 déclarent, sans délai après en avoir pris connaissance, à l'autorité nationale de sécurité des systèmes d'information mentionnée à l'article L. 2321-1 du code de la défense les incidents affectant les réseaux et systèmes d'information nécessaires à la fourniture de leurs services dans l'Union européenne, lorsque les informations dont ils disposent font apparaître que ces incidents ont un impact significatif sur la fourniture de ces services, compte tenu notamment du nombre d'utilisateurs touchés par l'incident, de sa durée, de sa portée géographique, de la gravité de la perturbation du fonctionnement du service et de l'ampleur de son impact sur le fonctionnement de la société ou de l'économie.\
+II. - Après avoir consulté le fournisseur de service numérique concerné, l'autorité administrative peut informer le public d'un incident mentionné au I ou imposer au fournisseur de le faire lorsque cette information est nécessaire pour prévenir ou traiter un incident ou est justifiée par un motif d'intérêt général. Lorsqu'un incident a des conséquences significatives sur les services fournis dans d'autres Etats membres de l'Union européenne, l'autorité administrative en informe les autorités ou organismes compétents de ces Etats, qui peuvent rendre public l'incident.
+
+#### Article 14
+
+Lorsque le Premier ministre est informé qu'un fournisseur de service numérique mentionné à l'article 11 ne satisfait pas à l'une des obligations prévues aux articles 12 ou 13, il peut le soumettre à des contrôles destinés à vérifier le respect des obligations prévues au présent chapitre ainsi que le niveau de sécurité des réseaux et systèmes d'information nécessaires à la fourniture de ses services. Il en informe si nécessaire les autorités compétentes des autres Etats membres de l'Union européenne dans lesquels sont situés des réseaux et systèmes d'information de ce fournisseur et coopère avec elles.\
+Les contrôles sont effectués, sur pièce et sur place, par l'autorité nationale de sécurité des systèmes d'information mentionnée à l'article L. 2321-1 du code de la défense ou par des prestataires de service qualifiés par le Premier ministre. Le coût des contrôles est à la charge des fournisseurs de service numérique.\
+Les fournisseurs de service numérique sont tenus de communiquer à l'autorité ou au prestataire de service chargé du contrôle prévu au premier alinéa du présent article les informations nécessaires pour évaluer la sécurité de leurs réseaux et systèmes d'information, y compris les documents relatifs à leurs politiques de sécurité, et, le cas échéant, leur permettre d'accéder aux réseaux et systèmes d'information faisant l'objet du contrôle afin d'effectuer des analyses et des relevés d'informations techniques.\
+En cas de manquement constaté à l'occasion d'un contrôle, l'autorité mentionnée au deuxième alinéa peut mettre en demeure les dirigeants du fournisseur concerné de se conformer, dans un délai qu'elle fixe, aux obligations qui incombent au fournisseur en vertu du présent chapitre. Le délai est déterminé en tenant compte des conditions de fonctionnement du fournisseur et des mesures à mettre en œuvre.
+
+#### Article 15
+
+Est puni de 75 000 € d'amende le fait, pour les dirigeants des fournisseurs de service numérique mentionnés à l'article 11, de ne pas se conformer aux mesures de sécurité mentionnées à l'article 12, à l'issue du délai fixé par la mise en demeure qui leur a été adressée en application de l'article 14.\
+Est puni de 50 000 € d'amende le fait, pour les mêmes personnes, de ne pas satisfaire aux obligations de déclaration d'incident ou d'information du public prévues à l'article 13.\
+Est puni de 100 000 € d'amende le fait, pour les mêmes personnes, de faire obstacle aux opérations de contrôle mentionnées à l'article 14.
+
+## Titre IV : DISPOSITIONS APPLICABLES À L'OUTRE-MER
+
+### Article 24
+
+I. - Les titres Ier et V sont applicables à Wallis-et-Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, dans leur rédaction résultant de la présente loi.\
+Pour l'application du premier alinéa de l'article 2 à Wallis-et-Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises, les mots : "exigences énoncées à l'article 19 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/CE" sont remplacés par les mots : "règles applicables en France métropolitaine en application de l'article 19 du règlement (UE) n° 910/2014 du Parlement européen et du Conseil du 23 juillet 2014 sur l'identification électronique et les services de confiance pour les transactions électroniques au sein du marché intérieur et abrogeant la directive 1999/93/ CE".
+
+II., III. et IV. - A modifié les dispositions suivantes :
+
+> - Loi n° 55-385 du 3 avril 1955
+>
+> > Art. 15
+
+A modifié les dispositions suivantes :
+
+> - Code de la sécurité intérieure
+>
+> > Art. L344-1, Art. L345-1, Art. L346-1, Art. L347-1, Art. L344-2, Art. L345-2, Art. L345-2-1
+
+A modifié les dispositions suivantes :
+
+> - Code de la défense.
+>
+> > Art. L2441-1, Art. L2451-1, Art. L2461-1, Art. L2471-1, Art. L2441-3-1, Art. L2451-4-1, Art. L2461-4-1, Art. L2471-3-1
+
+## Titre V : DISPOSITIONS TRANSITOIRES
+
+### Article 25
+
+Le titre Ier entre en vigueur à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 10 mai 2018. Par exception, la désignation des opérateurs de services essentiels prévue au premier alinéa de l'article 5 intervient au plus tard le 9 novembre 2018.\
+Les articles 16, 17, 19, 20 et 21 ainsi que les 2°, 3° et 4° de l'article 18 entrent en vigueur à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 septembre 2018.\
+Le 1° de l'article 18 entre en vigueur à compter d'une date fixée par décret en Conseil d'Etat, et au plus tard le 14 décembre 2019.\
+Les personnes qui, à la date d'entrée en vigueur fixée au deuxième alinéa du présent article, détiennent des armes acquises depuis le 13 juin 2017 qui étaient précédemment soumises à enregistrement et sont désormais soumises à déclaration au titre de leur classement dans la catégorie C, procèdent à leur déclaration auprès du représentant de l'Etat dans le département du lieu de leur domicile ou, à Paris, du préfet de police, dans les conditions fixées par décret en Conseil d'Etat et au plus tard le 14 décembre 2019.\
+La présente loi sera exécutée comme loi de l'Etat.
+
+---
+
+Fait à Paris, le 26 février 2018.
+
+Emmanuel Macron
+
+Par le Président de la République :
+
+Le Premier ministre,
+
+Edouard Philippe
+
+Le ministre d'Etat, ministre de l'intérieur,
+
+Gérard Collomb
+
+Le ministre d'Etat, ministre de la transition écologique et solidaire,
+
+Nicolas Hulot
+
+La garde des sceaux, ministre de la justice,
+
+Nicole Belloubet
+
+La ministre des armées,
+
+Florence Parly
+
+Le ministre de la cohésion des territoires,
+
+Jacques Mézard
+
+La ministre des solidarités et de la santé,
+
+Agnès Buzyn
+
+Le ministre de l'économie et des finances,
+
+Bruno Le Maire
+
+Le ministre de l'action et des comptes publics,
+
+Gérald Darmanin
+
+La ministre des outre-mer,
+
+Annick Girardin
+
+Le secrétaire d'Etat auprès du Premier ministre, chargé du numérique,
+
+Mounir Mahjoubi

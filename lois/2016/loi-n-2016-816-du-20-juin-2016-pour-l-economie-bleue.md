@@ -1,0 +1,259 @@
+---
+title: "LOI n° 2016-816 du 20 juin 2016 pour l'économie bleue"
+identifier: "LEGITEXT000032730686"
+cid: "JORFTEXT000032728685"
+nature: "LOI"
+number: "2016-816"
+nor: "DEVX1600975L"
+type: act
+jurisdiction: fr
+language: fr
+date: 2016-06-20
+last_amended: 2022-01-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000032730686"
+retrieved: 2026-10-11
+---
+
+# LOI n° 2016-816 du 20 juin 2016 pour l'économie bleue
+
+L'Assemblée nationale et le Sénat ont adopté,\
+Le Président de la République promulgue la loi dont la teneur suit :
+
+## Titre Ier : RENFORCER LA COMPÉTITIVITÉ DES EXPLOITATIONS MARITIMES ET DES PORTS DE COMMERCE
+
+### Chapitre Ier : Simplifier les procédures administratives
+
+#### Article 16
+
+A modifié les dispositions suivantes :
+
+> -Code des transports
+>
+> > Art. L5511-3, Art. L5511-4, Art. L5542-5, Art. L5542-18, Art. L5532-1, Art. L5552-16, Art. L5715-4, Art. L5735-4, Art. L5745-4, Art. L5755-4, Art. L5549-5, Art. L5552-18, Art. L5762-1, Art. L5772-1, Art. L5785-1, Art. L5785-3 Art. L5795-1, Art. L5795-4
+
+> -Code civil
+>
+> > Art. 59, Art. 993
+
+> -Code rural et de la pêche maritime
+>
+> > Art. L921-7, Art. L945-4
+
+> -Code du travail maritime
+>
+> > Art. 54
+
+> -Loi du 1er avril 1942
+>
+> > Sct. Titre II : Rôle d'équipage., Art. 3, Art. 5, Sct. Titre III : Permis de circulation., Art. 6, Art. 6-1, Sct. Titre V : Droits attachés aux titres de navigation., Art. 10
+
+> -Loi n° 77-441 du 27 avril 1977
+>
+> > Art. 1
+> >
+> > Ordonnance n° 2010-1307 du 28 octobre 2010
+> >
+> > Art. 9
+
+Code de justice militaire
+
+Art. L121-5
+
+#### Article 18
+
+Les articles 15, 16 et 17 entrent en vigueur à une date fixée par décret en Conseil d'Etat et, au plus tard, six mois après la promulgation de la présente loi.
+
+#### Article 19
+
+I et III. A créé les dispositions suivantes :
+
+> -Loi n° 67-5 du 3 janvier 1967
+>
+> > Art. 57 bis
+
+A modifié les dispositions suivantes :
+
+> -Code des transports
+>
+> > Art. L5760-1, Art. L5770-1, Art. L5780-1, Art. L5790-1
+
+A créé les dispositions suivantes :
+
+> -Code des transports
+>
+> > Art. L5730-1, Art. L5750-1
+
+II.- Les 4° et 5° de l'article 1er, les articles 2,3,4,5,6 et 9, le 1° de l'article 10 en ce qu'il insère à la loi n° 67-5 du 3 janvier 1967 un article 43 A qui renvoie aux articles 241 à 245,249 et 251 du code des douanes, le 2° de l'article 10 en ce qu'il abroge les articles 44,45,46 et 53 de la loi n° 67-5 du 3 janvier 1967, les articles 11 et 13 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+L'article 10 est applicable en Nouvelle-Calédonie et à Wallis-et-Futuna.
+
+L'article 12 n'est pas applicable à Saint-Pierre-et-Miquelon, à Saint-Martin et à Saint-Barthélemy.
+
+Le même article 12 est applicable à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+L'article 14 est applicable en Nouvelle-Calédonie, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+L'article 15 est applicable à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+L'article 16 est applicable, à l'exception des 3°, 5°, 6°, 7° et 8° du I, en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+> **Nota :** Conformément au I de l’article 37 de l’ordonnance n° 2021-1192 du 15 septembre 2021, ces dispositions entreront en vigueur le 1er janvier 2022.
+
+### Chapitre II : Rénover la gouvernance des ports
+
+#### Article 31
+
+I. - Les articles 20, 21, 22, 23, 24, 25, 27 et 29 ne sont pas applicables à Saint-Barthélemy et à Saint-Martin.\
+II. - L'article 27 n'est pas applicable à Saint-Pierre-et-Miquelon.
+
+### Chapitre III : Renforcer l'employabilité des gens de mer et leur protection
+
+#### Article 46
+
+Le Gouvernement remet au Parlement, dans un délai de six mois à compter de la promulgation de la présente loi, un rapport portant sur les axes possibles d'adaptation du régime de protection sociale des marins dans l'objectif d'accroître tant l'attractivité du métier de marin que la compétitivité des entreprises. Ce rapport, établi par le Conseil supérieur des gens de mer, prend en compte, d'une part, l'évolution générale du système de protection sociale français et son financement et, d'autre part, les attentes et les besoins des gens de mer. Il tient compte des particularités des départements, régions et collectivités d'outre-mer.
+
+#### Article 47
+
+I. - A modifié les dispositions suivantes :
+
+> - Code des transports
+>
+> > Art. L5725-1, Art. L5765-1, Art. L5775-1, Art. L5785-1, Art. L5785-6, Art. L5795-1
+
+A créé les dispositions suivantes :
+
+> - Code des transports
+>
+> > Art. L5785-5-2
+
+II. - A. - L'article 32 de la présente loi, à l'exception du dernier alinéa, est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.\
+B. - Le dernier alinéa de l'article 32 de la présente loi n'est pas applicable à Mayotte.\
+C. - Les 1° à 3° de l'article 33 de la présente loi sont applicables à Wallis-et-Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.\
+D. - L'article 34 est applicable à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.\
+E. - Le 1° de l'article 36 de la présente loi est applicable à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.\
+F. - L'article 37 de la présente loi est applicable à Wallis-et-Futuna, en Polynésie française, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.\
+G. - L'article 38 et les I et II de l'article 39 de la présente loi ne sont pas applicables à Mayotte.
+
+#### Article 48
+
+Les pensions de retraite des marins liquidées avant le 19 octobre 1999 peuvent être révisées à la demande des intéressés, déposée à compter du 1er janvier 2016, et à compter de cette demande, afin de bénéficier des dispositions du 1° de l'article L. 5552-17 du code des transports relatives à la prise en compte, pour le double de leur durée, des périodes de services militaires en période de guerre, au titre de leur participation à la guerre d'Algérie ou aux combats en Tunisie et au Maroc, selon les modalités en vigueur à la date de promulgation de la présente loi.
+
+## Titre II : SOUTENIR LES PÊCHES MARITIMES ET LES CULTURES MARINES
+
+### Article 79
+
+Le Gouvernement remet au Parlement, dans un délai de six mois à compter de la promulgation de la présente loi, un rapport portant sur les possibilités et les conditions, pour les pêcheurs et les aquaculteurs, d'une diversification de leur activité par le tourisme, notamment le pescatourisme et la commercialisation directe des produits de la pêche, transformés ou non.
+
+## Titre IV : DISPOSITIONS DIVERSES
+
+### Article 85
+
+A partir du 1er janvier 2025, le rejet en mer des sédiments et résidus de dragage pollués est interdit. Une filière de traitement des sédiments et résidus et de récupération des macro-déchets associés est mise en place. Les seuils au-delà desquels les sédiments et résidus ne peuvent être immergés sont définis par voie réglementaire.
+
+### Article 96
+
+I., II. et III. - A modifié les dispositions suivantes :
+
+> - Code de la consommation
+>
+> > Art. L251-1
+
+> - Code des transports
+>
+> > Art. L5763-1, Art. L5773-1, Art. L5783-1
+
+> - Code de la sécurité intérieure
+>
+> > Art. L346-2
+
+IV. - A. - Les articles 51 et 60 ne sont pas applicables à Saint-Pierre-et-Miquelon.
+
+B. - L'article 52 est applicable à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+C. - Les articles 55, 56, 80 et 91 ne sont pas applicables à Saint-Barthélemy.
+
+D. - L'article 57 est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+E. - L'article 61 est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+F. - L'article 62 est applicable en Nouvelle-Calédonie, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+G. - L'article 63 est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+H. - L'article 64 est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+I. - Les articles 66, 67, 68, 69 et 71 sont applicables en Nouvelle-Calédonie, en Polynésie française et à Wallis-et-Futuna.
+
+J. - L'article 72 est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+K. - L'article 78 n'est pas applicable à Saint-Barthélemy et Saint-Pierre-et-Miquelon.
+
+L. - L'article 86 est applicable à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+M. - L'article 87 est applicable à Wallis-et-Futuna, en Polynésie française uniquement pour les 1° et 4°, en Nouvelle-Calédonie et dans les Terres australes et antarctiques françaises.
+
+N. - L'article 88 est applicable en Nouvelle-Calédonie, à Wallis-et-Futuna et dans les Terres australes et antarctiques françaises.
+
+### Article 97
+
+I. - Le Gouvernement remet au Parlement, dans un délai de dix-huit mois à compter de la promulgation de la présente loi, un rapport sur la création d'un code de la mer rassemblant l'ensemble des dispositions législatives et réglementaires en vigueur relatives aux questions maritimes. Ce rapport fait également le point sur l'adaptation de ces dispositions aux départements et régions d'outre-mer et sur leur extension aux collectivités d'outre-mer régies par l'article 74 de la Constitution et à la Nouvelle-Calédonie et indique les évolutions souhaitables dans ce domaine.\
+II. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance toute mesure relevant du domaine de la loi afin de regrouper, d'ordonner et de mettre à jour les dispositions relatives aux espaces maritimes.\
+Ces mesures visent à :\
+1° Préciser la définition et la délimitation des espaces maritimes, notamment en ce qui concerne les eaux intérieures, la mer territoriale, la zone contiguë, la zone économique exclusive, la zone de protection écologique, la zone de protection halieutique et le plateau continental ;\
+2° Définir les conditions d'exercice des compétences de l'Etat dans le domaine de la navigation dans les espaces maritimes mentionnés au 1° ;\
+3° Définir les conditions d'exercice du contrôle des personnes physiques ou morales de nationalité française du fait de leurs activités dans les fonds marins constituant la Zone, au sens de l'article 1er de la convention des Nations unies sur le droit de la mer signée à Montego Bay le 10 décembre 1982 et bénéficiant du patronage de l'Etat, au sens du paragraphe 2 de l'article 153 de la même convention, aux fins de l'exploration ou de l'exploitation de ses ressources minérales dans le cadre d'un contrat conclu avec l'Autorité internationale des fonds marins ;\
+4° Définir les incriminations et les sanctions pénales relatives aux manquements aux dispositions édictées en vertu des 1° à 3°, ainsi que la liste des agents compétents pour rechercher et constater les infractions ;\
+5° Prendre les mesures permettant, d'une part, de rendre applicables, avec les adaptations nécessaires, les dispositions mentionnées aux 1° à 4° en Nouvelle-Calédonie, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises, pour celles qui relèvent de la compétence de l'Etat, et, d'autre part, de procéder aux adaptations nécessaires en ce qui concerne les collectivités régies par l'article 73 de la Constitution et les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon ;\
+6° Prendre toutes mesures de cohérence résultant de la mise en œuvre des 1° à 5°.\
+III. - L'ordonnance prévue au II est prise dans un délai de six mois à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de cette ordonnance.\
+La présente loi sera exécutée comme loi de l'Etat.
+
+---
+
+Fait à Paris, le 20 juin 2016.
+
+François Hollande
+
+Par le Président de la République :
+
+Le Premier ministre,
+
+Manuel Valls
+
+Le ministre des affaires étrangères et du développement international,
+
+Jean-Marc Ayrault
+
+La ministre de l'environnement, de l'énergie et de la mer, chargée des relations internationales sur le climat,
+
+Ségolène Royal
+
+Le ministre des finances et des comptes publics,
+
+Michel Sapin
+
+Le ministre de la défense,
+
+Jean-Yves Le Drian
+
+Le ministre de l'intérieur,
+
+Bernard Cazeneuve
+
+Le ministre de l'économie, de l'industrie et du numérique,
+
+Emmanuel Macron
+
+La ministre des outre-mer,
+
+George Pau-Langevin
+
+Le secrétaire d'Etat chargé du commerce extérieur, de la promotion du tourisme et des Français de l'étranger,
+
+Matthias Fekl
+
+Le secrétaire d'Etat chargé des transports, de la mer et de la pêche,
+
+Alain Vidalies

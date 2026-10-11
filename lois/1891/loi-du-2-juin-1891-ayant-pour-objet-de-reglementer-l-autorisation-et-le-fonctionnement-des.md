@@ -1,0 +1,108 @@
+---
+title: "Loi du 2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux"
+identifier: "LEGITEXT000006071175"
+cid: "JORFTEXT000000512373"
+nature: "LOI"
+type: act
+jurisdiction: fr
+language: fr
+date: 1891-06-02
+last_amended: 2026-02-21
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006071175"
+retrieved: 2026-10-11
+---
+
+# Loi du 2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux
+
+## Article 1
+
+Aucun champ de courses ne peut être ouvert sans l'autorisation préalable du ministre de l'agriculture.
+
+## Article 2
+
+Sont seules autorisées les courses de chevaux ayant pour but exclusif l'amélioration de la race chevaline et organisées par des sociétés dont les statuts sociaux auront été approuvés par le ministre de l'agriculture.
+
+Ces sociétés participent, notamment au moyen de l'organisation des courses de chevaux, au service public d'amélioration de l'espèce équine et de promotion de l'élevage, à la formation dans le secteur des courses et de l'élevage chevalin ainsi qu'au développement rural.
+
+Dans chacune des deux spécialités, course au galop et course au trot, une de ces sociétés de courses de chevaux est agréée comme société-mère. Chaque société-mère exerce sa responsabilité sur l'ensemble de la filière dépendant de la spécialité dont elle a la charge. Elle propose notamment à l'approbation de l'autorité administrative le code des courses de sa spécialité, délivre les autorisations qu'il prévoit, veille à la régularité des courses par le contrôle des médications, tant à l'élevage qu'à l'entraînement, et attribue des primes à l'élevage.
+
+Les obligations de service public incombant aux sociétés-mères et les modalités de leur intervention sont définies par décret.
+
+## Article 3
+
+Le budget annuel et les comptes de toute société de courses sont soumis à l'approbation et au contrôle des ministres de l'agriculture et de l'économie et des finances.
+
+> **Nota :** Décret n° 97-456 du 8 mai 1997, art. 43 : Le présent article est abrogé en tant qu'il concerne les sociétés et organismes mentionnés au deuxième alinéa de l'article 34 de ce même décret - approbation des comptes par le préfet du département après avis du comptable supérieur du Trésor.
+
+## Article 4
+
+Quiconque aura, en vue de paris à faire, vendu des renseignements sur les chances de succès des chevaux engagés ou qui, par des avis, circulaires, prospectus, cartes, annonces, ou par tout autre moyen de publicité, aura fait connaître l'existence, soit en France, soit à l'étranger, d'établissements, d'agences ou de personnes vendant des renseignements sera puni des peines prévues à l'article L. 324-1 du code de la sécurité intérieure. Ces dispositions ne s'appliquent pas à la presse et aux médias hippiques.
+
+> **Nota :** Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du 1er janvier 2020.
+
+## Article 4-1
+
+I.-Les sociétés mentionnées au troisième alinéa de l'article 2 définissent et mettent en œuvre, au titre des missions de service public leur incombant, des activités d'intérêt général de lutte contre le dopage des chevaux, dans les conditions prévues par le code des courses de leur spécialité.\
+A cet effet :\
+1° Elles définissent un programme annuel de contrôles ;\
+2° Elles procèdent ou font procéder aux contrôles sur les hippodromes, à l'occasion des courses de chevaux, et dans les lieux de séjour ou d'entraînement des chevaux. Elles font notamment effectuer, des prélèvements sur les tissus, fluides corporels, excrétions ou toute autre partie du corps du cheval examiné ;\
+3° Elles font réaliser l'analyse des prélèvements biologiques susmentionnés ;\
+4° Elles disposent d'un pouvoir de sanctions disciplinaire et pécuniaire à l'égard des manquements aux obligations mentionnées au II et III.\
+Ce pouvoir s'exerce dans le respect d'une procédure contradictoire au cours de laquelle la personne concernée a la possibilité de présenter ses observations et a le droit de se faire assister ou représenter par un conseil de son choix.\
+Les sanctions comprennent la suspension ou l'interdiction de faire courir, d'entraîner, de monter et de driver les chevaux de courses ainsi que des amendes administratives qui ne peuvent excéder 15 000 € ou 45 000 € en cas de récidive.\
+5° Elles mettent en œuvre des actions de prévention et de recherche en matière de lutte contre le dopage.\
+II.-1° Il est interdit d'administrer ou d'appliquer aux chevaux, déclarés à l'élevage, au repos, ou en vue de leur participation aux courses, des substances ou procédés de nature à modifier artificiellement leurs capacités ou à masquer l'emploi de substances ou procédés ayant cette propriété.\
+La liste des substances ou procédés mentionnés au présent article est fixée par les codes des courses de chaque spécialité, approuvés par le ministre chargé de l'agriculture.\
+La liste des laboratoires agréés pour effectuer les analyses des prélèvements visant à mettre en évidence ces substances est fixée par les codes des courses de chaque spécialité, approuvés par le ministre de l'agriculture ;\
+2° Il est interdit à toute personne de :\
+a) Faciliter l'administration des substances mentionnées au 1° ou inciter à leur administration ainsi que faciliter l'application des procédés mentionnés au 1° ou inciter à leur application ;\
+b) Prescrire, administrer, appliquer, céder ou offrir un ou plusieurs procédés ou substances mentionnés au 1° ;\
+c) Produire, fabriquer, importer, exporter, transporter, détenir ou acquérir les procédés ou substances mentionnés au 1° ;\
+3° Il est interdit à toute personne de :\
+a) Soustraire un animal ou de s'opposer par quelque moyen que ce soit aux mesures de contrôle prévues au I ;\
+b) Falsifier, détruire ou dégrader tout élément relatif au contrôle, à l'échantillon ou à l'analyse.\
+III.-1° Le fait de contrevenir aux dispositions des 1° et 2° du II est puni de cinq ans d'emprisonnement de 75 000 euros d'amende ;\
+2° Le fait de contrevenir au 3° du II est puni de six mois d'emprisonnement et de 7 500 euros d'amende.\
+3° La tentative des délits prévus au III est punie des mêmes peines.\
+IV.-Les personnes physiques coupables des infractions prévues au II encourent également les peines complémentaires suivantes :\
+1° La confiscation des substances ou procédés et des objets ou documents qui ont servi à commettre l'infraction ou à en faciliter la commission ;\
+2° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal ;\
+3° La fermeture, pour une durée d'un an au plus, de l'un, de plusieurs ou de l'ensemble des établissements de l'entreprise ayant servi à commettre l'infraction et appartenant à la personne condamnée ;\
+4° L'interdiction, dans les conditions prévues à l'article 131-27 du code pénal, d'exercer l'activité professionnelle ou sociale dans l'exercice ou à l'occasion de laquelle l'infraction a été commise ;\
+5° L'interdiction, dans les conditions prévues à l'article 131-27 du code pénal, d'exercer une fonction publique.\
+V.-Les personnes morales déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies au I encourent, outre l'amende suivant les modalités prévues par l'article 131-38 du code pénal :\
+1° Les peines complémentaires prévues par les 2°, 8° et 9° de l'article 131-39 du code pénal ;\
+2° La fermeture, pour une durée d'un an au plus, des établissements ou de l'un ou plusieurs des établissements de l'entreprise ayant servi à commettre l'infraction et appartenant à la personne morale condamnée.\
+VI.-Lorsque des poursuites sont engagées en application des dispositions de la présente section, les sociétés mentionnées au troisième alinéa de l'article 2 peuvent exercer les droits de la partie civile. Toutefois, elles ne peuvent à l'égard d'une même personne et s'agissant des mêmes faits, concurremment exercer les pouvoirs disciplinaires qu'elles détiennent au titre des missions de service public leur incombant, et les droits de la partie civile.
+
+> **Nota :** Conformément à l'article 50 de l'ordonnance n° 2019-1015 du 2 octobre 2019, ces dispositions entrent en vigueur à compter du 1er janvier 2020.
+
+## Article 5
+
+Toutefois, les sociétés remplissant les conditions prescrites par l'article 2 peuvent, en vertu d'une autorisation spéciale et toujours révocable du ministre chargé de l'agriculture et moyennant le versement des prélèvements légaux, organiser le pari mutuel, mais sans que cette autorisation puisse infirmer les autres dispositions de l'article 4.
+
+Les sociétés visées au troisième alinéa de l'article 2 et leurs groupements constitués à cette fin peuvent, en complément de leur objet principal, étendre celui-ci à l'organisation et à la prise de paris en ligne, dans les conditions prévues par la loi n° 2010-476 du 12 mai 2010 relative à l'ouverture à la concurrence et à la régulation du secteur des jeux d'argent et de hasard en ligne, portant sur toute compétition sportive ouverte à la prise de paris ainsi qu'à tous les jeux de cercle autorisés par la même loi.
+
+Un décret en Conseil d'Etat détermine les conditions d'application du présent texte.
+
+## Article 5-1
+
+Les paris hippiques pris sur hippodrome, hors hippodrome et en ligne ne peuvent porter que sur les courses figurant sur un calendrier établi suivant des modalités définies par voie réglementaire.
+
+Ce calendrier détermine également les courses pouvant servir de support à des paris complexes tels que définis par décret.
+
+Aucun pari hippique ne peut être pris sur une course organisée à l'étranger figurant sur le calendrier mentionné au premier alinéa du présent article sans que l'opérateur qui organise la prise de pari détienne le droit d'organiser des paris sur cette course consenti par l'organisateur de ladite course ou son intermédiaire habilité. Les modalités d'application du présent alinéa sont définies par voie réglementaire.
+
+## Article 6
+
+Les dix premiers alinéas de l'article 4 de la présente loi sont applicables en Nouvelle-Calédonie et dans le territoire de la Polynésie française.\
+Pour son application à la Nouvelle-Calédonie et à ce territoire, le premier alinéa est ainsi rédigé :\
+"Quiconque aura en quelque lieu et, sous quelque forme que ce soit, offert de recevoir ou reçu des paris soit directement, soit indirectement sur des courses de chevaux, à l'exception de celles organisées par des sociétés de courses autorisées conformément à la réglementation prise par l'assemblée de province ou l'assemblée de la Polynésie française, sera puni de deux ans d'emprisonnement et de 220 000 CFP d'amende. Toutefois, jusqu'à l'organisation effective de courses de chevaux par des sociétés de courses autorisées conformément aux dispositions de l'alinéa précédent, l'interdiction édictée par cet alinéa ne s'applique pas aux paris offerts ou reçus dans les hippodromes".
+
+## Article 7
+
+Les sociétés mentionnées à l'article 2 de la présente loi et habilitées à organiser le pari mutuel urbain peuvent être autorisées, dans des conditions fixées par décret en Conseil d'Etat, à recevoir les paris engagés en Polynésie française sur les résultats des courses qu'elles organisent.
+
+> **Nota :** Décision n° 2010-73 QPC du 3 décembre 2010 (NOR: CSCX1031064S), le Conseil constitutionnel a déclaré la loi du 2 juin 1891 ayant pour objet de réglementer l'autorisation et le fonctionnement des courses de chevaux, dans sa rédaction antérieure au 13 mai 2010, conforme à la Constitution.

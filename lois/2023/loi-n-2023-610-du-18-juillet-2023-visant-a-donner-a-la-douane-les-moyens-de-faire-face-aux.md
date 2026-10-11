@@ -1,0 +1,101 @@
+---
+title: "LOI n° 2023-610 du 18 juillet 2023 visant à donner à la douane les moyens de faire face aux nouvelles menaces"
+identifier: "LEGITEXT000047858849"
+cid: "JORFTEXT000047858021"
+nature: "LOI"
+number: "2023-610"
+nor: "ECOD2306819L"
+type: act
+jurisdiction: fr
+language: fr
+date: 2023-07-18
+last_amended: 2023-07-20
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000047858849"
+retrieved: 2026-10-11
+---
+
+# LOI n° 2023-610 du 18 juillet 2023 visant à donner à la douane les moyens de faire face aux nouvelles menaces
+
+L'Assemblée nationale et le Sénat ont adopté,\
+Le Président de la République promulgue la loi dont la teneur suit :
+
+## Titre Ier : MAINTENIR LA SURVEILLANCE DOUANIÈRE SUR L'ENSEMBLE DU TERRITOIRE
+
+### Article 8
+
+I. - A créé les dispositions suivantes :
+
+> - Code des douanes
+>
+> > Sct. Chapitre II bis : Réserve opérationnelle de l'administration des douanes , Art. 52 bis, Art. 52 ter, Art. 52 quater, Art. 52 quinquies, Art. 52 sexies, Art. 52 septies, Art. 52 octies, Art. 52 nonies, Art. 52 decies, Art. 52 undecies
+
+II. - A modifié les dispositions suivantes :
+
+> - Code de l'éducation
+>
+> > Art. L611-9
+
+III. - Dans un délai de deux ans à compter de la promulgation de la présente loi, le Gouvernement remet au Parlement un rapport analysant l'efficacité et le fonctionnement de la réserve opérationnelle ainsi que les effets de sa création sur les recrutements de l'administration des douanes.
+
+## Titre II : MODERNISER LE CADRE D'EXERCICE DES POUVOIRS DOUANIERS
+
+### Chapitre II : Moderniser les capacités d'action de la douane
+
+#### Article 19
+
+I. - A titre expérimental et pour une durée de trois ans à compter de l'entrée en vigueur du décret mentionné au III du présent article, pour la seule finalité de prévention et de constatation des infractions de contrebande, d'importation ou d'exportation commises en bande organisée, prévues et réprimées au dernier alinéa de l'article 414 du code des douanes, ainsi que de la constatation de la réalisation ou de la tentative de réalisation des opérations financières définies à l'article 415 du même code lorsqu'elles portent sur des fonds provenant de ces mêmes infractions, et afin de permettre le rassemblement des preuves de ces infractions et la recherche de leurs auteurs, l'administration des douanes et des droits indirects peut exploiter les données collectées au titre de l'article L. 233-1 du code de la sécurité intérieure au moyen d'un traitement de données à caractère personnel destiné exclusivement à détecter des mouvements de véhicules susceptibles de révéler les infractions précitées.\
+Ce traitement est soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.\
+Dans le cadre de l'expérimentation, par dérogation à l'article L. 233-2 du code de la sécurité intérieure, les données collectées sont conservées pendant un délai maximal de quatre mois, sous réserve de la nécessité de leur conservation pour les besoins d'une procédure pénale ou douanière. L'expérimentation permet d'évaluer, dans les conditions prévues au II du présent article, l'efficacité comparée de différentes durées de conservation des données, comprises entre deux et quatre mois.\
+La mise en œuvre du traitement est réservée aux agents des douanes affectés au sein d'un service spécialisé de renseignement, individuellement désignés et spécialement habilités par le ministre chargé des douanes.\
+Ce traitement exclut toute exploitation de la photographie des occupants des véhicules.\
+Il ne peut procéder à aucune interconnexion ou mise en relation automatisée avec d'autres traitements de données à caractère personnel que ceux mentionnés à l'article L. 233-2 du code de la sécurité intérieure.\
+Il procède exclusivement à un signalement d'attention, strictement limité à la détection des mouvements de véhicules qu'il a été programmé à détecter. Il ne peut fonder, par lui-même, aucune décision individuelle ni aucun acte de poursuite.\
+L'Etat assure la collecte, le traitement et la conservation des données à caractère personnel ainsi recueillies ; il assure la conception du traitement ou la confie à un tiers.\
+II. - L'expérimentation fait l'objet de rapports d'évaluation transmis au Parlement et à la Commission nationale de l'informatique et des libertés dans les délais suivants :\
+1° Dix-huit mois à compter de l'entrée en vigueur du décret mentionné au III ;\
+2° Six mois avant le terme de l'expérimentation.\
+Ces rapports évaluent la pertinence des données utilisées dans le cadre du traitement prévu au I aux fins de détecter des mouvements de véhicules mentionnés au même I. Ils établissent la liste des garanties mises en place pour assurer la protection des données personnelles et le respect de la vie privée et analysent leur effectivité. Ils évaluent l'efficacité de durées de conservation inférieures à quatre mois et présentent les éléments permettant d'apprécier le caractère proportionné des différentes durées retenues au cours de l'expérimentation ; à ce titre, ils intègrent des indications statistiques permettant notamment, pour chaque durée expérimentée, de rendre compte de la quantité totale de données collectées, de la quantité de données conservées au delà du délai maximal expérimenté pour les besoins d'une procédure pénale ou douanière, du nombre de mouvements de véhicules détectés ainsi que du nombre de procédures d'enquête engagées sur le fondement desdites détections.\
+Les rapports d'évaluation comprennent une partie, établie par les services du ministère de la justice, sur l'utilité du dispositif en matière de réponse pénale apportée aux infractions mentionnées au premier alinéa dudit I.\
+III. - Par dérogation à l'article 31 de la loi n° 78-17 du 6 janvier 1978 précitée, un décret en Conseil d'Etat, pris après avis motivé de la Commission nationale de l'informatique et des libertés, fixe les modalités de mise en œuvre du présent article. Il autorise le traitement et détermine notamment les critères de recherche utilisés par ce dernier, les catégories de données traitées, les mesures mises en œuvre pour écarter l'exploitation des photographies des occupants des véhicules et pour assurer la sécurité des données stockées, le nombre maximal de dispositifs de contrôle automatisé des données signalétiques des véhicules concernés ainsi que les axes de circulation où ils sont installés sur le territoire.\
+Par dérogation à l'article 31 de la loi n° 78-17 du 6 janvier 1978 précitée, la demande d'avis adressée à la Commission nationale de l'informatique et des libertés est accompagnée d'une analyse d'impact relative à la protection des données à caractère personnel conformément à l'article 90 de la même loi.\
+Ce décret n'est pas publié. Toutefois, le sens de l'avis émis par la Commission nationale de l'informatique et des libertés est rendu public.
+
+## Titre III : HABILITATION DU GOUVERNEMENT À PROCÉDER À LA CODIFICATION DE LA PARTIE LÉGISLATIVE DU CODE DES DOUANES
+
+### Article 36
+
+I. - Dans les conditions prévues à l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par voie d'ordonnance toutes les mesures relevant du domaine de la loi nécessaires à la refonte de la partie législative du code des douanes afin :\
+1° D'en aménager le plan ainsi que d'y inclure :\
+a) Des dispositions non codifiées relevant du domaine de la loi et entrant dans son champ d'application ;\
+b) Les dispositions contenues dans d'autres codes relatives aux contributions indirectes et aux réglementations assimilées, portant sur les pouvoirs de contrôle, le régime de sanction, les procédures devant les tribunaux, les remises et les transactions à titre gracieux et le recouvrement des créances ;\
+2° D'améliorer la lisibilité du droit en adaptant, en tant que de besoin, les dispositions relevant du domaine de la loi prévues par d'autres codes ou des textes non codifiés, afin d'assurer leur coordination avec les dispositions recodifiées, en harmonisant et en simplifiant la rédaction des textes ainsi qu'en abrogeant les dispositions, codifiées ou non, obsolètes ou devenues sans objet ;\
+3° D'harmoniser les éléments mentionnés au b du 1° du présent I avec ceux relatifs aux droits de douane et aux réglementations contrôlées et réprimées comme ces derniers ;\
+4° D'étendre l'application des dispositions mentionnées aux 1° à 3°, en procédant aux adaptations nécessaires, aux îles Wallis et Futuna ainsi qu'à la Nouvelle-Calédonie et à la Polynésie française, pour celles qui relèvent de la compétence de l'Etat, et en procédant aux adaptations nécessaires en ce qui concerne les collectivités de Saint-Barthélemy, de Saint-Martin et de Saint-Pierre-et-Miquelon ainsi que les Terres australes et antarctiques françaises.\
+Les dispositions ainsi codifiées sont celles en vigueur au moment de la publication de l'ordonnance, sous la seule réserve des modifications qui seraient rendues nécessaires pour mettre en œuvre les 3° et 4°, assurer le respect de la hiérarchie des normes, adapter les dispositions de droit interne au droit de l'Union européenne ainsi qu'aux accords internationaux ratifiés et adapter les renvois au pouvoir réglementaire à la nature et à l'objet des mesures d'application concernées.\
+II. - L'ordonnance prévue au I est prise dans un délai de trois ans à compter de la promulgation de la présente loi. Un projet de loi de ratification est déposé devant le Parlement dans un délai de trois mois à compter de la publication de l'ordonnance.
+
+---
+
+Fait à Paris, le 18 juillet 2023.
+
+Emmanuel Macron
+
+Par le Président de la République :
+
+La Première ministre,
+
+Élisabeth Borne
+
+Le ministre de l'économie, des finances et de la souveraineté industrielle et numérique,
+
+Bruno Le Maire
+
+Le garde des sceaux, ministre de la justice,
+
+Éric Dupond-Moretti
+
+Le ministre délégué auprès du ministre de l'économie, des finances et de la souveraineté industrielle et numérique, chargé des comptes publics,
+
+Gabriel Attal

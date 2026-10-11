@@ -1,0 +1,44 @@
+---
+title: "Loi n° 80-1055 du 23 décembre 1980 DE FINANCES RECTIFICATIVE POUR 1980"
+identifier: "LEGITEXT000006068681"
+cid: "JORFTEXT000000339458"
+nature: "LOI"
+number: "80-1055"
+type: act
+jurisdiction: fr
+language: fr
+date: 1980-12-23
+last_amended: 2010-05-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006068681"
+retrieved: 2026-10-11
+---
+
+# Loi n° 80-1055 du 23 décembre 1980 DE FINANCES RECTIFICATIVE POUR 1980
+
+## Article 15
+
+Le recouvrement sur le débiteur d'aliments de toute avance sur pension alimentaire fixée par une décision judiciaire devenue exécutoire et consentie par les caisses d'allocations familiales peut être confié, pour le compte de ces organismes aux comptables publics compétents.
+
+Les caisses d'allocations familiales établissent à cet effet un état des sommes à récupérer. Le procureur de la République le rend exécutoire et le transmet au service compétent de l'Etat chargé du recouvrement.
+
+Dès qu'elles ont saisi le procureur de la République, les caisses d'allocations familiales ne peuvent plus, jusqu'à ce qu'elles soient informées de la cessation de la procédure de recouvrement par les comptables publics compétents, exercer aucune autre action en vue de récupérer les sommes qui font l'objet de leur demande.
+
+En cas de contestation relative à l'application des alinéas 1 et 2 ci-dessus, il est procédé comme à l'article 4 de la loi n° 75-618 du 11 juillet 1975.
+
+Le recouvrement des avances est poursuivi selon les procédures et dans les conditions prévues par les articles 7 à 9 de la loi du 11 juillet 1975 précitée. Les comptables publics compétents peuvent également mettre en oeuvre les actions et garanties dont dispose le créancier pour le recouvrement de sa pension alimentaire.
+
+En cas de recours à une procédure de recouvrement public par le créancier de la pension alimentaire, les sommes recouvrées sont affectées par priorité au règlement de la créance de la caisse d'allocations familiales.
+
+En cas de décès du débiteur ou lorsque l'impossibilité de recouvrer la créance a été constatée par le comptable public compétent, ce dernier renvoie le titre exécutoire à la caisse d'allocations familiales qui en décharge le comptable public et informe de sa décision le procureur de la République.
+
+Les caisses de mutualité sociale agricole sont habilitées à consentir sur leurs fonds d'action sanitaire et sociale, des avances sur pension aux créanciers d'aliments ressortissant du régime agricole. Elles sont alors subrogées de plein droit dans les droits des créanciers, à concurrence du montant des avances, tant à l'égard du débiteur qu'éventuellement à l'égard du Trésor.
+
+La procédure définie aux alinéas ci-dessus s'applique pour le recouvrement de ces avances.
+
+---
+
+PRESIDENT DE LA REPUBLIQUE : VALERY GISCARD D'ESTAING.\
+PREMIER MINISTRE : RAYMOND BARRE.\
+MINISTRE DU BUDGET : MAURICE PAPON.
