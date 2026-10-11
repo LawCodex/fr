@@ -46,10 +46,21 @@ def listing():
     return g, incs
 
 
+def head_size(name):
+    for attempt in range(8):
+        try:
+            r = S.head(BASE + name, timeout=60)
+            if r.status_code == 200:
+                return int(r.headers.get("Content-Length", -1))
+        except requests.RequestException as e:
+            print(f"HEAD retry {name}: {e}", file=sys.stderr)
+        time.sleep(2 ** attempt)
+    raise RuntimeError(f"HEAD failed: {name}")
+
+
 def download(name):
     dest = os.path.join(RAW, name)
-    head = S.head(BASE + name, timeout=60)
-    size = int(head.headers.get("Content-Length", -1))
+    size = head_size(name)
     if os.path.exists(dest) and os.path.getsize(dest) == size:
         return dest
     tmp = dest + ".part"
@@ -108,7 +119,7 @@ def main():
     g, incs = listing()
     print(f"global: {g}; {len(incs)} increments", flush=True)
     gdest = os.path.join(RAW, g)
-    size = int(S.head(BASE + g, timeout=60).headers["Content-Length"])
+    size = head_size(g)
     with ThreadPoolExecutor(max_workers=4) as ex:  # politeness: <= 4 connections
         futs = []
         if not (os.path.exists(gdest) and os.path.getsize(gdest) == size):
@@ -131,8 +142,15 @@ def main():
             for p in pieces:
                 os.remove(p)
             print("assembled", g, flush=True)
-        for f in futs:
-            f.result()
+        failed = []
+        for n, f in zip(incs, futs):
+            try:
+                f.result()
+            except Exception as e:  # keep going; a re-run fetches what is missing
+                failed.append(n)
+                print(f"FAILED {n}: {e}", file=sys.stderr)
+        if failed:
+            raise SystemExit(f"{len(failed)} downloads failed; re-run fetch.py")
     with open(os.path.join(RAW, "manifest.txt"), "w") as f:
         f.write("\n".join([g] + incs) + "\n")
 

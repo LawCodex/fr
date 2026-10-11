@@ -32,14 +32,15 @@ CATEGORIES = {
     "CODE": "codes",
     "LOI": "lois",
     "LOI_ORGANIQUE": "lois",
-    "LOI_CONSTIT": "lois",
+    "LOI_CONSTIT": "constitution",
+    "DECLARATION": "constitution",
     "LOI_PROGRAMME": "lois",
     "ORDONNANCE": "ordonnances",
     "DECRET": "decrets",
     "DECRET_LOI": "decrets-lois",
 }
 TYPES = {"CONSTITUTION": "constitution", "CODE": "code", "LOI": "act", "LOI_ORGANIQUE": "organic-act",
-         "LOI_CONSTIT": "constitutional-act", "LOI_PROGRAMME": "act", "ORDONNANCE": "ordinance",
+         "LOI_CONSTIT": "constitutional-act", "DECLARATION": "constitution", "LOI_PROGRAMME": "act", "ORDONNANCE": "ordinance",
          "DECRET": "decree", "DECRET_LOI": "decree-law"}
 
 
@@ -209,6 +210,7 @@ def main():
     skipped_empty = Counter()
     used = set()
     manifest = []
+    os.makedirs(os.path.join(args.out, "scripts"), exist_ok=True)
     # GitHub's web UI lists at most 1,000 entries per directory: years with more texts get month subdirs
     year_load = Counter()
     for r in chosen:
@@ -258,7 +260,9 @@ def main():
             if n:
                 tail += ["", "> " + "\n> ".join(("**Nota :** " + n).split("\n"))]
 
-        if catdir == "constitution":
+        if catdir == "constitution" and nature == "LOI_CONSTIT":
+            rel = os.path.join("constitution", "lois-constitutionnelles", slugify(title, 95))
+        elif catdir == "constitution":
             base = slugify(titre or title, 80)
             rel = os.path.join("constitution", base)
         elif catdir == "codes":
@@ -285,10 +289,12 @@ def main():
             write(os.path.join(args.out, rel + ".md"), full)
             manifest.append((catdir, rel + ".md", tid, nart))
 
+    with open(os.path.join(args.out, "scripts", f"manifest-{'-'.join(sorted(only))}.tsv"), "w") as f:
+        for m in manifest:
+            f.write("\t".join(map(str, m)) + "\n")
     stats = {"date": args.date, "texts": dict(counts), "articles": dict(art_counts),
              "skipped_no_in_force_articles": dict(skipped_empty), "in_force_texts_by_nature": dict(nat_all),
              "missing": dict(b.stats)}
-    os.makedirs(os.path.join(args.out, "scripts"), exist_ok=True)
     with open(os.path.join(args.out, "scripts", f"stats-{'-'.join(sorted(only))}.json"), "w") as f:
         json.dump(stats, f, ensure_ascii=False, indent=1, sort_keys=True)
     print(json.dumps(stats, ensure_ascii=False, indent=1))
