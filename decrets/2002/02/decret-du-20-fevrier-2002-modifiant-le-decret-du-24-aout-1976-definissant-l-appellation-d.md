@@ -1,0 +1,49 @@
+---
+title: "Décret du 20 février 2002 modifiant le décret du 24 août 1976 définissant l'appellation d'origine contrôlée \"Crémant d'Alsace\""
+identifier: "LEGITEXT000005632317"
+cid: "JORFTEXT000000227272"
+nature: "DECRET"
+nor: "AGRP0102310D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2002-02-20
+last_amended: 2002-02-23
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005632317"
+retrieved: 2026-10-11
+---
+
+# Décret du 20 février 2002 modifiant le décret du 24 août 1976 définissant l'appellation d'origine contrôlée "Crémant d'Alsace"
+
+Le Premier ministre,\
+Sur le rapport du ministre de l'agriculture et de la pêche et du ministre de l'économie, des finances et de l'industrie,\
+Vu le code général des impôts ;\
+Vu le code des douanes ;\
+Vu le code rural ;\
+Vu le code de la consommation ;\
+Vu le décret-loi du 30 juillet 1935 modifié relatif à la défense du marché des vins et au régime économique de l'alcool ;\
+Vu le décret du 3 avril 1942 portant application de la loi du 3 avril 1942 sur les appellations contrôlées, complété par le décret n° 48-707 du 21 avril 1948 sur les appellations d'origine contrôlées ;\
+Vu le décret n° 72-309 du 21 avril 1972 modifié portant application de la loi du 1er août 1905 modifiée sur les fraudes en ce qui concerne les vins, vins mousseux, vins pétillants et vins de liqueur ;\
+Vu le décret n° 74-871 du 19 octobre 1974 relatif aux examens analytiques et organoleptiques des vins à appellation d'origine contrôlée, modifié par le décret n° 79-1107 du 17 décembre 1979 ;\
+Vu le décret du 24 août 1976 définissant l'appellation d'origine contrôlée "Crémant d'Alsace" ;\
+Vu le décret n° 93-1067 du 10 septembre 1993 relatif au rendement des vignobles produisant des vins à appellation d'origine contrôlée, modifié par le décret n° 99-279 du 12 avril 1999 ;\
+Vu la proposition du comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine des 31 mai et 1er juin 2001,
+
+## Article 2
+
+Le ministre de l'économie, des finances et de l'industrie, le ministre de l'agriculture et de la pêche, la secrétaire d'Etat au budget et le secrétaire d'Etat aux petites et moyennes entreprises, au commerce, à l'artisanat et à la consommation sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+---
+
+Par le Premier ministre :\
+Lionel Jospin.\
+Le ministre de l'agriculture et de la pêche,\
+Jean Glavany.\
+Le ministre de l'économie, des finances et de l'industrie,\
+Laurent Fabius.\
+La secrétaire d'Etat au budget,\
+Florence Parly.\
+Le secrétaire d'Etat aux petites et moyennes entreprises, au commerce, à l'artisanat et à la consommation,\
+François Patriat.
