@@ -1,0 +1,42 @@
+---
+title: "Décret n°90-735 du 9 août 1990 portant publication de l'accord entre la République française et le Royaume d'Espagne relatif à la protection des informations classifiées, signé à Madrid le 22 février 1989"
+identifier: "LEGITEXT000006076370"
+cid: "JORFTEXT000000534717"
+nature: "DECRET"
+number: "90-735"
+nor: "MAEJ9030060D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 1990-08-09
+last_amended: 1990-08-17
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006076370"
+retrieved: 2026-10-11
+---
+
+# Décret n°90-735 du 9 août 1990 portant publication de l'accord entre la République française et le Royaume d'Espagne relatif à la protection des informations classifiées, signé à Madrid le 22 février 1989
+
+Le Président de la République,\
+Sur le rapport du Premier ministre et du ministre d'Etat, ministre des affaires étrangères,\
+Vu les articles 52 à 55 de la Constitution ;\
+Vu le décret n° 53-192 du 14 mars 1953 modifié relatif à la ratification et à la publication des engagements internationaux souscrits par la France,
+
+## Article 1
+
+L'accord entre la République française et le Royaume d'Espagne relatif à la protection des informations classifiées, signé à Madrid le 22 février 1989, sera publié au Journal officiel de la République française.\
+(1) Le présent accord est entré en vigueur le 28 juin 1990.
+
+## Article 2
+
+Le Premier ministre et le ministre d'Etat, ministre des affaires étrangères, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.\
+(1) Le présent accord est entré en vigueur le 28 juin 1990.
+
+---
+
+FRANçOIS MITTERRAND Par le Président de la République :\
+Le Premier ministre,\
+MICHEL ROCARD\
+Le ministre d'Etat, ministre des affaires étrangères,\
+ROLAND DUMAS
