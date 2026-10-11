@@ -1,0 +1,44 @@
+---
+title: "Décret n°98-555 du 30 juin 1998 modifiant le décret n° 48-1108 du 10 juillet 1948 portant classement hiérarchique des grades et emplois des personnels civils et militaires de l'Etat relevant du régime général des retraites."
+identifier: "LEGITEXT000005626118"
+cid: "JORFTEXT000000389130"
+nature: "DECRET"
+number: "98-555"
+nor: "MENF9801215D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 1998-06-30
+last_amended: 1998-07-05
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000005626118"
+retrieved: 2026-10-11
+---
+
+# Décret n°98-555 du 30 juin 1998 modifiant le décret n° 48-1108 du 10 juillet 1948 portant classement hiérarchique des grades et emplois des personnels civils et militaires de l'Etat relevant du régime général des retraites.
+
+Le Premier ministre,\
+Sur le rapport du ministre de l'éducation nationale, de la recherche et de la technologie, du ministre de l'économie, des finances et de l'industrie et du ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation,\
+Vu la loi n° 83-634 du 13 juillet 1983 modifiée portant droits et obligations des fonctionnaires, ensemble la loi n° 84-16 du 11 janvier 1984 modifiée portant dispositions statutaires relatives à la fonction publique de l'Etat ;\
+Vu le décret n° 48-1108 du 10 juillet 1948 portant classement hiérarchique des grades et emplois des personnels civils et militaires de l'Etat relevant du régime général des retraites, ensemble les textes qui l'ont complété ou modifié ;\
+Vu le décret n° 97-1276 du 29 décembre 1997 modifiant le décret n° 83-1260 du 30 décembre 1983 fixant les dispositions statutaires communes aux corps de fonctionnaires des établissements publics scientifiques et technologiques ;\
+Vu le décret n° 97-1277 du 29 décembre 1997 modifiant le décret n° 85-1534 du 31 décembre 1985 fixant les dispositions statutaires applicables aux ingénieurs et aux personnels techniques et administratifs de recherche et de formation du ministère de l'éducation nationale ;\
+Vu l'avis du Conseil supérieur de la fonction publique de l'Etat en date du 24 février 1998,
+
+## Article 2
+
+Le ministre de l'éducation nationale, de la recherche et de la technologie, le ministre de l'économie, des finances et de l'industrie, le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation et le secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+---
+
+Lionel Jospin\
+Par le Premier ministre :\
+Le ministre de l'éducation nationale, de la recherche et de la technologie,\
+Claude Allègre\
+Le ministre de l'économie, des finances et de l'industrie,\
+Dominique Strauss-Kahn\
+Le ministre de la fonction publique, de la réforme de l'Etat et de la décentralisation,\
+Émile Zuccarelli\
+Le secrétaire d'Etat au budget,\
+Christian Sautter
