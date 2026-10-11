@@ -1,0 +1,199 @@
+---
+title: "Ordonnance du 10 septembre 1817 qui réunit, sous la dénomination d'Ordre des avocats au Conseil d'Etat et à la Cour de cassation, l'ordre des avocats aux conseils et le collège des avocats à la Cour de cassation, fixe irrévocablement, le nombre des titulaires, et contient des dispositions pour la discipline intérieure de l'Ordre."
+identifier: "LEGITEXT000006075135"
+cid: "JORFTEXT000000692746"
+nature: "ORDONNANCE"
+type: ordinance
+jurisdiction: fr
+language: fr
+date: 1817-09-10
+last_amended: 2024-09-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006075135"
+retrieved: 2026-10-11
+---
+
+# Ordonnance du 10 septembre 1817 qui réunit, sous la dénomination d'Ordre des avocats au Conseil d'Etat et à la Cour de cassation, l'ordre des avocats aux conseils et le collège des avocats à la Cour de cassation, fixe irrévocablement, le nombre des titulaires, et contient des dispositions pour la discipline intérieure de l'Ordre.
+
+Louis, etc...\
+La loi sur le budget porte qu'il sera établi dans toutes les villes où nous le jugerons convenable, des commissaires-priseurs dont les attributions seront les mêmes que celles des commissaires-priseurs établis à Paris.\
+Le principe posé par cette loi a besoin d'être développé, et son exécution doit être réglée d'une manière uniforme.\
+A quoi voulant pourvoir, après nous être fait représenter les anciens édits, ordonnances, règlemens et décrets sur cette matière ; Sur le rapport de notre amé et féal chevalier, chancelier de France, le sieur Dambray, chargé par interim du portefeuille du ministère de la justice,\
+Avons ordonné et ordonnance ce qui suit.
+
+## Article 1
+
+L'ordre des avocats en nos conseils et le collège des avocats à la Cour de cassation sont réunis sous la dénomination d'Ordre des avocats au Conseil d'Etat et à la Cour de cassation.
+
+## Article 2
+
+Ces fonctions seront désormais indivisibles.
+
+## Article 3
+
+I.-Au vu des besoins identifiés par l'Autorité de la concurrence dans les conditions prévues à l'article L. 462-4-2 du code de commerce, lorsque le demandeur remplit les conditions de nationalité, d'aptitude, d'honorabilité, d'expérience et d'assurance requises pour l'exercice de la profession d'avocat au Conseil d'Etat et à la Cour de cassation, le ministre de la justice le nomme titulaire de l'office d'avocat au Conseil d'Etat et à la Cour de cassation créé. Un décret précise les conditions d'application du présent alinéa.
+
+Si, dans un délai de six mois à compter de la publication des recommandations de l'Autorité de la concurrence mentionnées au même article L. 462-4-2, le ministre de la justice constate un nombre insuffisant de demandes de créations d'office au regard des besoins identifiés, il procède, dans des conditions prévues par décret, à un appel à manifestation d'intérêt en vue d'une nomination dans un office.
+
+Un décret précise les conditions dans lesquelles le ministre de la justice nomme dans un office les personnes remplissant les conditions de nationalité, d'aptitude, d'honorabilité, d'expérience et d'assurance requises pour être nommées en qualité d'avocat au Conseil d'Etat et à la Cour de cassation.
+
+II.-Les conditions d'accès à la profession d'avocat au Conseil d'Etat et à la Cour de cassation sont fixées par décret en Conseil d'Etat. Seules peuvent accéder à cette profession les personnes ayant subi avec succès un examen d'aptitude prévu par ce même décret.
+
+## Article 3-1
+
+L'avocat au Conseil d'Etat et à la Cour de cassation peut exercer sa profession en qualité de salarié d'une personne physique ou morale titulaire d'un office d'avocat au Conseil d'Etat et à la Cour de cassation.
+
+Une personne physique ou morale titulaire d'un office d'avocat au Conseil d'Etat et à la Cour de cassation ne peut pas employer plus d'un avocat au Conseil d'Etat et à la Cour de cassation salarié.
+
+L'avocat au Conseil d'Etat et à la Cour de cassation salarié ne peut pas avoir de clientèle personnelle. Dans l'exercice des missions qui lui sont confiées, il bénéficie de l'indépendance que comporte son serment et n'est soumis à un lien de subordination à l'égard de son employeur que pour la détermination de ses conditions de travail.
+
+En aucun cas, le contrat de travail de l'avocat au Conseil d'Etat et à la Cour de cassation salarié ne peut porter atteinte au code de déontologie édicté par décret en Conseil d'Etat et aux règles professionnelles des avocats au Conseil d'Etat et à la Cour de cassation, et notamment au respect des obligations en matière d'aide juridique et de désignation d'office. Nonobstant toute clause du contrat de travail, l'avocat au Conseil d'Etat et à la Cour de cassation salarié peut demander à être déchargé d'une mission qu'il estime contraire à sa conscience ou susceptible de porter atteinte à son indépendance.
+
+Les litiges nés à l'occasion d'un contrat de travail ou de la convention de rupture, de l'homologation ou du refus d'homologation de cette convention sont, en l'absence de conciliation, soumis à l'arbitrage du président de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, à charge de recours devant la Cour de cassation.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article, et notamment les conditions dans lesquelles il peut être mis fin aux fonctions de l'avocat au Conseil d'Etat et à la Cour de cassation salarié.
+
+> **Nota :** Conformément à l’article 40 de l’ordonnance n° 2022-544 du 13 avril 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> juillet 2022. Se reporter aux conditions d’application dudit article.
+
+## Article 3-2
+
+L'avocat au Conseil d'Etat et à la Cour de cassation peut exercer sa profession soit à titre individuel, soit dans le cadre d'une entité dotée de la personnalité morale, à l'exception des formes juridiques qui confèrent à leurs associés la qualité de commerçant.
+
+Lorsque la forme juridique d'exercice est une société à responsabilité limitée, une société anonyme, une société par actions simplifiée ou une société en commandite par actions régies par les dispositions du livre II du code de commerce, celle-ci est également soumise aux dispositions du livre III de l'ordonnance n° 2023-77 du 8 février 2023 relative à l'exercice en société des professions libérales réglementées à l'exception des obligations de dénomination prévues au premier alinéa de l'article 41 de cette ordonnance qui deviennent facultatives.
+
+> **Nota :** Conformément au premier alinéa du I de l’article 134 de l’ordonnance n° 2023-77 du 8 février 2023, ces dispositions entrent en vigueur au 1er septembre 2024.
+
+## Article 3-3
+
+L'avocat au Conseil d'Etat et à la Cour de cassation peut également exercer sa profession dans le cadre d'une société pluri-professionnelle d'exercice, prévue au livre IV de l'ordonnance n° 2023-77 du 8 février 2023 relative à l'exercice en société des professions libérales réglementées, ayant pour objet l'exercice en commun de la profession d'avocat au Conseil d'Etat et à la Cour de cassation et d'une ou plusieurs autres professions prévues à ce titre.
+
+Les dispositions des troisième et quatrième alinéas de l'article 3-2 sont applicables à une telle société.
+
+Un décret en Conseil d'Etat fixe notamment les conditions de la nomination de la société dans un office d'avocat au Conseil d'Etat et à la Cour de cassation, de son interdiction temporaire et de sa destitution ainsi que les règles applicables en cas d'empêchement, de retrait ou de décès d'un associé exerçant la profession.
+
+> **Nota :** Conformément au premier alinéa du I de l’article 134 de l’ordonnance n° 2023-77 du 8 février 2023, ces dispositions entrent en vigueur au 1er septembre 2024.
+
+## Article 4
+
+(dispositions nominatives : texte non reproduit)
+
+## Article 5
+
+Pour déterminer le rang que les titulaires ci-dessus nommés doivent conserver entre eux, il sera dressé, par le conseil de l'ordre, un tableau où ils seront inscrits à la date la plus ancienne de leur réception dans l'un des deux collèges réunis.
+
+## Article 6
+
+(texte non reproduit).
+
+## Article 7
+
+Il est institué au sein de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation, un conseil de l'ordre composé d'un président et de quatorze membres exerçant effectivement la profession d'avocat au Conseil d'Etat et à la Cour de cassation. Deux de ces membres auront la qualité de syndic ; un troisième, celle de secrétaire-trésorier et un quatrième celle de secrétaire.
+
+> **Nota :** Conformément à l’article 40 de l’ordonnance n° 2022-544 du 13 avril 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> juillet 2022. Se reporter aux conditions d’application dudit article.
+
+## Article 8
+
+Le président de l'ordre des avocats au Conseil d'Etat et à la Cour de Cassation est élu à la majorité absolue des suffrages par l'assemblée générale.
+
+Les quatorze autres membres seront nommés directement par l'assemblée générale, à la majorité absolue des suffrages.
+
+Lors de chaque renouvellement du conseil, le nombre de femmes et le nombre d'hommes à élire sont déterminés de telle sorte que la proportion totale, au sein de ce conseil, des personnes dont le sexe représente la part la plus faible parmi les avocats inscrits au tableau de l'ordre soit au moins égale à cette part, sans excéder la moitié.
+
+Le conseil choisit parmi ses membres les deux syndics, le secrétaire-trésorier et le secrétaire.
+
+## Article 9
+
+Les fonctions du président et des membres du conseil durent trois ans ; en conséquence, le tiers des membres du conseil est renouvelé chaque année. Aucun des membres sortants ne peut être réélu qu'après une année d'intervalle.
+
+## Article 10
+
+Les nominations sont faites, chaque année, dans le courant du mois de décembre.
+
+## Article 11
+
+Le président de l'ordre préside l'assemblée générale : les syndics remplissent les fonctions de scrutateurs ; et le secrétaire-trésorier, celles de secrétaire. Le président est remplacé, en cas d'empêchement, par le premier ou par le second syndic, et ceux-ci par les membres du conseil les plus anciens dans l'ordre du tableau ; les fonctions de secrétaire, en l'absence du titulaire, sont remplies par celui des membres du conseil le plus récemment inscrit au tableau.
+
+## Article 12
+
+L'assemblée générale ne peut voter, si elle n'est pas composée au moins de la moitié plus un des membres de l'ordre.
+
+Le conseil peut valablement délibérer quand les membres présents sont au nombre de neuf.
+
+Par dérogation à l'alinéa précédent, le conseil de l'ordre peut valablement délibérer sur les avis en matière de responsabilité civile professionnelle lorsque les membres présents sont au nombre de sept.
+
+En cas de partage d'opinions dans le conseil, la voix du président est prépondérante.
+
+## Article 13
+
+Le conseil se prononce définitivement, lorsqu'il s'agit de son fonctionnement interne.
+
+Les actions en responsabilité civile professionnelle engagées à l'encontre d'un avocat au Conseil d'Etat et à la Cour de cassation sont portées, après avis du conseil de l'ordre, devant le Conseil d'Etat, quand les faits ont trait aux fonctions exercées devant le tribunal des conflits et les juridictions de l'ordre administratif, et devant la Cour de cassation dans les autres cas.
+
+Le conseil de l'ordre peut, devant toutes les juridictions, exercer tous les droits réservés à la partie civile relativement aux faits portant un préjudice direct ou indirect à l'intérêt collectif de la profession.
+
+Le titre d'avocat honoraire au Conseil d'Etat et à la Cour de cassation peut être conféré par délibération du conseil de l'ordre aux avocats qui ont été inscrits au tableau pendant vingt ans et qui ont donné leur démission.
+
+Le conseil de l'ordre prépare un code de déontologie édicté par décret en Conseil d'Etat énonçant les principes et devoirs professionnels permettant le bon exercice des fonctions d'avocat au Conseil d'Etat et à la Cour de cassation. Il précise par voie de règlement les règles professionnelles propres à assurer le respect de ce code.
+
+> **Nota :** Conformément à l’article 40 de l’ordonnance n° 2022-544 du 13 avril 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> juillet 2022. Se reporter aux conditions d’application dudit article.
+
+## Article 13-1
+
+Le conseil vérifie le respect par les avocats au Conseil d'Etat et à la Cour de cassation de leurs obligations prévues par le chapitre Ier du titre VI du livre V du code monétaire et financier en matière de lutte contre le blanchiment des capitaux et le financement du terrorisme en se faisant communiquer, dans des conditions fixées par décret en Conseil d'Etat, les documents relatifs au respect de ces obligations.
+
+## Article 13-2
+
+La formation professionnelle continue est obligatoire pour les avocats au Conseil d'Etat et à la Cour de cassation en exercice.
+
+Un décret en Conseil d'Etat détermine la nature et la durée des activités susceptibles d'être validées au titre de l'obligation de formation professionnelle continue. Le conseil de l'ordre détermine les modalités selon lesquelles elle s'accomplit.
+
+## Article 15
+
+Les honoraires de consultation, d'assistance, de conseil, de rédaction d'actes juridiques sous seing privé et de plaidoirie sont fixés en accord avec le client.
+
+Sauf en cas d'urgence ou de force majeure ou lorsqu'il intervient au titre de l'aide juridictionnelle totale, l'avocat au Conseil d'Etat et à la Cour de cassation conclut par écrit avec son client une convention d'honoraires, qui précise, notamment, le montant ou le mode de détermination des honoraires couvrant les diligences prévisibles, ainsi que les divers frais et débours envisagés.
+
+Les honoraires tiennent compte, selon les usages, de la situation de fortune du client, de la difficulté de l'affaire, des frais exposés par l'avocat au Conseil d'Etat et à la Cour de Cassation, de sa notoriété et des diligences de celui-ci.
+
+Toute fixation d'honoraires qui ne le serait qu'en fonction du résultat judiciaire est interdite. Est licite la convention qui, outre la rémunération des prestations effectuées, prévoit la fixation d'un honoraire complémentaire en fonction du résultat obtenu ou du service rendu.
+
+## Article 15-1
+
+Lorsque, pour vérifier le respect du deuxième alinéa de l'article 15 de la présente ordonnance, l'autorité administrative chargée de la concurrence et de la consommation fait usage des pouvoirs mentionnés à l'article L. 511-8 du code de la consommation , elle en informe le président du conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation par écrit, au moins trois jours avant.
+
+## Article 15-2
+
+En toutes matières, que ce soit dans le domaine du conseil ou dans celui de la défense, les consultations adressées par un avocat au Conseil d'Etat et à la Cour de cassation à son client ou destinées à celui-ci, les correspondances échangées entre l'avocat au Conseil d'Etat et à la Cour de cassation et son client, les correspondances échangées entre l'avocat au Conseil d'Etat et à la Cour de cassation et ses confrères ou un avocat régi par la loi n° 71-1130 du 31 décembre 1971 portant réforme de certaines professions judiciaires et juridiques, à l'exception pour ces dernières de celles portant la mention " officielle ", les notes d'entretien et, plus généralement, toutes les pièces du dossier sont couvertes par le secret professionnel.
+
+## Article 15-3
+
+I.-Toute sollicitation personnalisée et toute proposition de services en ligne procurent une information sincère sur la nature des prestations de services proposées et leur mise en œuvre respecte le code de déontologie édicté par décret en Conseil d'Etat et les règles professionnelles applicables, notamment les principes de dignité, de loyauté, de confraternité et de délicatesse.\
+Elles excluent tout élément comparatif ou dénigrant.\
+II.-La sollicitation personnalisée ne peut être effectuée que sous la forme d'un envoi postal ou d'un courrier électronique adressé à une personne physique ou morale déterminée, destinataire de l'offre de service. Est en particulier exclu tout démarchage physique ou téléphonique, de même que tout message textuel envoyé sur un terminal téléphonique mobile.\
+Toute sollicitation personnalisée en rapport avec une affaire particulière est interdite.\
+La sollicitation personnalisée précise les modalités de détermination des honoraires du professionnel, lesquels feront l'objet d'une convention conformément à l'article 15.\
+III.-Le conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation peut prévoir, dans le règlement intérieur prévu au dernier alinéa de l'article 13, que l'avocat au Conseil d'Etat et à la Cour de cassation qui ouvre ou modifie substantiellement un site internet en vue de proposer ses services ou une ou plusieurs pages web destinées aux mêmes fins sur un site internet tiers doit en informer son président, dans un délai déterminé à compter de son ouverture ou de sa modification substantielle.\
+L'utilisation par un avocat au Conseil d'Etat et à la Cour de cassation de noms de domaine évoquant de façon générique le titre de la profession ou un titre pouvant prêter à confusion, un domaine du droit ou une activité relevant de celles de la profession, est interdite. Le présent alinéa, uniquement en ce qu'il concerne le titre de la profession et les activités relevant exclusivement de la profession, n'est pas applicable au conseil de l'ordre des avocats au Conseil d'Etat et à la Cour de cassation.\
+Les sites internet des professionnels ne peuvent comporter aucun encart ou bannière publicitaire, autres que ceux de la ou des professions exercées, pour quelque produit ou service que ce soit.
+
+> **Nota :** Conformément à l’article 40 de l’ordonnance n° 2022-544 du 13 avril 2022, ces dispositions entrent en vigueur le 1<sup>er</sup> juillet 2022. Se reporter aux conditions d’application dudit article.
+
+## Article 15-4
+
+L'avocat au Conseil d'Etat et à la Cour de cassation investi d'un mandat de délégation conformément au deuxième alinéa de l'article 23 de l'ordonnance n° 2022-544 du 13 avril 2022 relative à la déontologie et à la discipline des officiers ministériels :\
+1° Ne doit pas avoir été l'auteur de faits contraires à l'honneur et à la probité ;\
+2° S'abstient d'exercer les attributions déléguées lorsque leurs exercices présentent un lien avec :
+
+-l'office au sein duquel il exerce ou a exercé au cours des trois dernières années, en tant que salarié, associé ou titulaire de cet office ;\
+-la société dans laquelle il exerce ou détient des actions ou parts sociales ;\
+-un parent ou allié en ligne directe, quel que soit le degré, ou en ligne collatérale, jusqu'au degré d'oncle ou de neveu inclus.
+
+Sans préjudice des dispositions qui précèdent, le délégataire, qui estime devoir se déporter en raison des liens d'intérêts avec la situation individuelle en cause, s'abstient d'exercer les attributions déléguées.\
+La délégation peut être retirée à tout moment, notamment lorsqu'il existe des raisons susceptibles de mettre en cause l'impartialité ou l'indépendance du délégataire.
+
+> **Nota :** Conformément au I de l’article 96 du décret n° 2022-900 du 17 juin 2022, ces dispositions entrent en vigueur le 1er juillet 2022 et s'appliquent aux procédures disciplinaires engagées et aux réclamations reçues à compter de cette date.
+
+## Article 16
+
+Notre aimé et féal chevalier, chancelier de France, chargé du portefeuille du ministère de la justice, est chargé de l'exécution de la présente ordonnance.

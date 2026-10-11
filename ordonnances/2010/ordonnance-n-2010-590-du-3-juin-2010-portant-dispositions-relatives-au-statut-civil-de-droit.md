@@ -1,0 +1,195 @@
+---
+title: "Ordonnance n° 2010-590 du 3 juin 2010 portant dispositions relatives au statut civil de droit local applicable à Mayotte et aux juridictions compétentes pour en connaître"
+identifier: "LEGITEXT000022299319"
+cid: "JORFTEXT000022298497"
+nature: "ORDONNANCE"
+number: "2010-590"
+nor: "OMEO1006127R"
+type: ordinance
+jurisdiction: fr
+language: fr
+date: 2010-06-03
+last_amended: 2020-01-01
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000022299319"
+retrieved: 2026-10-11
+---
+
+# Ordonnance n° 2010-590 du 3 juin 2010 portant dispositions relatives au statut civil de droit local applicable à Mayotte et aux juridictions compétentes pour en connaître
+
+Le Président de la République,\
+Sur le rapport du Premier ministre, de la ministre d'Etat, garde des sceaux, ministre de la justice et des libertés, et du ministre de l'intérieur, de l'outre-mer et des collectivités territoriales,\
+Vu la Constitution, notamment son article 38 ;\
+Vu le code civil ;\
+Vu le code de l'organisation judiciaire ;\
+Vu le code pénal ;\
+Vu la loi n° 2001-616 du 11 juillet 2001 modifiée relative à Mayotte ;\
+Vu la loi n° 2009-594 du 27 mai 2009 pour le développement économique des outre-mer, notamment son article 72 ;\
+Vu l'ordonnance n° 2000-218 du 8 mars 2000 modifiée fixant les règles de détermination des nom et prénoms des personnes de statut civil de droit local applicable à Mayotte ;\
+Vu la délibération n° 61-16 du 17 mai 1961 de l'assemblée territoriale des Comores relative à l'état civil des personnes de statut civil de droit local applicable à Mayotte, modifiée par l'acte n° 71-13 du 30 septembre 1971 de la chambre des députés des Comores ;\
+Vu la délibération n° 64-12 bis du 3 juin 1964 de la chambre des députés des Comores portant réorganisation de la procédure en matière de justice musulmane ;\
+Vu la saisine pour avis du conseil général de Mayotte en date du 11 mars 2010 ;\
+Vu l'article R. 123-20 du code de justice administrative ;\
+Le Conseil d'Etat (section de l'intérieur) entendu ;\
+Le conseil des ministres entendu,\
+Ordonne :
+
+## CHAPITRE IER : DISPOSITIONS RELATIVES AU STATUT CIVIL DE DROIT LOCAL
+
+### SECTION 1 : DISPOSITIONS GENERALES
+
+#### Article 1
+
+Le statut civil de droit local régit l'état et la capacité des personnes, les régimes matrimoniaux, les successions et les libéralités.\
+L'exercice des droits, individuels ou collectifs, afférents au statut civil de droit local ne peut contrarier ou limiter les droits et libertés attachés à la qualité de citoyen français.\
+En cas de silence ou d'insuffisance du statut civil de droit local, il est fait application, à titre supplétif, du droit civil commun.\
+Les personnes relevant du statut civil de droit local peuvent soumettre au droit civil commun tout rapport juridique relevant du statut civil de droit local.
+
+#### Article 2
+
+La collectivité départementale et l'Etat mettent en œuvre conjointement les actions destinées à assurer l'égalité des femmes et des hommes.
+
+#### Article 3
+
+Toute personne de statut civil de droit local peut renoncer à ce statut au profit du statut civil de droit commun.\
+La demande en renonciation doit émaner d'une personne majeure de dix-huit ans, capable, agissant en pleine connaissance de cause et se trouvant dans une situation juridique qui ne fasse pas obstacle à son accession au statut demandé. Elle est portée devant la juridiction civile de droit commun.\
+La demande en renonciation au bénéfice d'un mineur est faite par toute personne exerçant dans les faits l'autorité parentale.\
+Le mineur capable de discernement est entendu par le juge. L'audition du mineur ne peut être écartée que par une décision spécialement motivée.\
+La procédure suivie en matière de renonciation au statut civil de droit local est déterminée par décret en Conseil d'Etat.\
+Cette renonciation est irrévocable après que la décision la constatant est passée en force de chose jugée.
+
+#### Article 4
+
+Dans les quinze jours suivant la date à laquelle la décision constatant la renonciation est passée en force de chose jugée, l'acte de naissance est dressé sur le registre d'état civil de droit commun de la commune du lieu de naissance, à la requête du procureur de la République.\
+L'acte de naissance originaire figurant sur le registre d'état civil de droit local de la même commune est alors, à la diligence du ministère public, revêtu de la mention « renonciation » et est considéré comme nul.
+
+#### Article 5
+
+Dans les rapports juridiques entre personnes dont l'une est de statut civil de droit commun et l'autre de statut civil de droit local, le droit commun s'applique.\
+Dans les rapports juridiques entre personnes relevant du statut civil de droit local, le droit local s'applique lorsque ces rapports sont relatifs à l'état, à la capacité des personnes, aux régimes matrimoniaux, aux successions et aux libéralités.\
+Dans les rapports juridiques entre personnes qui ne sont pas de statut civil de droit commun mais relèvent de statuts personnels différents, le droit commun s'applique sauf si les parties en disposent autrement par une clause expresse contraire.
+
+### SECTION 2 : DISPOSITIONS PARTICULIERES
+
+#### Article 6
+
+Les jugements et arrêts rendus en matière d'état des personnes ont effet même à l'égard de ceux qui n'y ont été ni parties, ni représentés.
+
+#### Article 7
+
+Les dispositions du chapitre III du titre II du livre Ier du code civil sont applicables aux personnes relevant du statut civil de droit local, sous réserve des dispositions suivantes :\
+1° Pour l'application des articles 73 et 76, la référence au conseil de famille est supprimée ;\
+2° Le premier alinéa de l'article 75 est ainsi rédigé :\
+« Le jour désigné par les parties, après le délai de publication, l'officier de l'état civil célèbre le mariage, à la mairie, en présence d'au moins deux témoins, ou de quatre au plus, parents ou non des parties. »
+
+#### Article 8
+
+Lorsqu'un mariage célébré antérieurement à la publication de l'ordonnance du 8 mars 2000 fixant les règles de détermination des nom et prénoms des personnes de statut civil de droit local applicable à Mayotte n'aura pas été déclaré à l'officier de l'état civil, celui-ci ne pourra le relater sur ses registres qu'en vertu d'un jugement supplétif de mariage rendu par le tribunal de première instance à la requête des époux ou de l'un d'entre eux ou du procureur de la République.
+
+#### Article 9
+
+L'article 46 et les dispositions des chapitres Ier, II, III, IV et VII du titre V du livre Ier du code civil sont applicables aux personnes relevant du statut civil de droit local, à l'exception des articles 151, 159, 160, 174 et 175 et sous réserve des dispositions suivantes :\
+1° L'article 147 est ainsi rédigé :\
+« On ne peut contracter un nouveau mariage avant la dissolution du ou des précédents mariages » ;\
+2° Pour l'application des articles 156 et 182, la référence au conseil de famille est supprimée.\
+3° L'article 194 est ainsi rédigé :\
+« Sous réserve des dispositions des articles 33 et 34 de la délibération n° 61-16 du 17 mai 1961 de l'assemblée territoriale des Comores relative à l'état civil à Mayotte, nul ne peut réclamer le titre d'époux et les effets civils du mariage, s'il ne représente un acte de célébration inscrit sur le registre de l'état civil, sauf les cas prévus par l'article 46 du présent code. »
+
+#### Article 10
+
+Toute femme mariée ou majeure de dix-huit ans peut librement exercer une profession, percevoir les gains et salaires en résultant et disposer de ceux-ci. Elle peut administrer, obliger et aliéner seule ses biens personnels.
+
+#### Article 11
+
+Les dispositions du titre VI du livre Ier du code civil sont applicables aux personnes relevant du statut civil de droit local à l'exception de l'article 256, de la dernière phrase de l'article 257 et des articles 285-1 et 286.
+
+#### Article 12
+
+Est interdite toute discrimination pour la dévolution des successions qui serait contraire aux dispositions d'ordre public.
+
+#### Article 13
+
+Pour l'application du présent chapitre, les références faites par le code civil au tribunal judiciaire sont remplacées par la référence faite au tribunal de première instance.
+
+> **Nota :** Conformément à l’article 36 de l’ordonnance n° 2019-964 du 18 septembre 2019, les présentes dispositions entrent en vigueur le 1<sup>er</sup> janvier 2020.
+
+## CHAPITRE II : DISPOSITIONS MODIFIANT LA DELIBERATION DE L'ASSEMBLEE TERRITORIALE DES COMORES DU 17 MAI 1961
+
+### Article 14
+
+La délibération de l'assemblée territoriale des Comores du 17 mai 1961 susvisée est modifiée comme suit :\
+1° L'article 2 est ainsi rétabli :\
+« Art. 2. - Des agents de la collectivité départementale peuvent être mis à disposition d'une commune aux fins d'exercer les fonctions d'officiers de l'état civil, d'encadrer et d'assurer la formation des agents communaux affectés au service de l'état civil. Une convention entre la collectivité départementale et la commune détermine les modalités de cette mise à disposition. »\
+2° A l'article 13, les mots : « conforme » et « bulletin » sont respectivement remplacés par les mots : « intégrale » et « extrait d'acte » ;\
+3° A l'article 14, le mot : « bulletins » est remplacé par les mots : « extraits d'acte » ;\
+4° A l'article 16, le mot : « quinze » est remplacé par le mot : « trois » ;\
+5° L'article 23 est complété par un troisième alinéa ainsi rédigé :\
+« Il sera fait mention du décès en marge de l'acte de naissance de la personne décédée. » ;\
+6° A l'article 33, les mots : « L'établissement d'un acte recognitif de mariage » sont remplacés par les mots : « La célébration du mariage » ;\
+7° A l'article 34, les mots : « non musulmans » et « seule » sont supprimés.
+
+## CHAPITRE IV : DISPOSITIONS DIVERSES ET FINALES
+
+### Article 16
+
+I.-(Abrogé)
+
+II.-1° à 3°
+
+A abrogé les dispositions suivantes :
+
+> -Code civil
+>
+> > Art. 2496
+
+> -Code pénal
+>
+> > Art. 725-5
+
+> -Loi n° 2001-616 du 11 juillet 2001
+>
+> > Art. 52, Art. 52-1, Art. 52-2, Art. 52-3, Art. 52-4, Art. 53, Art. 54, Art. 55, Art. 56, Art. 57, Art. 58, Art. 59, Art. 60, Art. 61, Art. 62
+
+4° Le 2° de l'article 1er, le chapitre IV et l'article 35 de la délibération n° 61-16 du 17 mai 1961 de l'assemblée territoriale des Comores relative à l'état civil à Mayotte ;
+
+5° La délibération susvisée n° 64-12 bis du 3 juin 1964 de la chambre des députés des Comores ;\
+6° Le décret du 1er juin 1939 relatif à l'organisation de la justice indigène dans l'archipel des Comores.
+
+### Article 17
+
+Le Premier ministre, la ministre d'Etat, garde des sceaux, ministre de la justice et des libertés, le ministre de l'intérieur, de l'outre-mer et des collectivités territoriales et la ministre auprès du ministre de l'intérieur, de l'outre-mer et des collectivités territoriales, chargée de l'outre-mer, sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.
+
+---
+
+Fait à Paris, le 3 juin 2010.
+
+Nicolas Sarkozy
+
+Par le Président de la République :
+
+Le Premier ministre,
+
+François Fillon
+
+Le ministre de l'intérieur,
+
+de l'outre-mer et des collectivités territoriales,
+
+Brice Hortefeux
+
+La ministre d'Etat, garde des sceaux,
+
+ministre de la justice et des libertés,
+
+Michèle Alliot-Marie
+
+La ministre auprès du ministre de l'intérieur,
+
+de l'outre-mer et des collectivités territoriales,
+
+chargée de l'outre-mer,
+
+Marie-Luce Penchard
+
+> **Nota :** Loi n° 2010-1487 du 7 décembre 2010 article 31 I : Est ratifiée l'ordonnance n° 2010-590 du 3 juin 2010.

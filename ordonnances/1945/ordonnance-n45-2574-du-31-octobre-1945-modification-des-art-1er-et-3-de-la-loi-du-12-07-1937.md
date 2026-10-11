@@ -1,0 +1,92 @@
+---
+title: "Ordonnance n°45-2574 du 31 octobre 1945 modification des art. 1er et 3 de la loi du 12-07-1937 relatifs respectivement au fonctionnement et au financement de la caisse de retraite des clercs et employés de notaires"
+identifier: "LEGITEXT000045170442"
+cid: "JORFTEXT000000522119"
+nature: "ORDONNANCE"
+number: "45-2574"
+type: ordinance
+jurisdiction: fr
+language: fr
+date: 1945-10-31
+last_amended: 1945-11-02
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000045170442"
+retrieved: 2026-10-11
+---
+
+# Ordonnance n°45-2574 du 31 octobre 1945 modification des art. 1er et 3 de la loi du 12-07-1937 relatifs respectivement au fonctionnement et au financement de la caisse de retraite des clercs et employés de notaires
+
+Le Gouvernement provisoire de la République française ;
+
+Sur le rapport du garde des sceaux, ministre de la justice, du ministre du travail et de la sécurité sociale et du ministre de l’économie nationale et des finances ;
+
+Vu l’ordonnance du 3 juin 1943 portant institution du Comité français de la libération nationale, ensemble les ordonnances des 3 juin et 4 septembre 1944 ;
+
+Vu l’ordonnance du 9 août 1944 relative au rétablissement de la légalité républicaine sur le territoire continental ;
+
+Vu la loi du 12 juillet 1937 instituant une caisse de retraite et de prévoyance des clercs et employés de notaires et les textes subséquents qui l’ont modifiée ;
+
+Vu l’ordonnance du 8 septembre 1945 relative aux émoluments alloués aux officiers publics ministériels ;
+
+Le conseil d’Etat (commission permanente) entendu,
+
+Ordonne :
+
+## Article 1
+
+L’article 1<sup>er</sup> de la loi du 12 juillet 1937 instituant une caisse de retraite et de prévoyance des clercs et employés de notaires est modifié ainsi qu’il suit :
+
+" Art. 1 – Il est instituée une caisse de retraite et de prévoyance pour les clercs et employés de l’un ou l’autre sexe des études notariales, des chambres de notaires des caisses de garantie de la caisse créée par la présente loi, ainsi que des organismes professionnels assimilés, après avis du conseil supérieur du notariat, par arrêté du garde des sceaux, ministre de la justice et du ministre du travail et de la sécurité sociale.
+
+" Cette caisse comprend deux sections ayant pour objet :
+
+" L’une, la constitution au profit de l’affilié d’une pension en cas de vieillesse ou d’invalidité prématurée, réversible pour partie au profit du conjoint, des enfants mineurs, et des ascendants à charge, et au profit de ces mêmes bénéficiaires d’une pension en cas de décès ;
+
+" L’autre, le versement d’indemnités en cas de maladie, de maternité ou de chômage, et éventuellement la création d’œuvres sociales dans les conditions déterminées par le règlement d’administration publique prévu à l’article 5 de la présente loi.
+
+" L’affiliation à cette caisse est obligatoire : à la date de la mise en application de la présente loi pour les clercs et employés qui seront alors en service ; dès leur entrée en fonctions pour ceux qui prendront leur service postérieurement à cette date ".
+
+## Article 2
+
+L’article 3 de la loi du 12 juillet 1937 modifiée est abrogé et remplacé par les dispositions suivantes :
+
+" Art. 3 – La caisse de retraite et de prévoyance prévue à l’article 1er de la présente loi reçoit :
+
+" 1° Une cotisation obligatoire pour tous les notaires en exercice ayant des clercs et employés, ainsi que pour les chambres, caisse et organismes visés audit article 1er. Cette cotisation est égale à 3 p. 100 des salaires, gratifications et avantages de toute nature alloués par les employeurs aux clercs et employés, sans exception ni réserve. Elle est calculée sur la totalité de ces rémunérations si elles n’excèdent pas 150.000 F par an et sur une portion égale à cette somme si elles sont supérieures ;
+
+" 2° Une autre cotisation obligatoire pour tous les notaires en exercice égale au produit de 4 p. 100 des honoraires proportionnels fixés par les textes législatifs ou réglementaires en vigueur et prélevés sur le montant desdits honoraires ;
+
+" 3° Une cotisation obligatoire pour les clercs et employés énumérés au même article 1er. Cette cotisation est égale à 7 p. 100 des salaires, gratifications et avantages de toute nature qui leur sont alloués par les employeurs, sans exception ni réserve. Elle est calculée de la manière prévue au premier alinéa ci-dessus.
+
+" La cotisation prévue à l’alinéa 3° du présent article sera obligatoirement retenue par les notaires et autres organismes employeurs et versée par eux à la caisse en même temps que leurs cotisations personnelles auxquelles sera joint, en ce qui concerne les notaires, le produit de la cotisation visée au 2° (alinéa), le tout dans les délais et conditions déterminés par le règlement d’administration publique prévu à l’article 5 de la présente loi.
+
+" Le même règlement d'administration publique fixera la répartition entre les deux sections de la caisse des ressources énumérées audit article".
+
+## Article 3
+
+Les modifications apportées par l’article 2 ci-dessous à la loi du 12 juillet 1937 et à l’article 3 de l’ordonnance du 8 septembre 1945 en ce qui concerne les taux des cotisations et au chiffre limite servant de base à leur calcul prendront effet au 1<sup>er</sup> octobre 1945. Il en sera de même de la suppression des cotisations mensuelles forfaitaires qui étaient prévues au 4° (alinéa) de l’article 3 de la loi du 12 juillet 1937.
+
+## Article 4
+
+La présente ordonnance sera publiée au Journal officiel de la République française et exécutée comme loi.
+
+---
+
+Fait à Paris, le 31 octobre 1945.
+
+C. DE GAULLE.
+
+Par le Gouvernement provisoire de la République française :
+
+Le ministre du travail et de la sécurité sociale,
+
+ALEXANDRE PARODI.
+
+Le ministre du travail et de la sécurité sociale, garde des sceaux, ministre de la justice par intérim,
+
+ALEXANDRE PARODI.
+
+Le ministre des finances,
+
+R. PLEVEN
