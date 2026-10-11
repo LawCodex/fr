@@ -1,0 +1,60 @@
+---
+title: "Décret n°77-47 du 19 janvier 1977 portant création de centres de vote à l'étranger."
+identifier: "LEGITEXT000006062687"
+cid: "JORFTEXT000000514897"
+nature: "DECRET"
+number: "77-47"
+type: decree
+jurisdiction: fr
+language: fr
+date: 1977-01-19
+last_amended: 1987-10-18
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006062687"
+retrieved: 2026-10-11
+---
+
+# Décret n°77-47 du 19 janvier 1977 portant création de centres de vote à l'étranger.
+
+Sur le rapport du ministre des affaires étrangères,\
+Vu la loi organique n° 76-97 du 31 janvier 1976 sur le vote des Français établis hors de France pour l'élection du Président de la République, et notamment son article 2 ;\
+Vu le décret n° 76-950 du 14 octobre 1976 portant application de la loi organique susvisée du 31 janvier 1976,
+
+## Article 1
+
+Sont créés à l'étranger des centres de vote dont le siège et la circonscription sont définis conformément au tableau annexé au présent décret.
+
+## Article 2
+
+Le ministre des affaires étrangères est chargé de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+## Annexes
+
+### ANNEXE
+
+| CENTRE DE VOTE | SIEGES DES CENTRES<br>de vote | CIRCONSCRIPTIONS<br>des centres de vote |
+|---|---|---|
+| Berlin | Consulat général | Secteurs occidentaux de Berlin. |
+|  |  | Circonscriptions consulaires de : |
+| Brasilia | Ambassade | Brasilia sauf l'Etat du Para et le territoire de l'Amapà. |
+| Porto Alegre | Consulat général | Porto Alegre. |
+| Recife | Consulat général | Recife. |
+| Rio de Janeiro | Consulat général | Rio de Janeiro. |
+| Sao Paulo | Consulat général | Sao Paulo. |
+| Séoul | Ambassade | Corée. |
+|  |  | Circonscriptions consulaires de : |
+| Tananarive | Consulat général | Tananarive. |
+| Diégo-Suarez | Consulat général | Diégo-Suarez. |
+| Fianarantsoa | Consulat | Fianarantsoa. |
+| Majunga | Consulat | Majunga. |
+| Tamatave | Consulat | Tamatave. |
+| Islamabad | Ambassade | Islamabad. |
+| Karachi | Consulat général | Karachi. |
+| Kinshasa | Ambassade | Kinshasa. |
+| Lubumbashi | Consulat général | Lubumbashi. |
+
+---
+
+Le Premier ministre : RAYMOND BARRE.\
+Le ministre des affaires étrangères, LOUIS DE GUIRINGAUD.

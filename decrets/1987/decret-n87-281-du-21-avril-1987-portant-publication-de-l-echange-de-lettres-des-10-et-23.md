@@ -1,0 +1,41 @@
+---
+title: "Décret n°87-281 du 21 avril 1987 portant publication de l'échange de lettres des 10 et 23 septembre 1986 entre le Gouvernement de la République française et le Gouvernement de la République socialiste du Viet-Nam relatif au rapatriement des corps de militaires français morts au Viet-Nam"
+identifier: "LEGITEXT000006065924"
+cid: "JORFTEXT000000332087"
+nature: "DECRET"
+number: "87-281"
+nor: "MAEJ8730020D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 1987-04-21
+last_amended: 1987-04-25
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000006065924"
+retrieved: 2026-10-11
+---
+
+# Décret n°87-281 du 21 avril 1987 portant publication de l'échange de lettres des 10 et 23 septembre 1986 entre le Gouvernement de la République française et le Gouvernement de la République socialiste du Viet-Nam relatif au rapatriement des corps de militaires français morts au Viet-Nam
+
+Le Président de la République,\
+Sur le rapport du Premier ministre et du ministre des affaires étrangères,\
+Vu les articles 52 à 55 de la Constitution ;\
+Vu le décret n° 53-192 du 14 mars 1953 modifié relatif à la ratification et à la publication des engagements internationaux souscrits par la France,
+
+## Article 1
+
+L'échange de lettres des 10 et 23 septembre 1986 entre le Gouvernement de la République française et le Gouvernement de la République socialiste du Viet-Nam relatif au rapatriement des corps de militaires français morts au Viet-Nam sera publié au Journal officiel de la République française.
+
+## Article 2
+
+Le Premier ministre et le ministre des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret.\
+(1) Le présent accord est entré en vigueur le 1er octobre 1986.
+
+---
+
+FRANçOIS MITTERRAND Par le Président de la République :\
+Le Premier ministre,\
+JACQUES CHIRAC\
+Le ministre des affaires étrangères,\
+JEAN-BERNARD RAIMOND
