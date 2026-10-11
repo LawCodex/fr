@@ -1,0 +1,56 @@
+---
+title: "Décret n° 2013-946 du 22 octobre 2013 modifiant le décret n° 2004-963 du 9 septembre 2004 portant création du service à compétence nationale « Agence des participations de l'Etat »"
+identifier: "LEGITEXT000028110737"
+cid: "JORFTEXT000028109930"
+nature: "DECRET"
+number: "2013-946"
+nor: "EFIT1322566D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2013-10-22
+last_amended: 2013-10-25
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000028110737"
+retrieved: 2026-10-11
+---
+
+# Décret n° 2013-946 du 22 octobre 2013 modifiant le décret n° 2004-963 du 9 septembre 2004 portant création du service à compétence nationale « Agence des participations de l'Etat »
+
+Le Premier ministre,\
+Sur le rapport du ministre de l'économie et des finances,\
+Vu le décret n° 2004-963 du 9 septembre 2004 modifié portant création du service à compétence nationale Agence des participations de l'Etat ,\
+Décrète :
+
+## Article 2
+
+Le ministre de l'économie et des finances, le ministre du redressement productif, le ministre de l'écologie, du développement durable et de l'énergie et le ministre de la défense sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+---
+
+Fait le 22 octobre 2013.
+
+Jean-Marc Ayrault
+
+Par le Premier ministre :
+
+Le ministre de l'économie et des finances,
+
+Pierre Moscovici
+
+Le ministre du redressement productif,
+
+Arnaud Montebourg
+
+Le ministre de l'écologie,
+
+du développement durable
+
+et de l'énergie,
+
+Philippe Martin
+
+Le ministre de la défense,
+
+Jean-Yves Le Drian
