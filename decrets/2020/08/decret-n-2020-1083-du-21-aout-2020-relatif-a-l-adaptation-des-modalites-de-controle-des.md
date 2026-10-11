@@ -1,0 +1,49 @@
+---
+title: "Décret n° 2020-1083 du 21 août 2020 relatif à l'adaptation des modalités de contrôle des organisations de producteurs et associations d'organisations de producteurs liée à la pandémie de covid-19"
+identifier: "LEGITEXT000042256708"
+cid: "JORFTEXT000042255904"
+nature: "DECRET"
+number: "2020-1083"
+nor: "AGRT2021131D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2020-08-21
+last_amended: 2020-08-24
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000042256708"
+retrieved: 2026-10-11
+---
+
+# Décret n° 2020-1083 du 21 août 2020 relatif à l'adaptation des modalités de contrôle des organisations de producteurs et associations d'organisations de producteurs liée à la pandémie de covid-19
+
+Le Premier ministre,\
+Sur le rapport du ministre de l'agriculture et de l'alimentation,\
+Vu le règlement (UE) n° 1308/2013 du Parlement européen et du Conseil du 17 décembre 2013 portant organisation commune des marchés des produits agricoles et abrogeant les Règlements (CEE) n° 922/72, (CEE) n° 234/79, (CE) n° 1037/2001 et (CE) n° 1234/2007 du Conseil ;\
+Vu le code rural et de la pêche maritime, notamment ses articles L. 551-1 et L. 552-1,\
+Décrète :
+
+## Article 1
+
+Par dérogation aux articles D. 551-4 et D. 552-2 du code rural et de la pêche maritime, si, en 2020, une organisation de producteurs ou une association d'organisations de producteurs n'est pas en mesure, pour des raisons liées à la pandémie de covid-19, de prendre des mesures correctives dans le délai qui lui a été imparti, l'autorité compétente peut prolonger le délai fixé pour l'adoption de ces mesures correctives jusqu'au 31 décembre 2020 au plus tard.
+
+## Article 2
+
+Par dérogation aux articles D. 551-23 à D. 551-30, D. 551-37 à D. 551-40, D. 551-41, D. 551-45, D. 551-46, D. 551-49, D. 551-53 et D. 552-5 du même code, il n'est pas tenu compte de l'année 2020 pour l'appréciation du respect des critères de reconnaissance relatifs au nombre minimal de producteurs membres et au volume minimal de production.
+
+## Article 3
+
+Le ministre de l'agriculture et de l'alimentation est chargé de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+---
+
+Fait le 21 août 2020.
+
+Jean Castex
+
+Par le Premier ministre :
+
+Le ministre de l'agriculture et de l'alimentation,
+
+Julien Denormandie

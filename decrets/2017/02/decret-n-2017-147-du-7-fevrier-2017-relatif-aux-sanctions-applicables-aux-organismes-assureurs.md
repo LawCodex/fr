@@ -1,0 +1,51 @@
+---
+title: "Décret n° 2017-147 du 7 février 2017 relatif aux sanctions applicables aux organismes assureurs pour non-respect des dispositions de l'article L. 1141-5 du code de la santé publique"
+identifier: "LEGITEXT000034016661"
+cid: "JORFTEXT000034015469"
+nature: "DECRET"
+number: "2017-147"
+nor: "AFSS1619228D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2017-02-07
+last_amended: 2017-02-10
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000034016661"
+retrieved: 2026-10-11
+---
+
+# Décret n° 2017-147 du 7 février 2017 relatif aux sanctions applicables aux organismes assureurs pour non-respect des dispositions de l'article L. 1141-5 du code de la santé publique
+
+Le Premier ministre,\
+Sur le rapport du ministre de l'économie et des finances et de la ministre des affaires sociales et de la santé,\
+Vu le code des assurances, notamment son article L. 133-1 ;\
+Vu le code monétaire et financier, notamment son article L. 612-39 ;\
+Vu le code de la mutualité, notamment son article L. 112-4 ;\
+Vu le code de la santé publique, notamment son article L. 1141-5 ;\
+Vu le code de la sécurité sociale, notamment son article L. 932-39 ;\
+Vu l'avis du Comité consultatif de la législation et de la réglementation financières en date du 20 juillet 2016 ;\
+Vu l'avis du Conseil supérieur de la mutualité en date du 22 juillet 2016 ;\
+Le Conseil d'Etat (section sociale) entendu,\
+Décrète :
+
+## Article 2
+
+Le ministre de l'économie et des finances et la ministre des affaires sociales et de la santé sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+---
+
+Fait le 7 février 2017.
+
+Bernard Cazeneuve
+
+Par le Premier ministre :
+
+La ministre des affaires sociales et de la santé,
+
+Marisol Touraine
+
+Le ministre de l'économie et des finances,
+
+Michel Sapin
