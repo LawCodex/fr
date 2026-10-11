@@ -1,0 +1,48 @@
+---
+title: "Décret n° 2024-336 du 12 avril 2024 relatif au versement annuel de la Caisse des dépôts et consignations à l'Etat"
+identifier: "LEGITEXT000049412410"
+cid: "JORFTEXT000049409508"
+nature: "DECRET"
+number: "2024-336"
+nor: "ECOT2407749D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2024-04-12
+last_amended: 2024-04-14
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000049412410"
+retrieved: 2026-10-11
+---
+
+# Décret n° 2024-336 du 12 avril 2024 relatif au versement annuel de la Caisse des dépôts et consignations à l'Etat
+
+Le Premier ministre,\
+Sur le rapport du ministre de l'économie, des finances et de la souveraineté industrielle et numérique,\
+Vu le code monétaire et financier, notamment son article L. 518-16 ;\
+Vu l'avis de la commission de surveillance de la Caisse des dépôts et consignations en date du 20 mars 2024,\
+Décrète :
+
+## Article 1
+
+Conformément aux dispositions de l'article L. 518-16 du code monétaire et financier, la Caisse des dépôts et consignations verse chaque année à l'Etat, sur le résultat net de son activité pour compte propre après paiement d'une contribution représentative de l'impôt sur les sociétés, une fraction de ce résultat net.\
+Au titre du résultat net de 2023, le versement à l'Etat s'établit à 1 478 378 500 €.\
+Ce versement a fait l'objet d'un paiement fractionné d'un montant de 887 333 333 € en décembre 2023.\
+Le solde d'un montant de 591 045 167 € sera versé intégralement dans les deux mois suivant la publication du présent décret au Journal officiel de la République française.
+
+## Article 2
+
+Le ministre de l'économie, des finances et de la souveraineté industrielle et numérique est chargé de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+---
+
+Fait le 12 avril 2024.
+
+Gabriel Attal
+
+Par le Premier ministre :
+
+Le ministre de l'économie, des finances et de la souveraineté industrielle et numérique,
+
+Bruno Le Maire

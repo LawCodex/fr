@@ -1,0 +1,43 @@
+---
+title: "Décret du 27 juillet 2026 portant délégation de signature (secrétariat général de la mer)"
+identifier: "LEGITEXT000054543151"
+cid: "JORFTEXT000054540895"
+nature: "DECRET"
+nor: "PRMM2620265D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2026-07-27
+last_amended: 2026-07-30
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054543151"
+retrieved: 2026-10-11
+---
+
+# Décret du 27 juillet 2026 portant délégation de signature (secrétariat général de la mer)
+
+Le Premier ministre,\
+Vu le décret n° 95-1232 du 22 novembre 1995 modifié relatif au comité interministériel de la mer et au secrétariat général de la mer ;\
+Vu le décret du 9 septembre 2025 portant nomination du Premier ministre ;\
+Vu le décret du 16 avril 2025 portant nomination du secrétaire général de la mer ;\
+Vu le décret du 24 juin 2026 portant nomination du secrétaire général adjoint au secrétariat général de la mer,\
+Décrète :
+
+## Article 1
+
+Délégation est donnée à M. Xavier DUCEPT, secrétaire général de la mer, à l'effet de signer, au nom du Premier ministre et dans la limite de ses attributions, tous actes, instructions, circulaires et décisions, à l'exclusion des décrets.
+
+## Article 2
+
+En cas d'absence et d'empêchement de M. Xavier DUCEPT, délégation est donnée à M. Philippe NAUDET, secrétaire général adjoint au secrétariat général de la mer, à l'effet de signer, au nom du Premier ministre et dans la limite des attributions du secrétaire général de la mer, tous actes, instructions, circulaires et décisions, à l'exclusion des décrets, à compter du 1<sup>er</sup> août 2026.
+
+## Article 3
+
+Le présent décret sera publié au Journal officiel de la République française.
+
+---
+
+Fait le 27 juillet 2026.
+
+Sébastien LECORNU

@@ -1,0 +1,426 @@
+---
+title: "Décret n° 2025-872 du 1er septembre 2025 fixant la valeur du seuil mentionné au 2° du IV de l'article R. 302-14 du code de la construction et de l'habitation pour la période triennale 2026-2028"
+identifier: "LEGITEXT000052179096"
+cid: "JORFTEXT000052177794"
+nature: "DECRET"
+number: "2025-872"
+nor: "ATDL2513068D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2025-09-01
+last_amended: 2025-09-03
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000052179096"
+retrieved: 2026-10-11
+---
+
+# Décret n° 2025-872 du 1er septembre 2025 fixant la valeur du seuil mentionné au 2° du IV de l'article R. 302-14 du code de la construction et de l'habitation pour la période triennale 2026-2028
+
+Le Premier ministre,\
+Sur le rapport du ministre de l'aménagement du territoire et de la décentralisation,\
+Vu le code de la construction et de l'habitation, notamment ses articles L. 302-5 et R. 302-14 ;\
+Vu le décret n° 2023-230 du 29 mars 2023 fixant la valeur du seuil mentionné au 2° du IV de l'article R. 302-14 du code de la construction et de l'habitation pour la période triennale 2023-2025 ;\
+Vu l'avis du conseil national de l'habitat du 12 juin 2025 ;\
+Vu l'avis du conseil national de l'évaluation des normes du 3 juillet 2025,\
+Décrète :
+
+## Article 1
+
+Les agglomérations et les établissements publics de coopération intercommunale à fiscalité propre mentionnés au 2° du III de l'article L. 302-5 du code de la construction et de l'habitation ont un ratio entre le nombre de demandes de logements sociaux et le nombre d'emménagements annuels, hors mutations internes, dans le parc locatif social, tel que défini au 2° du IV de l'article R. 302-14 du même code, inférieur à 2.\
+La liste des agglomérations et des établissements publics de coopération intercommunale à fiscalité propre mentionnés au I de l'article L. 302-5 du code de la construction et de l'habitation ainsi que la valeur du ratio de tension sur la demande mentionnée au 2° du IV de l'article R. 302-14 du même code pour chacune de ces agglomérations et établissements publics à coopération intercommunale figurent en annexe.
+
+## Article 3
+
+Le ministre de l'aménagement du territoire et de la décentralisation et la ministre auprès du ministre de l'aménagement du territoire et de la décentralisation, chargée du logement, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+## Annexe
+
+### Article
+
+ANNEXE\
+LISTES DES AGGLOMÉRATIONS ET DES ÉTABLISSEMENTS PUBLICS DE COOPÉRATION INTERCOMMUNALE À FISCALITÉ PROPRE VISÉS AU I DE L'ARTICLE L. 302-5 ET, POUR CHACUN D'ENTRE EUX, VALEUR DU RATIO ENTRE LE NOMBRE DE DEMANDES DE LOGEMENT LOCATIF SOCIAL ET LE NOMBRE D'ATTRIBUTIONS ANNUELLES, HORS MUTATIONS INTERNES AU SEIN DU PARC LOCATIF SOCIAL
+
+| Code<br>de l'agglomération | Agglomération de plus de 50 000 habitants<br>comprenant au moins une commune de plus de 15 000 habitants | Moyenne arithmétique des trois rapports,<br>établis au 1<sup>er</sup> janvier 2022, au 1<sup>er</sup> janvier 2023<br>et au 1<sup>er</sup> janvier 2024, du nombre de demandes<br>de logements sociaux par rapport au nombre<br>d'emménagements annuels, hors mutations internes, dans le parc locatif social |
+|---|---|---|
+| 00551 | Lunel | 14,69351 |
+| 00552 | Arles | 5,63631 |
+| 00553 | Montélimar | 4,95963 |
+| 00554 | Mâcon | 3,20739 |
+| 00555 | Bergerac | 7,30220 |
+| 00557 | Brive-la-Gaillarde | 3,81027 |
+| 00558 | Belfort | 1,70803 |
+| 00559 | Vienne | 3,86715 |
+| 00651 | Montbéliard | 1,64099 |
+| 00652 | Valence | 5,34094 |
+| 00653 | Genève (SUI)-Annemasse (partie française) | 6,24677 |
+| 00751 | Bayonne (partie française) | 11,58424 |
+| 00752 | Béthune | 3,54957 |
+| 00753 | Saint-Étienne | 2,55693 |
+| 00754 | Avignon | 5,32436 |
+| 00755 | Rouen | 3,27694 |
+| 00756 | Douai-Lens | 3,42122 |
+| 00757 | Toulon | 8,21367 |
+| 00758 | Toulouse | 4,39554 |
+| 00759 | Marseille-Aix-en-Provence | 10,94416 |
+| 00760 | Lyon | 7,44921 |
+| 00851 | Paris | 11,83689 |
+| 01501 | Bourg-en-Bresse | 3,12614 |
+| 02501 | Saint-Quentin | 2,82066 |
+| 03501 | Montluçon | 2,03409 |
+| 03502 | Vichy | 4,09113 |
+| 06501 | Menton-Monaco (partie française) | 10,92329 |
+| 06701 | Nice | 12,70070 |
+| 08501 | Charleville-Mézières | 1,50815 |
+| 10601 | Troyes | 2,13741 |
+| 11501 | Narbonne | 7,82810 |
+| 13501 | Salon-de-Provence | 7,25886 |
+| 14701 | Caen | 5,23303 |
+| 16601 | Angoulême | 3,35577 |
+| 17601 | La Rochelle | 6,93967 |
+| 18501 | Bourges | 3,05295 |
+| 21701 | Dijon | 3,56993 |
+| 22501 | Saint-Brieuc | 5,09428 |
+| 24501 | Périgueux | 4,08638 |
+| 25601 | Besançon | 2,91098 |
+| 26501 | Romans-sur-Isère | 4,01701 |
+| 27501 | Évreux | 3,54436 |
+| 28501 | Chartres | 3,76193 |
+| 29501 | Quimper | 4,55342 |
+| 29701 | Brest | 4,17532 |
+| 2A501 | Ajaccio | 7,85774 |
+| 2B501 | Bastia | 6,05663 |
+| 30501 | Alès | 4,07274 |
+| 30601 | Nîmes | 7,05523 |
+| 33501 | La Teste-de-Buch-Arcachon | 6,90471 |
+| 33701 | Bordeaux | 6,58045 |
+| 34501 | Sète | 8,88146 |
+| 34502 | Béziers | 4,94329 |
+| 34701 | Montpellier | 9,28547 |
+| 35701 | Rennes | 5,94435 |
+| 36501 | Châteauroux | 1,85252 |
+| 37701 | Tours | 3,54508 |
+| 38501 | Bourgoin-Jallieu | 3,33856 |
+| 38502 | Voiron | 3,07512 |
+| 38701 | Grenoble | 4,36160 |
+| 40501 | Dax | 4,78500 |
+| 41501 | Blois | 3,31452 |
+| 42501 | Saint-Just-Saint-Rambert | 2,85146 |
+| 42502 | Roanne | 3,24142 |
+| 44601 | Saint-Nazaire | 5,08732 |
+| 44701 | Nantes | 6,40689 |
+| 45701 | Orléans | 4,53467 |
+| 47501 | Agen | 4,70312 |
+| 49501 | Cholet | 4,37205 |
+| 49701 | Angers | 4,25405 |
+| 50501 | Cherbourg-en-Cotentin | 2,14267 |
+| 51501 | Châlons-en-Champagne | 1,84730 |
+| 51701 | Reims | 2,83923 |
+| 53501 | Laval | 3,17076 |
+| 54405 | Longwy (partie française) | 3,31755 |
+| 54701 | Nancy | 3,50871 |
+| 56501 | Vannes | 6,11939 |
+| 56601 | Lorient | 6,85667 |
+| 57501 | Sarrebruck (ALL)-Forbach (partie française) | 2,79468 |
+| 57601 | Thionville | 3,81698 |
+| 57701 | Metz | 3,97014 |
+| 58501 | Nevers | 2,65667 |
+| 59501 | Armentières (partie française) | 4,81246 |
+| 59601 | Maubeuge (partie française) | 3,01248 |
+| 59602 | Dunkerque | 4,31372 |
+| 59701 | Valenciennes (partie française) | 4,25176 |
+| 59702 | Lille (partie française) | 6,41055 |
+| 60501 | Beauvais | 4,73663 |
+| 60502 | Compiègne | 3,40935 |
+| 60601 | Creil | 5,06451 |
+| 62501 | Boulogne-sur-Mer | 3,63304 |
+| 62502 | Arras | 3,35499 |
+| 62503 | Calais | 3,50155 |
+| 63701 | Clermont-Ferrand | 3,20219 |
+| 64701 | Pau | 5,64631 |
+| 65501 | Tarbes | 2,90759 |
+| 66701 | Perpignan | 6,96072 |
+| 67501 | Haguenau | 5,23892 |
+| 67701 | Strasbourg (partie française) | 6,82357 |
+| 68501 | Colmar | 3,07510 |
+| 68701 | Mulhouse | 3,54168 |
+| 71501 | Chalon-sur-Saône | 2,27712 |
+| 72701 | Le Mans | 3,04632 |
+| 73601 | Chambéry | 4,98092 |
+| 74501 | Thonon-les-Bains | 4,92383 |
+| 74502 | Cluses | 4,88700 |
+| 74601 | Annecy | 6,44025 |
+| 76701 | Le Havre | 3,90007 |
+| 77502 | Meaux | 10,13231 |
+| 79501 | Niort | 4,77539 |
+| 80601 | Amiens | 4,20200 |
+| 81501 | Castres | 3,16844 |
+| 81502 | Albi | 3,17352 |
+| 82501 | Montauban | 5,43829 |
+| 83501 | Draguignan | 5,80900 |
+| 83502 | Fréjus | 8,43863 |
+| 85501 | La Roche-sur-Yon | 5,99444 |
+| 86601 | Poitiers | 3,24350 |
+| 87601 | Limoges | 2,89371 |
+| 88501 | Épinal | 1,89615 |
+| 9A701 | Pointe-à-Pitre-Les Abymes | 4,93442 |
+| 9B601 | Fort-de-France | 7,58362 |
+| 9B602 | Le Robert | 7,12620 |
+| 9C402 | Saint-Laurent-du-Maroni | 7,07108 |
+| 9C601 | Cayenne | 6,94049 |
+| 9D405 | Saint-Joseph | 7,87931 |
+| 9D501 | Saint-Louis | 8,45924 |
+| 9D502 | Saint-André | 6,37538 |
+| 9D601 | Saint-Pierre | 7,02330 |
+| 9D602 | Saint-Paul | 8,12300 |
+| 9D603 | Saint-Denis | 6,37479 |
+| 9F601 | Mamoudzou | 16,41467 |
+
+| SIREN EPCI | Département du siège de l'EPCI | Etablissement public de coopération intercommunale à fiscalité propre de plus de 50 000 habitants comprenant au moins une commune de plus de 15 000 habitants | Moyenne arithmétique<br>des trois rapports, établis au 1<sup>er</sup> janvier 2022,<br>au 1<sup>er</sup> janvier 2023<br>et au 1<sup>er</sup> janvier 2024,<br>du nombre de demandes<br>de logements sociaux par rapport<br>au nombre d'emménagements<br>annuels, hors mutations internes,<br>dans le parc locatif social |
+|---|---|---|---|
+| 200042935 | 01 | COMMUNAUTÉ D'AGGLOMÉRATION HAUT-BUGEY AGGLOMÉRATION | 1,61341 |
+| 200071751 | 01 | CA DU BASSIN DE BOURG-EN-BRESSE | 2,85228 |
+| 240100883 | 01 | CC DE LA PLAINE DE L'AIN | 3,06462 |
+| 240200477 | 02 | GRANDSOISSONS AGGLOMÉRATION | 2,22735 |
+| 200071892 | 02 | CA DU SAINT-QUENTINOIS | 2,79520 |
+| 200072031 | 02 | CA DE LA RÉGION DE CHÂTEAU-THIERRY | 3,55273 |
+| 200071140 | 03 | CA MOULINS COMMUNAUTÉ | 1,96685 |
+| 200071082 | 03 | CA MONTLUÇON COMMUNAUTÉ | 2,02869 |
+| 200071363 | 03 | CA VICHY COMMUNAUTÉ | 4,05213 |
+| 200034700 | 04 | DURANCE LUBERON VERDON AGGLOMÉRATION | 5,81874 |
+| 200067825 | 05 | CA GAP-TALLARD-DURANCE | 5,38368 |
+| 200039857 | 06 | CA DU PAYS DE GRASSE | 8,01474 |
+| 240600551 | 06 | CA DE LA RIVIERA | 9,69234 |
+| 240600585 | 06 | CA DE SOPHIA ANTIPOLIS | 9,84160 |
+| 200039915 | 06 | CA CANNES PAYS DE LERINS | 11,52121 |
+| 200030195 | 06 | MÉTROPOLE NICE CÔTE D'AZUR | 14,95157 |
+| 200072015 | 07 | CA ANNONAY RHÔNE AGGLO | 2,77430 |
+| 200041630 | 08 | ARDENNE METROPOLE | 1,57032 |
+| 200069250 | 10 | CA TROYES CHAMPAGNE MÉTROPOLE | 2,15792 |
+| 200035715 | 11 | CA CARCASSONNE-AGGLO | 5,17039 |
+| 241100593 | 11 | CA LE GRAND NARBONNE | 7,88135 |
+| 241200187 | 12 | CA DE RODEZ-AGGLOMÉRATION | 3,09117 |
+| 241300417 | 13 | CA ARLES CRAU CAMARGUE MONTAGNETTE | 6,63947 |
+| 200035087 | 13 | CA TERRE DE PROVENCE | 7,44931 |
+| 200054807 | 13 | MÉTROPOLE AIX-MARSEILLE-PROVENCE | 10,44090 |
+| 200069532 | 14 | CA LISIEUX NORMANDIE | 4,83876 |
+| 200065597 | 14 | CU CAEN LA MER | 5,25060 |
+| 241500230 | 15 | CA BASSIN D'AURILLAC | 1,86180 |
+| 200071827 | 16 | CA DU GRAND-ANGOULÊME | 3,42635 |
+| 200070514 | 16 | CA DU GRAND COGNAC | 4,20871 |
+| 241700434 | 17 | CA LA ROCHELLE | 6,88964 |
+| 241700640 | 17 | CA ROYAN ATLANTIQUE | 6,89433 |
+| 200041762 | 17 | CA ROCHEFORT OCÉAN | 6,91127 |
+| 200036473 | 17 | CA DE SAINTES | 8,99092 |
+| 241800507 | 18 | CA BOURGES PLUS | 3,07132 |
+| 200043172 | 19 | CA DU BASSIN DE BRIVE | 3,86758 |
+| 200006682 | 21 | CA BEAUNE CHAGNY NOLAY | 2,57077 |
+| 242100410 | 21 | DIJON MÉTROPOLE | 3,56811 |
+| 200069409 | 22 | SAINT-BRIEUC ARMOR AGGLOMÉRATION | 4,98247 |
+| 200065928 | 22 | LANNION-TREGOR COMMUNAUTÉ | 5,05624 |
+| 200069391 | 22 | LAMBALLE TERRE ET MER | 6,75490 |
+| 200040392 | 24 | CA LE GRAND PÉRIGUEUX | 4,00177 |
+| 200070647 | 24 | CA BERGERACOISE | 7,43086 |
+| 200065647 | 25 | PAYS DE MONTBÉLIARD AGGLOMÉRATION | 1,64252 |
+| 242500361 | 25 | GRAND BESANÇON MÉTROPOLE | 3,02635 |
+| 200068781 | 26 | CA VALENCE ROMANS AGGLO | 4,74081 |
+| 200040459 | 26 | CA MONTÉLIMAR-AGGLOMÉRATION | 5,20016 |
+| 200089456 | 27 | CA SEINE-EURE | 3,59711 |
+| 200071454 | 27 | CA ÉVREUX PORTES DE NORMANDIE | 3,62075 |
+| 200072312 | 27 | CA SEINE NORMANDIE AGGLOMÉRATION | 4,52018 |
+| 200033181 | 28 | CA DE CHARTRES MÉTROPOLE | 3,74663 |
+| 200040277 | 28 | CA DU PAYS DE DREUX | 5,23136 |
+| 242900314 | 29 | BREST MÉTROPOLE | 4,11788 |
+| 242900835 | 29 | CA MORLAIX COMMUNAUTÉ | 4,39082 |
+| 200068120 | 29 | CA QUIMPER BRETAGNE OCCIDENTALE | 4,52985 |
+| 242900769 | 29 | CONCARNEAU-CORNOUAILLE AGGLOMÉRATION | 5,56830 |
+| 242010056 | 2A | CA DU PAYS AJACCIEN | 7,87534 |
+| 242000354 | 2B | CA DE BASTIA | 5,77633 |
+| 200034692 | 30 | CA DU GARD RHODANIEN | 3,35634 |
+| 200066918 | 30 | CA ALÈS AGGLOMÉRATION | 3,92867 |
+| 243000643 | 30 | CA DE NÎMES MÉTROPOLE | 6,99926 |
+| 243100633 | 31 | CA DU SICOVAL | 2,25877 |
+| 200068641 | 31 | CA LE MURETAIN AGGLO | 3,72849 |
+| 243100518 | 31 | TOULOUSE MÉTROPOLE | 4,78316 |
+| 243300316 | 33 | BORDEAUX MÉTROPOLE | 6,58080 |
+| 243300563 | 33 | CA BASSIN D'ARCACHON SUD PÔLE ATLANTIQUE | 6,90471 |
+| 200070092 | 33 | CA DU LIBOURNAIS | 7,72668 |
+| 243400769 | 34 | CA DE BÉZIERS MÉDITERRANÉE | 5,37707 |
+| 243400819 | 34 | CA HÉRAULT MÉDITERRANÉE | 5,75399 |
+| 200066355 | 34 | SÈTE AGGLOPOLE MÉDITERRANÉE | 8,80361 |
+| 243400017 | 34 | MONTPELLIER MÉDITERRANÉE MÉTROPOLE | 9,08253 |
+| 243400520 | 34 | CC DU PAYS DE LUNEL | 15,21824 |
+| 200072452 | 35 | CA FOUGÈRES AGGLOMÉRATION | 2,67197 |
+| 243500782 | 35 | CA SAINT-MALO AGGLOMÉRATION | 4,62879 |
+| 200039022 | 35 | CA VITRÉ COMMUNAUTÉ | 5,05561 |
+| 243500139 | 35 | RENNES MÉTROPOLE | 5,68496 |
+| 243600327 | 36 | CHÂTEAUROUX MÉTROPOLE | 1,85565 |
+| 243700754 | 37 | TOURS MÉTROPOLE VAL DE LOIRE | 3,62098 |
+| 243800984 | 38 | CA PAYS VOIRONNAIS | 3,14200 |
+| 243800604 | 38 | CA PORTE DE L'ISÈRE | 3,23375 |
+| 200077014 | 38 | VIENNE CONDRIEU AGGLOMÉRATION | 4,37142 |
+| 200040715 | 38 | GRENOBLE ALPES MÉTROPOLE | 4,37442 |
+| 200010650 | 39 | CA DU GRAND DOLE | 3,17135 |
+| 244000675 | 40 | CA DU GRAND DAX | 4,80784 |
+| 244000808 | 40 | MONT DE MARSAN AGGLOMÉRATION | 4,86829 |
+| 200072072 | 41 | COMMUNAUTÉ D'AGGLOMÉRATION TERRITOIRES VENDÔMOIS | 2,50868 |
+| 200030385 | 41 | CA DE BLOIS AGGLOPOLYS | 3,39757 |
+| 200065886 | 42 | LOIRE FOREZ AGGLOMÉRATION | 2,54597 |
+| 244200770 | 42 | SAINT-ÉTIENNE MÉTROPOLE | 2,58928 |
+| 200035731 | 42 | ROANNAIS AGGLOMÉRATION | 3,20813 |
+| 200073419 | 43 | CA DU PUY-EN-VELAY | 3,22614 |
+| 244400644 | 44 | CA DE LA RÉGION NAZAIRIENNE ET DE L'ESTUAIRE | 4,61435 |
+| 244400404 | 44 | NANTES MÉTROPOLE | 6,40914 |
+| 244400610 | 44 | CA DE LA PRESQU'ÎLE DE GUÉRANDE-ATLANTIQUE | 6,83485 |
+| 200067346 | 44 | CA PORNIC AGGLO PAYS DE RETZ | 9,58923 |
+| 244500468 | 45 | ORLÉANS-MÉTROPOLE | 4,52970 |
+| 200096956 | 47 | AGGLOMERATION D'AGEN | 4,73327 |
+| 200030674 | 47 | CA VAL DE GARONNE AGGLOMÉRATION | 5,47115 |
+| 200071876 | 49 | SAUMUR VAL DE LOIRE | 3,07202 |
+| 200060010 | 49 | CA DES MAUGES | 3,76101 |
+| 200071678 | 49 | AGGLOMÉRATION DU CHOLETAIS | 3,96199 |
+| 244900015 | 49 | CU ANGERS LOIRE MÉTROPOLE | 4,26213 |
+| 200067205 | 50 | CA DU COTENTIN | 2,62475 |
+| 200066389 | 50 | CA DE SAINT-LÔ AGGLO | 3,56683 |
+| 200066876 | 51 | COMMUNAUTÉ D'AGGLOMÉRATION DE CHÂLONS-EN-CHAMPAGNE | 1,85055 |
+| 200067213 | 51 | COMMUNAUTÉ URBAINE DU GRAND REIMS | 2,86879 |
+| 200068666 | 52 | CA DE SAINT-DIZIER-DER ET BLAISE | 1,17101 |
+| 200083392 | 53 | LAVAL AGGLOMÉRATION | 3,26291 |
+| 245400262 | 54 | GRAND LONGWY AGGLOMÉRATION | 3,28857 |
+| 245400676 | 54 | MÉTROPOLE DU GRAND NANCY | 3,64555 |
+| 200067932 | 56 | CA GOLFE DU MORBIHAN-VANNES AGGLOMÉRATION | 5,86616 |
+| 200042174 | 56 | LORIENT AGGLOMÉRATION | 6,50110 |
+| 245700372 | 57 | CA DE FORBACH | 2,68821 |
+| 200070746 | 57 | CA SARREGUEMINES CONFLUENCES | 3,30074 |
+| 245701222 | 57 | CA DU VAL DE FENSCH | 3,80922 |
+| 245701362 | 57 | CA PORTES DE FRANCE THIONVILLE | 3,82934 |
+| 200039865 | 57 | METZ MÉTROPOLE | 3,96586 |
+| 245804406 | 58 | CA NEVERS | 2,67048 |
+| 200043396 | 59 | CA MAUBEUGE VAL DE SAMBRE | 3,02375 |
+| 200044618 | 59 | DOUAISIS AGGLO | 4,10369 |
+| 245901160 | 59 | CA DE VALENCIENNES MÉTROPOLE | 4,18602 |
+| 245900428 | 59 | CU DE DUNKERQUE | 4,37057 |
+| 200068500 | 59 | CA DE CAMBRAI | 4,37601 |
+| 200042190 | 59 | CA DE LA PORTE DU HAINAUT | 4,46178 |
+| 200040947 | 59 | CC DE FLANDRE INTÉRIEURE | 5,32900 |
+| 200093201 | 59 | MÉTROPOLE EUROPÉENNE DE LILLE | 6,27336 |
+| 200067965 | 60 | CA DE LA RÉGION DE COMPIÈGNE ET DE LA BASSE AUTOMNE | 3,40647 |
+| 200067999 | 60 | CA DU BEAUVAISIS | 4,59159 |
+| 200068047 | 60 | CA CREIL SUD OISE | 5,28561 |
+| 246100663 | 61 | CU D'ALENÇON | 2,62491 |
+| 246200364 | 62 | CA DE LENS LIÉVIN | 2,99919 |
+| 200072460 | 62 | CA BÉTHUNE-BRUAY-ARTOIS-LYS ROMANE | 3,36279 |
+| 200033579 | 62 | CU D'ARRAS | 3,42002 |
+| 200090751 | 62 | COMMUNAUTÉ D'AGGLOMÉRATION GRAND CALAIS TERRES ET MERS | 3,49319 |
+| 246200299 | 62 | CA D'HÉNIN-CARVIN | 3,52629 |
+| 246200729 | 62 | CA DU BOULONNAIS | 3,72207 |
+| 246300701 | 63 | CLERMONT AUVERGNE MÉTROPOLE | 3,18200 |
+| 200070753 | 63 | CA RIOM LIMAGNE ET VOLCANS | 3,42787 |
+| 200070407 | 63 | CA AGGLO PAYS D'ISSOIRE | 4,26635 |
+| 200067254 | 64 | CA PAU BÉARN PYRÉNÉES | 5,62593 |
+| 200067106 | 64 | CA DU PAYS BASQUE | 11,21218 |
+| 200069300 | 65 | CA TARBES-LOURDES-PYRÉNÉES | 3,16756 |
+| 200027183 | 66 | CU PERPIGNAN MÉDITERRANÉE MÉTROPOLE | 7,08404 |
+| 200067874 | 67 | CA DE HAGUENAU | 5,02300 |
+| 246700488 | 67 | EUROMÉTROPOLE DE STRASBOURG | 6,81338 |
+| 246800726 | 68 | CA DE COLMAR | 3,08809 |
+| 200066058 | 68 | CA SAINT-LOUIS AGGLOMÉRATION | 3,42124 |
+| 200066009 | 68 | CA MULHOUSE ALSACE AGGLOMÉRATION | 3,53381 |
+| 200040590 | 69 | CA VILLEFRANCHE BEAUJOLAIS SAÔNE | 4,16918 |
+| 200046977 | 69 | MÉTROPOLE DE LYON | 7,99007 |
+| 247100290 | 71 | CU LE CREUSOT-MONTCEAU-LES-MINES | 0,97027 |
+| 247100589 | 71 | CA LE GRAND CHALON | 2,27477 |
+| 200070308 | 71 | CA MACONNAIS BEAUJOLAIS AGGLOMÉRATION | 3,23721 |
+| 247200132 | 72 | CU LE MANS MÉTROPOLE | 3,04808 |
+| 200068997 | 73 | CA ARLYSÈRE | 2,45893 |
+| 200069110 | 73 | CA GRAND CHAMBÉRY | 4,55318 |
+| 200068674 | 73 | CA GRAND LAC | 6,28601 |
+| 200067551 | 74 | THONON AGGLOMÉRATION | 5,14387 |
+| 200066793 | 74 | GRAND ANNECY | 6,39918 |
+| 200011773 | 74 | CA ANNEMASSE AGGLO | 7,41102 |
+| 200054781 | 75 | MÉTROPOLE DU GRAND PARIS | 13,01133 |
+| 200023414 | 76 | MÉTROPOLE ROUEN NORMANDIE | 3,24301 |
+| 200084952 | 76 | CU LE HAVRE SEINE MÉTROPOLE | 3,90604 |
+| 247700057 | 77 | CA MELUN VAL DE SEINE | 7,62951 |
+| 200090504 | 77 | CA COULOMMIERS PAYS DE BRIE | 8,40640 |
+| 200072346 | 77 | CA DU PAYS DE FONTAINEBLEAU | 9,48080 |
+| 247700594 | 77 | CA DE MARNE ET GONDOIRE | 9,69625 |
+| 200057958 | 77 | PARIS-VALLÉE DE LA MARNE | 9,89083 |
+| 200072130 | 77 | CA DU PAYS DE MEAUX | 10,01460 |
+| 200073344 | 78 | CA RAMBOUILLET TERRITOIRES | 5,91714 |
+| 200058782 | 78 | SAINT-QUENTIN-EN-YVELINES | 8,05777 |
+| 200059889 | 78 | GRAND PARIS SEINE & OISE | 8,18125 |
+| 247800584 | 78 | CA VERSAILLES GRAND PARC | 8,52327 |
+| 200058519 | 78 | CA SAINT GERMAIN BOUCLES DE SEINE | 9,54152 |
+| 200040244 | 79 | CA DU BOCAGE BRESSUIRAIS | 4,65243 |
+| 200041317 | 79 | CA DU NIORTAIS | 5,00374 |
+| 248000531 | 80 | CA AMIENS MÉTROPOLE | 4,21293 |
+| 248100737 | 81 | CA DE L'ALBIGEOIS | 3,21066 |
+| 248100430 | 81 | CA CASTRES MAZAMET | 3,37996 |
+| 200066124 | 81 | COMMUNAUTÉ D'AGGLOMÉRATION GAILLAC GRAULHET | 4,32242 |
+| 248200099 | 82 | GRAND MONTAUBAN CA | 5,47833 |
+| 248300493 | 83 | DRACÉNIE PROVENCE VERDON AGGLOMÉRATION | 5,12574 |
+| 248300543 | 83 | MÉTROPOLE TPM | 7,92597 |
+| 200035319 | 83 | ESTEREL CÔTE D'AZUR AGGLOMÉRATION | 8,38448 |
+| 248300394 | 83 | CA SUD SAINTE BAUME | 9,53300 |
+| 200068104 | 83 | CA PROVENCE VERTE | 10,38842 |
+| 248400293 | 84 | CA LES SORGUES DU COMTAT | 4,27304 |
+| 200040442 | 84 | CA LUBERON MONTS DE VAUCLUSE | 5,50107 |
+| 248400053 | 84 | CA VENTOUX COMTAT VENAISSIN | 5,58587 |
+| 248400251 | 84 | CA DU GRAND AVIGNON | 5,59688 |
+| 248500589 | 85 | CA LA ROCHE-SUR-YON AGGLOMÉRATION | 5,94751 |
+| 200070233 | 85 | CA TERRES DE MONTAIGU | 6,91572 |
+| 200071629 | 85 | CC CHALLANS-GOIS COMMUNAUTÉ | 8,09295 |
+| 200071165 | 85 | CA LES SABLES-D'OLONNE AGGLOMÉRATION | 9,98301 |
+| 248600413 | 86 | CA GRAND CHÂTELLERAULT | 2,82106 |
+| 200069854 | 86 | GRAND POITIERS COMMUNAUTÉ URBAINE | 3,34746 |
+| 248719312 | 87 | COMMUNAUTÉ URBAINE LIMOGES MÉTROPOLE | 2,87861 |
+| 200068757 | 88 | CA D'ÉPINAL | 1,80749 |
+| 200071066 | 88 | CA DE SAINT-DIÉ-DES-VOSGES | 2,16999 |
+| 200067114 | 89 | CA DE L'AUXERROIS | 3,00394 |
+| 248900334 | 89 | CA GRAND SENONAIS | 3,35029 |
+| 200069052 | 90 | GRAND BELFORT CA | 1,65215 |
+| 249100546 | 91 | CC DU VAL D'ESSONNE | 5,81648 |
+| 200057859 | 91 | COEUR D'ESSONNE AGGLOMÉRATION | 7,66177 |
+| 200058477 | 91 | CA VAL D'YERRES VAL DE SEINE | 8,26488 |
+| 200059228 | 91 | CA GRAND PARIS SUD SEINE ESSONNE SÉNART | 8,45440 |
+| 200017846 | 91 | CA DE L'ÉTAMPOIS SUD-ESSONNE | 9,35223 |
+| 200056232 | 91 | CA COMMUNAUTÉ PARIS SACLAY | 9,64315 |
+| 249500109 | 95 | CA CERGY PONTOISE | 11,88214 |
+| 200058485 | 95 | CA VAL PARISIS | 11,96963 |
+| 200056380 | 95 | CA PLAINE VALLÉE | 12,42549 |
+| 200055655 | 95 | CA ROISSY PAYS DE FRANCE | 12,42812 |
+| 249710070 | 971 | CA GRAND SUD CARAIBE | 3,68297 |
+| 249710062 | 971 | CA NORD BASSE TERRE | 4,58003 |
+| 200018653 | 971 | CA CAP EXCELLENCE | 4,66096 |
+| 200044691 | 971 | CA DU NORD GRANDE TERRE | 4,89993 |
+| 200041507 | 971 | CA LA RIVIERA DU LEVANT | 7,42461 |
+| 200041788 | 972 | CA DU PAYS NORD MARTINIQUE | 6,35088 |
+| 249720053 | 972 | CA ESPACE SUD MARTINIQUE | 6,84987 |
+| 249720061 | 972 | CA DU CENTRE DE LA MARTINIQUE | 7,86425 |
+| 249730045 | 973 | CA DU CENTRE LITTORAL | 6,61091 |
+| 249730037 | 973 | CC DE L'OUEST GUYANAIS | 6,75247 |
+| 249740093 | 974 | CA CIREST | 5,04386 |
+| 249740085 | 974 | CA DU SUD | 6,11066 |
+| 249740119 | 974 | CA CINOR | 6,24341 |
+| 249740077 | 974 | CIVIS | 7,36411 |
+| 249740101 | 974 | CA TERRITOIRE DE LA CÔTE OUEST | 8,36951 |
+| 200060457 | 976 | CA DEMBENI/MAMOUDZOU | 17,27315 |
+| 200060465 | 976 | CA DU GRAND NORD MAYOTTE | 17,64385 |
+
+---
+
+Fait le 1er septembre 2025.
+
+François Bayrou
+
+Par le Premier ministre :
+
+Le ministre de l'aménagement du territoire et de la décentralisation,
+
+François Rebsamen
+
+La ministre auprès du ministre de l'aménagement du territoire et de la décentralisation, chargée du logement,
+
+Valérie Létard

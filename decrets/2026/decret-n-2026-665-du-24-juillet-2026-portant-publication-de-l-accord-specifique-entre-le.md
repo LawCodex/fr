@@ -1,0 +1,240 @@
+---
+title: "Décret n° 2026-665 du 24 juillet 2026 portant publication de l'accord spécifique entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan relatif à la mise en œuvre de la coopération dans la lutte contre le réchauffement climatique (ensemble deux annexes), signé à Paris le 30 novembre 2022"
+identifier: "LEGITEXT000054488394"
+cid: "JORFTEXT000054486635"
+nature: "DECRET"
+number: "2026-665"
+nor: "EAEJ2618681D"
+type: decree
+jurisdiction: fr
+language: fr
+date: 2026-07-24
+last_amended: 2026-07-27
+consolidated: 2026-10-11
+status: in_force
+source: "https://www.legifrance.gouv.fr/loda/id/LEGITEXT000054488394"
+retrieved: 2026-10-11
+---
+
+# Décret n° 2026-665 du 24 juillet 2026 portant publication de l'accord spécifique entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan relatif à la mise en œuvre de la coopération dans la lutte contre le réchauffement climatique (ensemble deux annexes), signé à Paris le 30 novembre 2022
+
+Le Président de la République,\
+Sur le rapport du Premier ministre et du ministre de l'Europe et des affaires étrangères,\
+Vu la Constitution, notamment ses articles 52 à 55 ;\
+Vu le décret n° 53-192 du 14 mars 1953 modifié relatif à la ratification et à la publication des engagements internationaux souscrits par la France ;\
+Vu le décret n° 59-1039 du 1<sup>er</sup> septembre 1959 portant publication de la Convention pour la reconnaissance et l'exécution des sentences arbitrales étrangères, adoptées le 10 juin 1958 ;\
+Vu le décret n° 2000-948 du 28 septembre 2000 portant publication de la Convention sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales, faite à Paris le 17 décembre 1997 ;\
+Vu le décret n° 2010-948 du 25 août 2010 portant publication du traité de partenariat stratégique entre la République française et la République du Kazakhstan, signé à Paris le 11 juin 2008,\
+Décrète :
+
+## Article 1
+
+L'accord spécifique entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan relatif à la mise en œuvre de la coopération dans la lutte contre le réchauffement climatique (ensemble deux annexes), signé à Paris le 30 novembre 2022, sera publié au Journal officiel de la République française.
+
+## Article 2
+
+Le Premier ministre et le ministre de l'Europe et des affaires étrangères sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+
+## Annexe
+
+### Article
+
+ACCORD\
+SPÉCIFIQUE ENTRE LE GOUVERNEMENT DE LA RÉPUBLIQUE FRANÇAISE ET LE GOUVERNEMENT DE LA RÉPUBLIQUE DU KAZAKHSTAN RELATIF À LA MISE EN ŒUVRE DE LA COOPÉRATION DANS LA LUTTE CONTRE LE RÉCHAUFFEMENT CLIMATIQUE (ENSEMBLE DEUX ANNEXES), SIGNÉ À PARIS LE 30 NOVEMBRE 2022
+
+Le Gouvernement de la République française, d'une part,\
+et\
+Le Gouvernement de la République du Kazakhstan, d'autre part,\
+Ci-après dénommés les « Parties »,\
+Considérant :\
+Les liens traditionnels d'amitié et bonnes relations entre la République française et la République du Kazakhstan, concrétisés par divers accords et déclarations bilatéraux ;\
+Le Traité de partenariat stratégique entre la République française et la République du Kazakhstan du 11 juin 2008 (le « Traité de Partenariat stratégique ») fixant le cadre général du partenariat et de la coopération des Parties dans divers domaines et prévoyant l'adoption de mesures pour renforcer leur coopération, notamment en matière de sécurité énergétique et de sources d'énergies renouvelables ;\
+L'attachement de la République française et de la République du Kazakhstan et leur forte implication en faveur du développement durable, de la protection de l'environnement, de la lutte contre le réchauffement climatique et de la sécurité énergétique ;\
+Le souhait des Parties de consolider et approfondir leurs relations dans le domaine énergétique, de favoriser la diversification des sources d'énergie et de promouvoir et développer les énergies renouvelables, les technologies vertes innovantes, et leur usage efficace ;\
+La coopération étroite existant entre les entreprises françaises et kazakhstanaises dans de nombreux domaines, notamment les activités industrielles, l'énergie, l'environnement et l'innovation ainsi que les partenariats déjà créés et projets menés à bien dans ces domaines grâce à l'appui et au soutien des Parties ;\
+Les politiques publiques développées par la République française et ses initiatives réussies dans la promotion de sources d'énergies renouvelables et/ou non conventionnelles, ainsi que les projets, études, réglementations et technologies qui lui ont octroyé, ainsi qu'à ses entreprises, une reconnaissance internationale dans ce domaine ;\
+Les objectifs et politiques ambitieux de la République française et de la République du Kazakhstan en matière de lutte contre le réchauffement climatique, et notamment son objectif d'atteindre la neutralité carbone par le biais, notamment, de projets et transferts de technologies dans le domaine des énergies renouvelables ;\
+Le soutien de la République du Kazakhstan à toute forme de coopération, y compris les initiatives émanant d'entreprises spécialisées du secteur privé, dans le but d'encourager les énergies renouvelables, de renforcer l'équilibre énergétique national et la promotion de savoir-faire dans le secteur énergétique, et d'atteindre l'objectif de neutralité carbone qu'elle s'est fixée d'ici 2060 ;\
+Sont convenus de ce qui suit :
+
+Article 1<sup>er</sup>\
+Objet
+
+1. Le présent accord spécifique (l'« Accord spécifique ») a pour objet la mise en œuvre de la coopération entre les Parties en matière de lutte contre le réchauffement climatique par le biais de la promotion, le développement et l'implantation de grands projets dans le domaine des énergies renouvelables et du développement durable sur le territoire de la République du Kazakhstan.\
+2. L'Accord spécifique entend notamment promouvoir des projets à même de contribuer aux objectifs, priorités et engagements de chacune des Parties en matière de sécurité énergétique, de transition écologique et de réduction de ses émissions.
+
+Article 2\
+Champ d'application
+
+1. Le présent Accord spécifique s'applique aux projets en matière d'énergies renouvelables et technologies et innovations vertes permettant de produire et stocker de l'électricité.\
+2. Les Parties entendent appliquer le présent Accord spécifique aux grands projets mis en œuvre sur le territoire de la République du Kazakhstan (ci-après, le « Grand Projet »), sous réserve de leur acceptation par la République du Kazakhstan, à même de contribuer efficacement et significativement aux objectifs des Parties, tels que rappelés ci-dessus. En conséquence, le Grand Projet remplit les conditions cumulatives suivantes :
+
+- économie minimale de 2 millions de tonnes de CO2 par an ;\
+- production d'électricité à partir de sources renouvelables, en priorité à partir d'éolien terrestre ;\
+- capacité de production minimale de 1000 méga watts ;\
+- capacité de stockage d'énergie minimale de 300 méga watts et de 600 méga watt heures ;\
+- production et vente d'électricité à un prix déterminé pour le Grand Projet correspondant, conformément à l'annexe 1 du présent Accord spécifique qui contribue et est cohérent avec les capacités de stockage et les autres caractéristiques du Grand Projet concerné, afin d'optimiser la production et l'exploitation de l'électricité produite et de permettre de réduire le recours à des sources d'énergie non renouvelables ;\
+- durée d'achat d'électricité de 25 ans, de manière à contribuer à la stratégie des Parties pour atteindre la neutralité carbone, conformément aux objectifs du présent Accord spécifique ;\
+- contribution à l'indépendance énergétique de la République du Kazakhstan et à la stabilité de son réseau électrique national unifié ;\
+- contribution au développement de savoir-faire et compétences techniques de la République du Kazakhstan concernant la production et le stockage d'énergies renouvelables et la maîtrise des émissions carbone, par la mise en place de formations, séminaires, le transfert de technologies et solutions innovantes conformes aux objectifs du présent Accord spécifique ;\
+- contribution à la promotion et au développement, sur le territoire de la République du Kazakhstan, du tissu industriel et technologique et de savoir-faire en matière de lutte contre le réchauffement climatique et de décarbonation, notamment par la contribution aux Grands Projets d'opérateurs, prestataires et/ou composants d'origine nationale des Parties. La République française pourra, pour chaque Grand Projet et sous les conditions de l'article 6 du présent Accord spécifique, accorder une assurance-crédit export correspondant à une portion de la dette du Grand Projet. Cette portion sera dimensionnée en fonction du contenu local français éligible (la « Part française ») et qui ne sera pas inférieure à 50M EUR ;\
+- la part du contenu local kazakh (la « Part Kazakhe ») qui sera utilisée pour les besoins techniques de chaque Grand Projet devra être déterminée dans les Documents Grand Projet.\
+- développement du Grand Projet par un ou des acteurs du secteur (le « Développeur ») ayant :\
+- les capacités financières et techniques pour mener à bien le Grand Projet ;\
+- une expérience démontrée dans le développement, l'investissement, le financement et l'exploitation de projet(s) d'énergies renouvelables (i) sur le territoire de la République du Kazakhstan et (ii) utilisant des technologies de stockage d'énergie ;\
+- ainsi que du personnel qualifié sur le territoire de la République du Kazakhstan.
+
+Article 3\
+Mise en œuvre de l'Accord spécifique
+
+1. Les Parties favorisent le développement, l'implantation, la mise en œuvre et l'opération des Grands Projets sur le territoire de la République du Kazakhstan dans le domaine des énergies renouvelables et des technologies et innovations vertes par, notamment :
+
+- la coopération entre leurs autorités compétentes respectives ;\
+- la coopération de leurs secteurs privés respectifs ;\
+- le transfert de technologies nécessaires dans le domaine des énergies renouvelables et de leur stockage ;\
+- l'échange de savoir-faire et techniques en matière d'énergies renouvelables, production et stockage ;\
+- l'adoption par la République du Kazakhstan des mesures nécessaires et outils juridiques et économiques pour favoriser l'implantation de projets contribuant à la sécurité énergétique, au développement durable et à la lutte contre le réchauffement climatique global par l'imposition des termes clés applicables à la mise en œuvre des Grands Projets.
+
+2. L'identité des Développeurs et Grands Projets concernés figure en annexe du présent Accord spécifique (« Annexe 1 »).\
+3. Les deux Parties conviennent de la nécessité d'une concertation et d'une coordination régulières afin de garantir la mise en œuvre de l'Accord spécifique. Dans ce cadre, les Parties désignent les représentants dûment habilités à assurer cette concertation et coordination.
+
+Article 4\
+Cadre juridique des Grands Projets
+
+1. Les Parties s'assurent de la transparence des cadres juridiques et législatifs dans lesquels les Grands Projets seront réalisés.\
+2. La Partie, sur le territoire de laquelle le Grand Projet est réalisé, négocie et conclut avec le Développeur et, selon la situation, avec les autres participants au Grand Projet, les accords qui détermineront et mettront en œuvre les conditions d'un tel Grand Projet (les « Documents Grand Projet »). La République du Kazakhstan prévoit que, pour tout Grand Projet devant être exécuté sur le territoire de la République du Kazakhstan, les Documents Grand Projet comprennent les termes principaux énumérés en annexe 2 (les « Termes Principaux »).
+
+Article 5\
+Protection des populations et de l'environnement
+
+1. Tout Grand Projet est soumis aux études d'impact social et environnemental applicables conformément à la législation en vigueur qui doivent être réalisées sur le territoire de la République du Kazakhstan.\
+2. Les résultats de ces études sont publiés et/ou mis à disposition sur demande de toute Partie intéressée.
+
+Article 6\
+Garanties
+
+1. Afin d'œuvrer à la promotion et au développement de Grands Projets, la République française pourrait accorder des garanties et/ou toute autre forme de confort et soutien financier.\
+2. Lorsque la République française octroie une assurance-crédit export, celle-ci doit être conforme à l'Arrangement OCDE du 1<sup>er</sup> avril 1978 sur les crédits à l'exportation bénéficiant d'un soutien public, y compris son annexe IV sur le changement climatique, notamment en termes de prime d'assurance minimale et de maturité maximale. Toute l'assurance-crédit éventuellement octroyée par la République française doit aussi être conforme à la Convention de l'OCDE sur la lutte contre la corruption d'agents publics étrangers dans les transactions commerciales internationales du 17 décembre 1997, et les Approches communes pour les crédits à l'exportation bénéficiant d'un soutien public et le devoir de diligence environnementale et sociale du 28 juin 2012.
+
+Article 7\
+Règlement des différends
+
+Les différends résultant de l'interprétation et/ou de l'application du présent Accord spécifique sont réglés à l'amiable par voie de consultation bilatérale ou de négociation entre les Parties.
+
+Article 8\
+Portée et effets de l'Accord spécifique
+
+1. Le présent Accord spécifique s'inscrit dans le cadre du Traité de Partenariat stratégique conclu entre les Parties, par lequel les Parties se sont engagées à coopérer pour la sécurité énergétique et à développer leur coopération économique dans ce domaine.\
+2. L'Accord spécifique est conçu comme un accord spécifique conclu sous l'égide du Traité de Partenariat stratégique pour soutenir les Grands Projets en matière d'énergies renouvelables, ainsi, en particulier :
+
+- il s'applique sans préjudice, et n'entend pas amender ou modifier en quelque aspect que ce soit le Traité de Partenariat stratégique ;\
+- il n'entend pas régir tous les aspects de la coopération des Parties en matière énergétique et/ou de développement durable, les Parties se réservent le droit de conclure tout autre accord de coopération ; et\
+- il s'applique sans préjudice, et n'abroge pas et ne remplace pas, l'application de tout autre accord international ou convention en vigueur entre les Parties.
+
+Article 9\
+Entrée en vigueur, amendement, durée
+
+1. Le présent Accord spécifique entre en vigueur à la date de réception, par les voies diplomatiques, de la dernière notification écrite concernant l'aboutissement par les Parties des procédures nationales requises pour l'entrée en vigueur du présent Accord spécifique.\
+2. Le présent Accord spécifique est conclu pour une durée indéterminée et prend fin à l'expiration d'un délai de trente (30) jours à compter de la date de réception par l'une des Parties d'une notification écrite de l'autre Partie, par voie diplomatique, de son intention d'y mettre fin.\
+3. Des amendements ou modifications peuvent être apportés au présent Accord spécifique par accord mutuel des Parties, lesquels en feront partie intégrante, seront formalisés par protocole séparé, et entreront en vigueur conformément au paragraphe 1 du présent article.
+
+Fait à Paris (France) le 30 novembre 2022, en deux exemplaires originaux, chacun en langues kazakhe, française, russe, les textes kazakh, français et russe faisant également foi.
+
+Pour le Gouvernement de la République française\
+Olivier BECHT\
+Ministre délégué auprès du ministre de l'Europe et des affaires étrangères,chargé du commerce extérieur, de l'attractivité et des Français de l'étranger
+
+Pour le Gouvernement de la République du Kazakhstan\
+Boulat AKCHOULAKOV\
+Ministre de l'énergie
+
+## Annexe
+
+### Article
+
+ANNEXE 1
+
+Liste des Grands Projets sélectionnés au titre de l'Accord spécifique entre le Gouvernement de la République française et le Gouvernement de la République du Kazakhstan relatif à la mise en œuvre de la coopération dans le domaine de la lutte contre le réchauffement climatique.\
+La présente annexe est établie conformément aux articles 2 et 3 de l'Accord spécifique et liste les Grands Projets, et leurs Développeurs, qui ont été sélectionnés par les Parties et auxquels l'Accord spécifique et ses annexes s'appliquent.\
+1. Projet Mirny\
+Le Projet Mirny de mise en œuvre, développement, construction et exploitation d'une centrale électrique hybride utilisant l'énergie éolienne pour une capacité totale de 1GW et un système de stockage d'une capacité minimale de 300 mégawatts / 600 mégawatts-heure à proximité du village de Mirny, dans la région du Zhambyl au Kazakhstan, ayant son point de raccordement au réseau électrique à la sous-station UKGRES 500kV à proximité du village de Ulken, avec, la société française Total Eren en tant que Développeur et les deux sociétés kazakhstanaises « Samruk-Kazyna » JSC, and « NC KazMunayGas » JSC, ou leurs sociétés affiliées en tant que co-Développeurs, dans le cadre d'un véhicule ad hoc en cours de création en vertu de la législation kazakhe, qui mettra en œuvre le Projet Mirny.\
+Conformément aux objectifs et critères énoncés à l'article 2 de l'Accord spécifique, le projet produira de l'électricité, qu'il vendra au Centre de Règlement et Financier pour le soutien des sources d'énergie renouvelables LLP, défini conformément à la Loi de la République du Kazakhstan n° 165-IV du 4 juillet 2009 « Du soutien à l'utilisation des sources d'énergie renouvelables » (FSC), à un prix indicatif égal à 0,0425 USD par kWh dont 0,03075 USD par kWh pour la partie éolienne, 0,0097 USD par kWh pour le système de stockage d'énergie et 0,00205 USD par kWh pour les coûts de connexions, pendant 25 ans, ce qui sera possible grâce à l'utilisation de technologies de pointe dans le domaine de la production d'énergie éolienne et du stockage de l'électricité.\
+Dans le même temps, le prix final de l'électricité pour le projet Mirny doit être déterminé par les Parties avant la ratification du présent Accord spécifique, en tenant compte des résultats des enchères de 2022 reçues dans la République du Kazakhstan.
+
+## Annexe
+
+### Article
+
+ANNEXE 2
+
+Les Parties reconnaissent que le cadre juridique applicable aux Grands Projets est la clé de la réussite de la mise en œuvre des Grands Projets dans le but d'apporter une contribution significative aux objectifs des Parties concernant le développement des énergies renouvelables et la lutte contre le changement climatique.\
+La République du Kazakhstan stipule les termes principaux qui devront être inclus dans les Documents Grand Projet conformément à l'article 4 de l'Accord spécifique.\
+I. TERMES PRINCIPAUX DES GRANDS PROJETS\
+1. ACHETEUR\
+1.1. Considérant les spécificités techniques du Grand Projet, le Centre de Règlement financier des Énergies Renouvelables est désigné en tant qu'acheteur (ci-après, le « FSC » ou « l'Acheteur ») conformément à la Loi de la République du Kazakhstan n° 165-IV du 4 juillet 2009 « Du soutien à l'utilisation des sources d'énergie renouvelables » qui achète l'énergie électrique produite par la centrale électrique au prix, dans les volumes et pour la durée convenus par les Parties et détaillés à l'annexe 1 de l'Accord spécifique. Le contrat d'achat d'énergie nécessaire à la réalisation des Grand Projet sera conclu sans avoir à passer par des appels d'offres en matière d'énergie renouvelable ou par toute autre procédure d'enchères.\
+2. DOCUMENTS GRAND PROJET\
+2.1. Les Documents Grand Projet incluent l'accord d'investissement et le contrat d'achat d'énergie (ci-après dénommé « CAE »), ainsi que les autres documents dont la liste sera convenue entre les Parties.\
+2.2 Les Documents Grand Projet incluent toutes les dispositions nécessaires pour contribuer à la réduction des émissions de carbone par l'utilisation de technologies de haute qualité en matière d'énergie renouvelable et de stockage de l'électricité.\
+2.3. L'accord d'investissement est conclu conformément à la législation de la République du Kazakhstan et aux dispositions du présent Accord spécifique. La forme du CAE sera prévue par l'accord d'investissement. Le CAE établi en la forme conforme aux dispositions du présent alinéa est conclu conformément à la législation de la République du Kazakhstan, s'agissant des dispositions impératives existantes [dans ce droit], et à la législation de l'Angleterre et du Pays de Galles pour ce qui concerne toute autre disposition non expressément réglementée par la législation de la République du Kazakhstan.\
+2.4. Les Parties au Grand Projet doivent conclure un accord d'investissement avec le Gouvernement de la République du Kazakhstan ainsi que le CAE, ce dernier tenant compte des dispositions de la législation de la République du Kazakhstan en vigueur à la date de signature de l'Accord spécifique, des meilleures pratiques internationales et des exigences des institutions financières en matière de financement de projets.\
+2.5. Les différends découlant des Grands Projets seront soumis à l'une des institutions internationales d'arbitrage suivantes (CCI, LCIA et/ou CIRDI) avec le siège d'arbitrage à Londres.\
+2.6. Les Documents Grand Projet incluront les dispositions suivantes :
+
+- des dispositions fournissant aux créanciers une obligation de paiement concernant la stabilité financière et la solvabilité du FSC, y compris les obligations de paiement du FSC au titre du CAE ; et\
+- des dispositions relatives à l'indemnisation par la République du Kazakhstan de tous les montants liés à la résiliation d'un Grand Projet pour des raisons attribuées, d'un commun accord des Parties, à des violations des obligations de la République du Kazakhstan telles que définies dans les Documents Grand Projet ; et\
+- toute autre obligation relative au soutien du Grand Projet par la République du Kazakhstan telle que prévue dans l'accord d'investissement.
+
+2.7 En tenant compte des aspects techniques, économiques et financiers [du Grand Projet], et en respectant l'équilibre économique des intérêts entre les Parties au Grand Projet et les Parties aux Documents Grand Projet, les Parties aux Documents Grand Projet considéreront la possibilité d'établir les conditions suivantes :
+
+- la participation du Grand Projet au marché d'équilibrage de l'électricité en temps réel, conformément à la législation de la République du Kazakhstan applicable aux installations d'énergie renouvelable ;\
+- l'achat et la vente d'électricité devant être fournie par le Grand Projet, conformément à la législation de la République du Kazakhstan et à la pratique internationale.
+
+3. CONTRATS D'ACHAT D'ÉLECTRICITÉ\
+3.1. Pour la conclusion du CAE, le FSC est exempté de toute procédure d'autorisation et d'approbation du CAE prévues par la législation kazakhe, sauf en ce qui concerne les obligations de mener les procédures sociales obligatoires et d'obtenir le décret du Gouvernement de la République du Kazakhstan approuvant l'accord d'investissement pertinent.\
+3.2. Le FSC achètera l'électricité dans le cadre des Grands Projets conformément aux termes et conditions du CAE et de l'accord d'investissement.\
+4. PAIEMENTS ET DEVISES\
+4.1. Le tarif approuvé pour un Grand Projet est libellé dans une devise étrangère.\
+4.2. Tous les paiements au titre des Documents Grand Projet seront effectués en tenge au taux de change en vigueur à la date du paiement.\
+4.3. Les Parties aux Grands Projets s'engagent à respecter toutes les exigences de la législation monétaire de la République du Kazakhstan, sous réserve des dispositions suivantes :\
+i. Les Parties aux Grands Projets disposeront d'un droit illimité de changer des devises.\
+ii. Les Parties aux Grands Projets ont le droit, sans restriction, d'honorer les obligations en devises découlant des Documents Grand Projet, ainsi que de recevoir des dividendes en devises étrangères.\
+5. ÉTUDES DE FAISABILITÉ ET DOCUMENTS DE CONCEPTION\
+5.1. La République du Kazakhstan apportera sa pleine assistance en ce qui concerne les procédures d'expertise et la délivrance de tous les permis et approbations nécessaires pour la réalisation des Grands Projets dans les temps.\
+6. FONCIER\
+6.1. Les Parties à un Grand Projet se voient attribuer des droits de jouissance foncière sur les terrains nécessaires aux Grands Projets et acceptables pour les Développeurs directement par les autorités nationales compétentes, sans appel d'offres (enchères).\
+7. RÉDUCTION, INTERRUPTION ET MAINTENANCE DU RÉSEAU\
+7.1. Dans le but de renforcer la production et l'utilisation d'énergies renouvelables dans le réseau afin de réduire de manière effective la dépendance vis-à-vis des sources d'énergie non renouvelables, la République du Kazakhstan autorise et prendra toutes les mesures nécessaires pour :\
+7.1.1. diminuer l'influence, sur les Grands Projets, de la période d'élimination des accidents dans le système électrique unifié de la République du Kazakhstan, conduisant à la déconnexion des Grands Projets du réseau ;\
+7.1.2. empêcher une déconnexion par l'opérateur du système des Grands Projets du réseau pour quelque raison que ce soit, à l'exception des cas d'urgence dans le système électrique unifié de la République du Kazakhstan et des travaux de maintenance programmés ou de réparation d'urgence ; et\
+7.1.3. considérer le transfert, au bilan du gestionnaire de réseau, de l'infrastructure (partie des lignes électriques), qui fait partie du raccordement des Grands Projets au réseau, si le gestionnaire de réseau commence à utiliser l'infrastructure pour le transport de l'électricité produite par d'autres entités générant de l'électricité qui ne participent pas au Grand Projet et n'y sont pas liés.\
+7.2. Les Parties aux Documents Grand Projet examineront la possibilité de définir les conditions d'application et de gestion du système de stockage d'énergie par le gestionnaire de réseau.\
+8. STATUT PRÉFÉRENTIEL\
+8.1. Compte tenu de l'importance et du rôle que doivent jouer le Grand Projet dans la lutte contre le changement climatique et des avantages qu'ils présentent pour la République du Kazakhstan, un accord d'investissement d'une durée maximale de 25 ans est conclu pour la réalisation du Grand Projet.\
+8.2. Les Parties à un Grand Projet réalisé sur le territoire de la République du Kazakhstan paieront des impôts conformément à la législation de la République du Kazakhstan. Toutefois, conformément à la législation douanière de l'Union économique eurasienne et à la législation douanière de la République du Kazakhstan, l'importation sur le territoire de la République du Kazakhstan des équipements technologiques, des composants et des pièces détachées nécessaires au Grand Projet est exonérée de droits de douane.\
+8.3. L'accord d'investissements et les autres accords prévoyant des avantages en matière d'investissement seront conclus indépendamment de la composition et des parts des participants dans la société de projet réalisant le Grand Projet. Toutefois les Parties aux Grands Projets ne peuvent demander de préférences d'investissement sous la forme d'exonérations fiscales dans le cadre de l'accord d'investissement.\
+9. COMPENSATION\
+9.1. L'utilisation et la vente des crédits carbone générés par les Grands Projets doivent être conformes aux lois de la République du Kazakhstan.\
+10. AUTRES TERMES\
+10.1. La République du Kazakhstan et toutes les Parties aux Documents Grand Projet qui sont affiliées à la République du Kazakhstan sont tenues de respecter et exécuter toutes les décisions finales prévues dans le cadre des mécanismes de règlement des différends dans les Documents Grand Projet.\
+Les Parties aux Documents Grand Projet s'engagent, dans les Documents Grand Projet, à ne soulever aucune objection à la reconnaissance, à exécution et/ou à la signature de la sentence définitive, sauf pour les motifs de refus de reconnaissance et d'exécution prévus par la Convention pour la reconnaissance et l'exécution des sentences arbitrales étrangères signée à New York le 10 juin 1958 (Convention de New York) et/ou toute autre règle applicable.\
+10.2. Les dispositions du présent Accord spécifique ne s'appliquent pas à la Banque nationale de la République du Kazakhstan qui n'est pas Partie au présent Accord spécifique. Aucune disposition du présent Accord spécifique ne peut être interprétée comme une levée de toute immunité à l'égard de biens appartenant à la Banque nationale de la République du Kazakhstan en vertu d'un droit de propriété (et/ou d'un autre droit) et/ou de biens détenus en fiducie par la Banque nationale de la République du Kazakhstan.
+
+---
+
+Fait le 24 juillet 2026.
+
+Emmanuel MACRON
+
+Par le Président de la République :
+
+Le Premier ministre,
+
+Sébastien LECORNU
+
+Le ministre de l'Europe et des affaires étrangères,
+
+Jean-Noël BARROT
+
+*\
+(1) Entrée en vigueur : 16 mars 2026.\
+*
